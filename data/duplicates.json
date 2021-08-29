@@ -1,0 +1,1210 @@
+{
+    "152": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "要",
+        "traditional": "要",
+        "pinyin": "yào",
+        "meaning": "to want; to need; will/shall; important"
+    },
+    "153": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "要",
+        "traditional": "要",
+        "pinyin": "yāo",
+        "meaning": "to demand something"
+    },
+    "155": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "吧",
+        "traditional": "吧",
+        "pinyin": "ba",
+        "meaning": "right?"
+    },
+    "156": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "吧",
+        "traditional": "吧",
+        "pinyin": "bā",
+        "meaning": "bar, pub"
+    },
+    "160": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "还",
+        "traditional": "還",
+        "pinyin": "hái",
+        "meaning": "still, yet"
+    },
+    "161": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "还",
+        "traditional": "還",
+        "pinyin": "huán",
+        "meaning": "to return something"
+    },
+    "163": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "给",
+        "traditional": "給",
+        "pinyin": "gěi",
+        "meaning": "to give"
+    },
+    "164": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "给",
+        "traditional": "給",
+        "pinyin": "jǐ",
+        "meaning": "provide"
+    },
+    "166": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "得",
+        "traditional": "得",
+        "pinyin": "dé",
+        "meaning": "to obtain"
+    },
+    "167": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "得",
+        "traditional": "得",
+        "pinyin": "děi",
+        "meaning": "must"
+    },
+    "168": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "得",
+        "traditional": "得",
+        "pinyin": "de",
+        "meaning": "[complement particle]"
+    },
+    "170": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "着",
+        "traditional": "著",
+        "pinyin": "zhe",
+        "meaning": "to be 〜 ing [progressive tense]"
+    },
+    "171": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "着",
+        "traditional": "著",
+        "pinyin": "zháo",
+        "meaning": "to touch"
+    },
+    "172": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "着",
+        "traditional": "著",
+        "pinyin": "zhuó",
+        "meaning": "to wear"
+    },
+    "174": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "别",
+        "traditional": "別",
+        "pinyin": "bié",
+        "meaning": "don't 〜 [negative imperative]"
+    },
+    "175": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "别",
+        "traditional": "別",
+        "pinyin": "biè",
+        "meaning": ""
+    },
+    "219": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "长",
+        "traditional": "長",
+        "pinyin": "cháng",
+        "meaning": "long; length"
+    },
+    "220": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "长",
+        "traditional": "長",
+        "pinyin": "zhǎng",
+        "meaning": "to grow"
+    },
+    "266": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "白",
+        "traditional": "白",
+        "pinyin": "bái",
+        "meaning": "white"
+    },
+    "267": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "白",
+        "traditional": "白",
+        "pinyin": "bó",
+        "meaning": ""
+    },
+    "271": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "累",
+        "traditional": "累",
+        "pinyin": "lèi",
+        "meaning": "tired"
+    },
+    "272": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "累",
+        "traditional": "累",
+        "pinyin": "lěi",
+        "meaning": "to accumulate"
+    },
+    "273": {
+        "hsk": 2,
+        "duplicate": true,
+        "simplified": "累",
+        "traditional": "累",
+        "pinyin": "léi",
+        "meaning": "to tie together"
+    },
+    "315": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "啊",
+        "traditional": "啊",
+        "pinyin": "ā",
+        "meaning": ""
+    },
+    "316": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "啊",
+        "traditional": "啊",
+        "pinyin": "á",
+        "meaning": ""
+    },
+    "317": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "啊",
+        "traditional": "啊",
+        "pinyin": "ǎ",
+        "meaning": ""
+    },
+    "318": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "啊",
+        "traditional": "啊",
+        "pinyin": "à",
+        "meaning": ""
+    },
+    "319": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "啊",
+        "traditional": "啊",
+        "pinyin": "a",
+        "meaning": "ah [interjection]"
+    },
+    "320": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "还",
+        "traditional": "還",
+        "pinyin": "hái",
+        "meaning": ""
+    },
+    "321": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "还",
+        "traditional": "還",
+        "pinyin": "huán",
+        "meaning": ""
+    },
+    "322": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "把",
+        "traditional": "把",
+        "pinyin": "bǎ",
+        "meaning": "to hold"
+    },
+    "323": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "把",
+        "traditional": "把",
+        "pinyin": "bà",
+        "meaning": ""
+    },
+    "326": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "只",
+        "traditional": "隻",
+        "pinyin": "zhǐ",
+        "meaning": "only, merely"
+    },
+    "327": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "只",
+        "traditional": "隻",
+        "pinyin": "zhī",
+        "meaning": "number of animals [counter word]"
+    },
+    "333": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "为",
+        "traditional": "為",
+        "pinyin": "wéi",
+        "meaning": "become"
+    },
+    "334": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "为",
+        "traditional": "為",
+        "pinyin": "wèi",
+        "meaning": "in order to; because of"
+    },
+    "341": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "更",
+        "traditional": "更",
+        "pinyin": "gèng",
+        "meaning": "(even) more"
+    },
+    "342": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "更",
+        "traditional": "更",
+        "pinyin": "gēng",
+        "meaning": "to change"
+    },
+    "351": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "地",
+        "traditional": "地",
+        "pinyin": "dì",
+        "meaning": "the ground"
+    },
+    "352": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "地",
+        "traditional": "地",
+        "pinyin": "de",
+        "meaning": "〜ly [adverbial particle]"
+    },
+    "357": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "发",
+        "traditional": "發",
+        "pinyin": "fā",
+        "meaning": "to send"
+    },
+    "358": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "发",
+        "traditional": "發",
+        "pinyin": "fà",
+        "meaning": "hair"
+    },
+    "368": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "种",
+        "traditional": "種",
+        "pinyin": "zhǒng",
+        "meaning": "type of; seed"
+    },
+    "369": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "种",
+        "traditional": "種",
+        "pinyin": "zhòng",
+        "meaning": "to plant something"
+    },
+    "378": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "长",
+        "traditional": "長",
+        "pinyin": "cháng",
+        "meaning": ""
+    },
+    "379": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "长",
+        "traditional": "長",
+        "pinyin": "zhǎng",
+        "meaning": ""
+    },
+    "393": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "难",
+        "traditional": "難",
+        "pinyin": "nán",
+        "meaning": "difficult"
+    },
+    "394": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "难",
+        "traditional": "難",
+        "pinyin": "nàn",
+        "meaning": "trouble; to blame"
+    },
+    "438": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "分",
+        "traditional": "分",
+        "pinyin": "fēn",
+        "meaning": "to divide; a minute [time]"
+    },
+    "439": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "分",
+        "traditional": "分",
+        "pinyin": "fèn",
+        "meaning": "a part of something"
+    },
+    "445": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "教",
+        "traditional": "教",
+        "pinyin": "jiāo",
+        "meaning": "teach"
+    },
+    "446": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "教",
+        "traditional": "教",
+        "pinyin": "jiào",
+        "meaning": "religion"
+    },
+    "486": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "差",
+        "traditional": "差",
+        "pinyin": "chà",
+        "meaning": "to differ"
+    },
+    "487": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "差",
+        "traditional": "差",
+        "pinyin": "chā",
+        "meaning": "difference"
+    },
+    "488": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "差",
+        "traditional": "差",
+        "pinyin": "chāi",
+        "meaning": ""
+    },
+    "489": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "差",
+        "traditional": "差",
+        "pinyin": "cī",
+        "meaning": ""
+    },
+    "542": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "角",
+        "traditional": "角",
+        "pinyin": "jiǎo",
+        "meaning": "corner, angle"
+    },
+    "543": {
+        "hsk": 3,
+        "duplicate": true,
+        "simplified": "角",
+        "traditional": "角",
+        "pinyin": "jué",
+        "meaning": ""
+    },
+    "635": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "得",
+        "traditional": "得",
+        "pinyin": "dé",
+        "meaning": ""
+    },
+    "636": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "得",
+        "traditional": "得",
+        "pinyin": "děi",
+        "meaning": ""
+    },
+    "637": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "得",
+        "traditional": "得",
+        "pinyin": "de",
+        "meaning": ""
+    },
+    "639": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "干",
+        "traditional": "干",
+        "pinyin": "gàn",
+        "meaning": ""
+    },
+    "640": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "干",
+        "traditional": "干",
+        "pinyin": "gān",
+        "meaning": "dry"
+    },
+    "643": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "当",
+        "traditional": "當",
+        "pinyin": "dāng",
+        "meaning": "to serve as"
+    },
+    "644": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "当",
+        "traditional": "當",
+        "pinyin": "dàng",
+        "meaning": "appropriate"
+    },
+    "647": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "行",
+        "traditional": "行",
+        "pinyin": "xíng",
+        "meaning": "walk; be current; do; will do; okay | row; place; a firm (Kangxi radical 144)"
+    },
+    "648": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "行",
+        "traditional": "行",
+        "pinyin": "háng",
+        "meaning": "walk; be current; do; will do; okay | row; place; a firm (Kangxi radical 144)"
+    },
+    "663": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "与",
+        "traditional": "與",
+        "pinyin": "yǔ",
+        "meaning": "(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
+    },
+    "664": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "与",
+        "traditional": "與",
+        "pinyin": "yù",
+        "meaning": "(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
+    },
+    "665": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "与",
+        "traditional": "與",
+        "pinyin": "yú",
+        "meaning": "(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
+    },
+    "666": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "弄",
+        "traditional": "弄",
+        "pinyin": "nòng",
+        "meaning": "do; manage; to handle; make | lane; alley"
+    },
+    "667": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "弄",
+        "traditional": "弄",
+        "pinyin": "lòng",
+        "meaning": "do; manage; to handle; make | lane; alley"
+    },
+    "677": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "场",
+        "traditional": "場",
+        "pinyin": "chǎng",
+        "meaning": "courtyard; place; field; (mw for games, performances, etc.) | threshing floor"
+    },
+    "678": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "场",
+        "traditional": "場",
+        "pinyin": "cháng",
+        "meaning": "courtyard; place; field; (mw for games, performances, etc.) | threshing floor"
+    },
+    "680": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "呀",
+        "traditional": "呀",
+        "pinyin": "ya",
+        "meaning": "ah; oh; (used for 啊 after words ending with a, e, i, o, or ü)"
+    },
+    "681": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "呀",
+        "traditional": "呀",
+        "pinyin": "yā",
+        "meaning": "ah; oh; (used for 啊 after words ending with a, e, i, o, or ü)"
+    },
+    "692": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "俩",
+        "traditional": "倆",
+        "pinyin": "liǎ",
+        "meaning": "(colloquial) two (people)"
+    },
+    "693": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "俩",
+        "traditional": "倆",
+        "pinyin": "liǎng",
+        "meaning": "(colloquial) two (people)"
+    },
+    "700": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "拉",
+        "traditional": "拉",
+        "pinyin": "lā",
+        "meaning": "to pull; to play (string instruments); to drag | to slash; to chat"
+    },
+    "701": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "拉",
+        "traditional": "拉",
+        "pinyin": "lá",
+        "meaning": "to pull; to play (string instruments); to drag | to slash; to chat"
+    },
+    "734": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "倒",
+        "traditional": "倒",
+        "pinyin": "dǎo",
+        "meaning": "to collapse; to fall; fail; to exchange | to pour; contrary to expectations"
+    },
+    "735": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "倒",
+        "traditional": "倒",
+        "pinyin": "dào",
+        "meaning": "to collapse; to fall; fail; to exchange | to pour; contrary to expectations"
+    },
+    "751": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "重",
+        "traditional": "重",
+        "pinyin": "zhòng",
+        "meaning": "heavy; serious; important | repeat; again; overlap"
+    },
+    "752": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "重",
+        "traditional": "重",
+        "pinyin": "chóng",
+        "meaning": "heavy; serious; important | repeat; again; overlap"
+    },
+    "755": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "转",
+        "traditional": "轉",
+        "pinyin": "zhuǎn",
+        "meaning": "to turn; to change; pass on | revolve; rotate"
+    },
+    "756": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "转",
+        "traditional": "轉",
+        "pinyin": "zhuàn",
+        "meaning": "to turn; to change; pass on | revolve; rotate"
+    },
+    "809": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "假",
+        "traditional": "假",
+        "pinyin": "jiǎ",
+        "meaning": "fake; if; borrow | vacation; holiday"
+    },
+    "810": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "假",
+        "traditional": "假",
+        "pinyin": "jià",
+        "meaning": "fake; if; borrow | vacation; holiday"
+    },
+    "883": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "空",
+        "traditional": "空",
+        "pinyin": "kōng",
+        "meaning": "empty; sky | leave blank; leisure"
+    },
+    "884": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "空",
+        "traditional": "空",
+        "pinyin": "kòng",
+        "meaning": "empty; sky | leave blank; leisure"
+    },
+    "905": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "赚",
+        "traditional": "賺",
+        "pinyin": "zhuàn",
+        "meaning": "earn; make a profit | to cheat; to swindle"
+    },
+    "906": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "赚",
+        "traditional": "賺",
+        "pinyin": "zuàn",
+        "meaning": "earn; make a profit | to cheat; to swindle"
+    },
+    "960": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "趟",
+        "traditional": "趟",
+        "pinyin": "tàng",
+        "meaning": "(mw for trips times) | to wade"
+    },
+    "961": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "趟",
+        "traditional": "趟",
+        "pinyin": "tāng",
+        "meaning": "(mw for trips times) | to wade"
+    },
+    "971": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "脏",
+        "traditional": "臟",
+        "pinyin": "zāng",
+        "meaning": "filthy; dirty | internal organs; viscera"
+    },
+    "972": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "脏",
+        "traditional": "臟",
+        "pinyin": "zàng",
+        "meaning": "filthy; dirty | internal organs; viscera"
+    },
+    "982": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "省",
+        "traditional": "省",
+        "pinyin": "shěng",
+        "meaning": "to save; economize; omit; province | examine oneself; to visit; be aware"
+    },
+    "983": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "省",
+        "traditional": "省",
+        "pinyin": "xǐng",
+        "meaning": "to save; economize; omit; province | examine oneself; to visit; be aware"
+    },
+    "1112": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "汗",
+        "traditional": "汗",
+        "pinyin": "hàn",
+        "meaning": "sweat; perspiration; Khan"
+    },
+    "1113": {
+        "hsk": 4,
+        "duplicate": true,
+        "simplified": "汗",
+        "traditional": "汗",
+        "pinyin": "hán",
+        "meaning": "sweat; perspiration; Khan"
+    },
+    "1257": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "嗯",
+        "traditional": "嗯",
+        "pinyin": "ēn",
+        "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
+    },
+    "1258": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "嗯",
+        "traditional": "嗯",
+        "pinyin": "én",
+        "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
+    },
+    "1259": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "嗯",
+        "traditional": "嗯",
+        "pinyin": "ěn",
+        "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
+    },
+    "1260": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "嗯",
+        "traditional": "嗯",
+        "pinyin": "èn",
+        "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
+    },
+    "1261": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "嗯",
+        "traditional": "嗯",
+        "pinyin": "en",
+        "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
+    },
+    "1264": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "正",
+        "traditional": "正",
+        "pinyin": "zhèng",
+        "meaning": "straight; currently; correct; just (right); pure; precisely | first lunar month"
+    },
+    "1265": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "正",
+        "traditional": "正",
+        "pinyin": "zhēng",
+        "meaning": "straight; currently; correct; just (right); pure; precisely | first lunar month"
+    },
+    "1308": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "血",
+        "traditional": "血",
+        "pinyin": "xuè",
+        "meaning": "blood (Kangxi radical 143)"
+    },
+    "1309": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "血",
+        "traditional": "血",
+        "pinyin": "xiě",
+        "meaning": "blood (Kangxi radical 143)"
+    },
+    "1314": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "片",
+        "traditional": "片",
+        "pinyin": "piàn",
+        "meaning": "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo"
+    },
+    "1315": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "片",
+        "traditional": "片",
+        "pinyin": "piān",
+        "meaning": "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo"
+    },
+    "1328": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "系",
+        "traditional": "系",
+        "pinyin": "xì",
+        "meaning": "be; relate to; system; fasten; department; faculty; connect | to tie"
+    },
+    "1329": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "系",
+        "traditional": "系",
+        "pinyin": "jì",
+        "meaning": "be; relate to; system; fasten; department; faculty; connect | to tie"
+    },
+    "1334": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "冲",
+        "traditional": "沖",
+        "pinyin": "chōng",
+        "meaning": "to rush; to clash; to rinse; thoroughfare | vigorously; bluntly; pungent; toward"
+    },
+    "1335": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "冲",
+        "traditional": "沖",
+        "pinyin": "chòng",
+        "meaning": "to rush; to clash; to rinse; thoroughfare | vigorously; bluntly; pungent; toward"
+    },
+    "1355": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "吓",
+        "traditional": "嚇",
+        "pinyin": "xià",
+        "meaning": "frighten; to scare; intimidate"
+    },
+    "1356": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "吓",
+        "traditional": "嚇",
+        "pinyin": "hè",
+        "meaning": "frighten; to scare; intimidate"
+    },
+    "1406": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "数",
+        "traditional": "數",
+        "pinyin": "shù",
+        "meaning": "number | to count; to rank | frequently; repeatedly"
+    },
+    "1407": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "数",
+        "traditional": "數",
+        "pinyin": "shǔ",
+        "meaning": "number | to count; to rank | frequently; repeatedly"
+    },
+    "1408": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "数",
+        "traditional": "數",
+        "pinyin": "shuò",
+        "meaning": "number | to count; to rank | frequently; repeatedly"
+    },
+    "1425": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "臭",
+        "traditional": "臭",
+        "pinyin": "chòu",
+        "meaning": "stench; stink | scent; odor"
+    },
+    "1426": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "臭",
+        "traditional": "臭",
+        "pinyin": "xiù",
+        "meaning": "stench; stink | scent; odor"
+    },
+    "1430": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "朝",
+        "traditional": "朝",
+        "pinyin": "cháo",
+        "meaning": "to face; towards; dynasty | morning; day"
+    },
+    "1431": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "朝",
+        "traditional": "朝",
+        "pinyin": "zhāo",
+        "meaning": "to face; towards; dynasty | morning; day"
+    },
+    "1438": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "便",
+        "traditional": "便",
+        "pinyin": "biàn",
+        "meaning": "plain; convenient; excretion; formal equivalent to 就 | cheap"
+    },
+    "1439": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "便",
+        "traditional": "便",
+        "pinyin": "pián",
+        "meaning": "plain; convenient; excretion; formal equivalent to 就 | cheap"
+    },
+    "1454": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "抢",
+        "traditional": "搶",
+        "pinyin": "qiǎng",
+        "meaning": "fight over; vie for; grab; rush | bump against"
+    },
+    "1455": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "抢",
+        "traditional": "搶",
+        "pinyin": "qiāng",
+        "meaning": "fight over; vie for; grab; rush | bump against"
+    },
+    "1462": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "圈",
+        "traditional": "圈",
+        "pinyin": "quān",
+        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up"
+    },
+    "1463": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "圈",
+        "traditional": "圈",
+        "pinyin": "juàn",
+        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up"
+    },
+    "1464": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "圈",
+        "traditional": "圈",
+        "pinyin": "juān",
+        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up"
+    },
+    "1479": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "背",
+        "traditional": "背",
+        "pinyin": "bēi",
+        "meaning": "carry on one's back; to bear | back; have one's back to; leave; recite"
+    },
+    "1480": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "背",
+        "traditional": "背",
+        "pinyin": "bèi",
+        "meaning": "carry on one's back; to bear | back; have one's back to; leave; recite"
+    },
+    "1493": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "吐",
+        "traditional": "吐",
+        "pinyin": "tǔ",
+        "meaning": "to spit | to vomit; throw up"
+    },
+    "1494": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "吐",
+        "traditional": "吐",
+        "pinyin": "tù",
+        "meaning": "to spit | to vomit; throw up"
+    },
+    "1523": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "切",
+        "traditional": "切",
+        "pinyin": "qiē",
+        "meaning": "to cut; to chop | correspond to; absolutely; ardently"
+    },
+    "1524": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "切",
+        "traditional": "切",
+        "pinyin": "qiè",
+        "meaning": "to cut; to chop | correspond to; absolutely; ardently"
+    },
+    "1570": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "称",
+        "traditional": "稱",
+        "pinyin": "chēng",
+        "meaning": "weigh; to call; be called | appropriate"
+    },
+    "1571": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "称",
+        "traditional": "稱",
+        "pinyin": "chèn",
+        "meaning": "weigh; to call; be called | appropriate"
+    },
+    "1699": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "晕",
+        "traditional": "暈",
+        "pinyin": "yūn",
+        "meaning": "dizzy; to faint | giddy; halo"
+    },
+    "1700": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "晕",
+        "traditional": "暈",
+        "pinyin": "yùn",
+        "meaning": "dizzy; to faint | giddy; halo"
+    },
+    "1727": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "挡",
+        "traditional": "擋",
+        "pinyin": "dǎng",
+        "meaning": "to block; hinder; gear; equipment | arrange; put in order"
+    },
+    "1728": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "挡",
+        "traditional": "擋",
+        "pinyin": "dàng",
+        "meaning": "to block; hinder; gear; equipment | arrange; put in order"
+    },
+    "1763": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "划",
+        "traditional": "劃",
+        "pinyin": "huà",
+        "meaning": "delimit; to transfer; assign | to row; to paddle; to scratch"
+    },
+    "1764": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "划",
+        "traditional": "劃",
+        "pinyin": "huá",
+        "meaning": "delimit; to transfer; assign | to row; to paddle; to scratch"
+    },
+    "1767": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "占",
+        "traditional": "佔",
+        "pinyin": "zhàn",
+        "meaning": "occupy; seize; to constitute | to divine; fortune telling"
+    },
+    "1768": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "占",
+        "traditional": "佔",
+        "pinyin": "zhān",
+        "meaning": "occupy; seize; to constitute | to divine; fortune telling"
+    },
+    "1769": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "唉",
+        "traditional": "唉",
+        "pinyin": "ài",
+        "meaning": "(an exclamation indicating resignation); oh well; oh; mm"
+    },
+    "1770": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "唉",
+        "traditional": "唉",
+        "pinyin": "āi",
+        "meaning": "(an exclamation indicating resignation); oh well; oh; mm"
+    },
+    "1777": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "挣",
+        "traditional": "掙",
+        "pinyin": "zhèng",
+        "meaning": "to earn | to struggle"
+    },
+    "1778": {
+        "hsk": 5,
+        "duplicate": true,
+        "simplified": "挣",
+        "traditional": "掙",
+        "pinyin": "zhēng",
+        "meaning": ""
+    }
+}
