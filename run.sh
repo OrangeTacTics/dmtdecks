@@ -29,5 +29,4 @@ cat \
 python -m transforms.00_cleanup build/hsk.dirty.txt build/hsk.txt
 python -m transforms.01_structure build/hsk.txt build/words.00.json
 python -m transforms.02_duplicates build/words.00.json build/words.01.json
-
-mv build/words.01.json build/words.json
+python -m transforms.99_csv build/words.01.json build/deck.csv
