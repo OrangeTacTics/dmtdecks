@@ -3,6 +3,8 @@ from dataclasses import dataclass
 import json
 import sys
 
+import dragonmapper.transcriptions
+
 
 def syllables(pinyin):
     parts = []
@@ -77,13 +79,16 @@ with open(sys.argv[1]) as infile:
 out_json = {}
 
 for i, word in enumerate(words, start=1):
+
+    pinyin = ' '.join(word.pinyin).lower()
     out_json[i] = {
         'hsk': word.hsk,
         'duplicate': word.duplicate,
         'simplified': word.simple,
         'traditional': word.trad,
         'pinyin': ' '.join(word.pinyin),
-        'pinyin2': ' '.join(word.pinyin2),
+#        'pinyin2': ' '.join(word.pinyin2),
+        'zhuyin': dragonmapper.transcriptions.pinyin_to_zhuyin(pinyin),
         'meaning': word.meaning,
     }
     if i == 2000:

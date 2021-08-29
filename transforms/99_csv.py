@@ -1,5 +1,3 @@
-import dragonmapper.transcriptions
-
 import sys
 import json
 import csv
@@ -42,8 +40,8 @@ with open(sys.argv[2], 'w') as outfile:
             'simplified': word['simplified'],
             'traditional': word['traditional'],
             'pinyin': word['pinyin'],
-            'zhuyin': dragonmapper.transcriptions.pinyin_to_zhuyin(word['pinyin']),
+            'zhuyin': word['zhuyin'],
             'meaning': word['meaning'],
-            'tts_text': dragonmapper.transcriptions.pinyin_to_zhuyin(word['pinyin']),
+            'tts_text': word['zhuyin'],
             'tts_audio': '',
         })
