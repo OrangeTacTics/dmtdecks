@@ -35,6 +35,7 @@ class Word:
     simple: str
     trad: str
     pinyin: t.List[str]
+    pinyin2: t.List[str]
     meaning: str
     hsk: int
     duplicate: bool
@@ -66,6 +67,7 @@ with open(sys.argv[1]) as infile:
                 simple=simple,
                 trad=trad,
                 pinyin=pretty_syllables(pinyin, pinyin2),
+                pinyin2=syllables(pinyin),
                 meaning=meaning,
                 hsk=current_hsk_level,
                 duplicate=dupliate,
@@ -81,6 +83,7 @@ for i, word in enumerate(words, start=1):
         'simplified': word.simple,
         'traditional': word.trad,
         'pinyin': ' '.join(word.pinyin),
+        'pinyin2': ' '.join(word.pinyin2),
         'meaning': word.meaning,
     }
     if i == 2000:
