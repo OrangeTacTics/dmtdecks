@@ -37,9 +37,18 @@ class Word:
     pinyin: t.List[str]
     meaning: str
 
+    def display(self) -> str:
+        result = []
+        for char, syl in zip(word.simple, word.pinyin):
+            result.append(f'<ruby>{char}<rt>{syl}</rt></ruby>')
+        return ''.join(result)
+
 
 with open('hsk.txt') as infile:
     for line in infile:
+        if not line.strip():
+            continue
+
         if line.startswith('#'):
             continue
 
@@ -68,8 +77,29 @@ with open('hsk.txt') as infile:
                 ))
 
 with open('out.csv', 'w') as outfile:
-    writer = csv.DictWriter(outfile, fieldnames=['display'])
+    fieldnames = [
+        'key',
+        'display',
+        'simplified',
+        'traditional',
+        'pinyin',
+        'meaning',
+        'tts_text',
+        'tts_audio',
+    ]
 
-    for word in words:
-        for char, syl in zip(word.simple, word.pinyin):
-            writer.writerow({'display': f'<ruby>{char}<rt>{syl}</rt></ruby>'})
+    writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+
+    for i, word in enumerate(words):
+        if i == 100:
+            break
+        writer.writerow({
+            'key': f"{word.simple} [{' '.join(word.pinyin)}]",
+            'display': word.display(),
+            'simplified': word.simple,
+            'traditional': word.trad,
+            'pinyin': ' '.join(word.pinyin),
+            'meaning': word.meaning,
+            'tts_text': word.simple,
+            'tts_audio': '',
+        })
