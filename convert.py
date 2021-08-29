@@ -46,11 +46,13 @@ class Word:
 
 with open('hsk.txt') as infile:
     for line in infile:
+        if '#' in line:
+            idx = line.index('#')
+            line = line[:idx]
+
         if not line.strip():
             continue
 
-        if line.startswith('#'):
-            continue
 
         line = line.replace('\ufeff', '').strip()
         simple, trad, pinyin, pinyin2, meaning = line.split('\t')
@@ -69,6 +71,9 @@ with open('hsk.txt') as infile:
             pinyins2 = pinyin2.split(',')
             assert len(pinyins) == len(meanings)
             for pinyin, pinyin2, meaning in zip(pinyins, pinyins2, meanings):
+                pinyin = pinyin.strip()
+                pinyin2 = pinyin2.strip()
+                meaning = meaning.strip()
                 words.append(Word(
                     simple=simple,
                     trad=trad,
