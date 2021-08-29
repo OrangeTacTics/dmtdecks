@@ -2,7 +2,7 @@
 
 set -ex
 
-mkdir -p build
+mkdir -p build output
 
 #curl -so build/hsk1.txt https://raw.githubusercontent.com/glxxyz/hskhsk.com/main/data/lists/HSK%20Official%20With%20Definitions%202012%20L1%20freqorder.txt
 #curl -so build/hsk2.txt https://raw.githubusercontent.com/glxxyz/hskhsk.com/main/data/lists/HSK%20Official%20With%20Definitions%202012%20L2%20freqorder.txt
@@ -29,4 +29,9 @@ cat \
 python -m transforms.00_cleanup build/hsk.dirty.txt build/hsk.txt
 python -m transforms.01_structure build/hsk.txt build/words.00.json
 python -m transforms.02_duplicates build/words.00.json build/words.01.json
-python -m transforms.99_csv build/words.01.json build/deck.csv
+python -m transforms.03_meanings build/words.01.json build/words.02.json
+
+python -m transforms.99_csv build/words.02.json build/deck.csv
+
+cp build/deck.csv output/
+cp build/words.02.json output/words.json
