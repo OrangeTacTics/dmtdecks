@@ -2,12 +2,8 @@ import typing as t
 from dataclasses import dataclass
 import json
 import sys
-import os
 
 import dragonmapper.transcriptions
-
-
-LIMIT = os.getenv('LIMIT', 2000)
 
 
 def syllables(pinyin):
@@ -86,7 +82,7 @@ for i, word in enumerate(words, start=1):
 
     pinyin = ' '.join(word.pinyin).lower()
     try:
-        zhuyin = dragonmapper.transcriptions.pinyin_to_zhuyin(pinyin),
+        zhuyin = dragonmapper.transcriptions.pinyin_to_zhuyin(pinyin)
     except:
         # Remove if zhuyin can't complete
         # This only happens with two awkward "o" interjections
@@ -98,13 +94,11 @@ for i, word in enumerate(words, start=1):
         'duplicate': word.duplicate,
         'simplified': word.simple,
         'traditional': word.trad,
-        'pinyin': ' '.join(word.pinyin),
+        'pinyin': pinyin,
 #        'pinyin2': ' '.join(word.pinyin2),
         'zhuyin': zhuyin,
         'meaning': word.meaning,
     }
-    if i == LIMIT:
-        break
 
 with open(sys.argv[2], 'w') as outfile:
     json.dump(out_json, outfile, indent=4, ensure_ascii=False)

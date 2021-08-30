@@ -26,7 +26,7 @@ cat \
     build/hsk6.txt \
     > build/hsk.dirty.txt
 
-export LIMIT=10000
+export CARD_COUNT=200
 
 python -m transforms.00_cleanup build/hsk.dirty.txt build/hsk.txt
 python -m transforms.01_structure build/hsk.txt build/words.00.json

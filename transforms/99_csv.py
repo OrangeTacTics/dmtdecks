@@ -1,6 +1,10 @@
 import sys
 import json
 import csv
+import os
+
+
+CARD_COUNT = int(os.getenv('CARD_COUNT'))
 
 
 with open(sys.argv[1]) as infile:
@@ -42,8 +46,10 @@ with open(sys.argv[2], 'w') as outfile:
 
     writer = csv.DictWriter(outfile, fieldnames=fieldnames)
 
+    for i, (id, word) in enumerate(sorted(words.items(), key=key), start=1):
+        if i == CARD_COUNT:
+            break
 
-    for i, (id, word) in enumerate(sorted(words.items(), key=key)):
         writer.writerow({
             'id': f"{word['simplified']} [{word['pinyin']}]",
             'display': to_display(word),
