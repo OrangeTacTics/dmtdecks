@@ -1,3 +1,4 @@
+import os.path
 import json
 import sys
 
@@ -16,6 +17,8 @@ def key(pair):
         class_sorter = 'ZZZ'
     return (class_sorter, int(id))
 
+
+assert not os.path.exists('data/order.json'), 'File data/order.json already exists.'
 
 with open('data/order.json', 'w') as outfile:
     print('[', file=outfile)
