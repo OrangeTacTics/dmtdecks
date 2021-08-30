@@ -21,7 +21,10 @@ with open('data/order.json') as infile:
 
 def key(pair):
     id, word = pair
-    return order.index(id)
+    try:
+        return order.index(id)
+    except:
+        return len(order) + int(id)
 
 
 with open(sys.argv[2], 'w') as outfile:

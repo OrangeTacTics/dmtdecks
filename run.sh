@@ -26,11 +26,13 @@ cat \
     build/hsk6.txt \
     > build/hsk.dirty.txt
 
+export LIMIT=10000
+
 python -m transforms.00_cleanup build/hsk.dirty.txt build/hsk.txt
 python -m transforms.01_structure build/hsk.txt build/words.00.json
 python -m transforms.02_duplicates build/words.00.json build/words.01.json
-python -m transforms.03_meanings build/words.01.json build/words.02.json
-python -m transforms.04_classes build/words.02.json build/words.99.json
+python -m transforms.03_classes build/words.01.json build/words.02.json
+python -m transforms.04_meanings build/words.02.json build/words.99.json
 
 python -m transforms.99_csv build/words.99.json build/deck.csv
 
