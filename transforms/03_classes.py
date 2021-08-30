@@ -65,7 +65,7 @@ def is_color(word):
     colors = ['white', 'black', 'red', 'orange', 'yellow', 'green', 'blue', 'purple', 'color']
     return (
         any(c == word['meaning'].lower() for c in colors) or
-        'red;' in word['meaning']
+        'red; symbol of success' in word['meaning']
     )
 
 
