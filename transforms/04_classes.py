@@ -28,6 +28,15 @@ def is_grammar(word):
 
 
 @cls
+def is_kangxiradical(word):
+    return 'Kangxi radical' in word['meaning']
+
+
+@cls
+def is_question(word):
+    return '?' in word['meaning']
+
+@cls
 def is_pronoun(word):
     return word['simplified'] in '我们你您他她它'
 

@@ -135,7 +135,9 @@
         "pinyin": "ma",
         "zhuyin": "ㄇㄚ˙",
         "meaning": "〜? [question mark]",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "15": {
         "hsk": 1,
@@ -144,7 +146,9 @@
         "pinyin": "shén me",
         "zhuyin": "ㄕㄣˊ ㄇㄜ˙",
         "meaning": "what?",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "16": {
         "hsk": 1,
@@ -310,7 +314,9 @@
         "pinyin": "zěn me",
         "zhuyin": "ㄗㄣˇ ㄇㄜ˙",
         "meaning": "how?",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "34": {
         "hsk": 1,
@@ -337,7 +343,9 @@
         "pinyin": "ne",
         "zhuyin": "ㄋㄜ˙",
         "meaning": "indicates a question; how about...?;",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "37": {
         "hsk": 1,
@@ -616,7 +624,9 @@
         "pinyin": "zěn me yàng",
         "zhuyin": "ㄗㄣˇ ㄇㄜ˙ ㄧㄤˋ",
         "meaning": "how about?; how is/was it?",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "68": {
         "hsk": 1,
@@ -681,7 +691,9 @@
         "pinyin": "nǎ r",
         "zhuyin": "ㄋㄚˇ ㄦ˙",
         "meaning": "where? (Beijing accent)",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "75": {
         "hsk": 1,
@@ -874,7 +886,9 @@
         "pinyin": "duō shao",
         "zhuyin": "ㄉㄨㄛ ㄕㄠ˙",
         "meaning": "how much?; how many?",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "96": {
         "hsk": 1,
@@ -1428,7 +1442,9 @@
         "pinyin": "ba",
         "zhuyin": "ㄅㄚ˙",
         "meaning": "right?",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "156": {
         "hsk": 2,
@@ -1608,7 +1624,9 @@
         "pinyin": "zǒu",
         "zhuyin": "ㄗㄡˇ",
         "meaning": "to walk; to go; to move (Kangxi radical 156)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "177": {
         "hsk": 2,
@@ -1671,7 +1689,9 @@
         "pinyin": "wèi shén me",
         "zhuyin": "ㄨㄟˋ ㄕㄣˊ ㄇㄜ˙",
         "meaning": "why?; for what reason?",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "184": {
         "hsk": 2,
@@ -1900,7 +1920,9 @@
         "pinyin": "bǐ",
         "zhuyin": "ㄅㄧˇ",
         "meaning": "compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "209": {
         "hsk": 2,
@@ -2084,7 +2106,9 @@
         "pinyin": "mén",
         "zhuyin": "ㄇㄣˊ",
         "meaning": "door; opening; gate (Kangxi radical 169)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "229": {
         "hsk": 2,
@@ -2093,7 +2117,9 @@
         "pinyin": "nǚ",
         "zhuyin": "ㄋㄩˇ",
         "meaning": "woman; female (Kangxi radical 38)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "230": {
         "hsk": 2,
@@ -2120,7 +2146,9 @@
         "pinyin": "gāo",
         "zhuyin": "ㄍㄠ",
         "meaning": "high; tall (Kangxi radical 189)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "233": {
         "hsk": 2,
@@ -2282,7 +2310,9 @@
         "pinyin": "hēi",
         "zhuyin": "ㄏㄟ",
         "meaning": "black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "251": {
         "hsk": 2,
@@ -2300,7 +2330,9 @@
         "pinyin": "rì",
         "zhuyin": "ㄖˋ",
         "meaning": "sun; day; date; time (Kangxi radical 72)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "253": {
         "hsk": 2,
@@ -2453,7 +2485,9 @@
         "pinyin": "yú",
         "zhuyin": "ㄩˊ",
         "meaning": "fish (Kangxi radical 195)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "271": {
         "hsk": 2,
@@ -2943,7 +2977,9 @@
         "pinyin": "yòng",
         "zhuyin": "ㄩㄥˋ",
         "meaning": "to use (Kangxi radical 101)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "332": {
         "hsk": 3,
@@ -3015,7 +3051,9 @@
         "pinyin": "yòu",
         "zhuyin": "ㄧㄡˋ",
         "meaning": "(once) again; also; both (Kangxi radical 29)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "340": {
         "hsk": 3,
@@ -3249,7 +3287,9 @@
         "pinyin": "lǎo",
         "zhuyin": "ㄌㄠˇ",
         "meaning": "old; aged; tough; often (Kangxi radical 125)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "366": {
         "hsk": 3,
@@ -3451,7 +3491,9 @@
         "pinyin": "mǎ",
         "zhuyin": "ㄇㄚˇ",
         "meaning": "horse (Kangxi radical 187)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "390": {
         "hsk": 3,
@@ -4076,7 +4118,9 @@
         "pinyin": "kǒu",
         "zhuyin": "ㄎㄡˇ",
         "meaning": "mouth (Kangxi radical 30)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "459": {
         "hsk": 3,
@@ -4323,7 +4367,9 @@
         "pinyin": "mǐ",
         "zhuyin": "ㄇㄧˇ",
         "meaning": "rice; meter (Kangxi radical 119)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "486": {
         "hsk": 3,
@@ -4422,7 +4468,9 @@
         "pinyin": "xī",
         "zhuyin": "ㄒㄧ",
         "meaning": "West (Kangxi radical 146)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "499": {
         "hsk": 3,
@@ -4566,7 +4614,9 @@
         "pinyin": "niǎo",
         "zhuyin": "ㄋㄧㄠˇ",
         "meaning": "bird (Kangxi radical 196)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "515": {
         "hsk": 3,
@@ -5668,7 +5718,9 @@
         "pinyin": "ér",
         "zhuyin": "ㄦˊ",
         "meaning": "and; but; yet; while (Kangxi radical 126)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "642": {
         "hsk": 4,
@@ -5722,7 +5774,9 @@
         "pinyin": "xíng",
         "zhuyin": "ㄒㄧㄥˊ",
         "meaning": "walk; be current; do; will do; okay | row; place; a firm (Kangxi radical 144)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "648": {
         "hsk": 4,
@@ -5731,7 +5785,9 @@
         "pinyin": "háng",
         "zhuyin": "ㄏㄤˊ",
         "meaning": "walk; be current; do; will do; okay | row; place; a firm (Kangxi radical 144)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "649": {
         "hsk": 4,
@@ -6385,7 +6441,9 @@
         "pinyin": "wú",
         "zhuyin": "ㄨˊ",
         "meaning": "have not; without; not (Kangxi radical 71)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "721": {
         "hsk": 4,
@@ -6565,7 +6623,9 @@
         "pinyin": "nán dào",
         "zhuyin": "ㄋㄢˊ ㄉㄠˋ",
         "meaning": "could it be that ...?; don't tell me ...",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "741": {
         "hsk": 4,
@@ -7082,7 +7142,9 @@
         "pinyin": "huǒ",
         "zhuyin": "ㄏㄨㄛˇ",
         "meaning": "fire (Kangxi radical 86)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "798": {
         "hsk": 4,
@@ -7534,7 +7596,9 @@
         "pinyin": "dāo",
         "zhuyin": "ㄉㄠ",
         "meaning": "knife; blade (Kangxi radical 18)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "848": {
         "hsk": 4,
@@ -8011,7 +8075,9 @@
         "pinyin": "máo",
         "zhuyin": "ㄇㄠˊ",
         "meaning": "hair; fur; feather; dime (Kangxi radical 82)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "901": {
         "hsk": 4,
@@ -9072,7 +9138,9 @@
         "pinyin": "yè",
         "zhuyin": "ㄧㄝˋ",
         "meaning": "page; leaf (Kangxi radical 181)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1018": {
         "hsk": 4,
@@ -9252,7 +9320,9 @@
         "pinyin": "xiāng",
         "zhuyin": "ㄒㄧㄤ",
         "meaning": "fragrant; savory (Kangxi radical 186)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1038": {
         "hsk": 4,
@@ -11234,7 +11304,9 @@
         "pinyin": "ēn",
         "zhuyin": "ㄣ",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "1258": {
         "hsk": 5,
@@ -11243,7 +11315,9 @@
         "pinyin": "én",
         "zhuyin": "ㄣˊ",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "1259": {
         "hsk": 5,
@@ -11252,7 +11326,9 @@
         "pinyin": "ěn",
         "zhuyin": "ㄣˇ",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "1260": {
         "hsk": 5,
@@ -11261,7 +11337,9 @@
         "pinyin": "èn",
         "zhuyin": "ㄣˋ",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "1261": {
         "hsk": 5,
@@ -11270,7 +11348,9 @@
         "pinyin": "en",
         "zhuyin": "ㄣ˙",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)",
-        "classes": []
+        "classes": [
+            "QUESTION"
+        ]
     },
     "1262": {
         "hsk": 5,
@@ -11583,7 +11663,8 @@
         "zhuyin": "ㄕㄡˇ",
         "meaning": "head; chief; first; (mw for poems and songs) (Kangxi radical 185)",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "KANGXIRADICAL"
         ]
     },
     "1296": {
@@ -11701,7 +11782,9 @@
         "pinyin": "xuè",
         "zhuyin": "ㄒㄩㄝˋ",
         "meaning": "blood (Kangxi radical 143)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1309": {
         "hsk": 5,
@@ -11710,7 +11793,9 @@
         "pinyin": "xiě",
         "zhuyin": "ㄒㄧㄝˇ",
         "meaning": "blood (Kangxi radical 143)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1310": {
         "hsk": 5,
@@ -11719,7 +11804,9 @@
         "pinyin": "fāng",
         "zhuyin": "ㄈㄤ",
         "meaning": "square; direction; side (Kangxi radical 70)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1311": {
         "hsk": 5,
@@ -11756,7 +11843,8 @@
         "zhuyin": "ㄆㄧㄢˋ",
         "meaning": "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "KANGXIRADICAL"
         ]
     },
     "1315": {
@@ -11767,7 +11855,8 @@
         "zhuyin": "ㄆㄧㄢ",
         "meaning": "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "KANGXIRADICAL"
         ]
     },
     "1316": {
@@ -11795,7 +11884,9 @@
         "pinyin": "fēi",
         "zhuyin": "ㄈㄟ",
         "meaning": "non-; un-; not be; wrongdoing; simply must (Kangxi radical 175)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1319": {
         "hsk": 5,
@@ -12203,7 +12294,8 @@
         "zhuyin": "ㄓ",
         "meaning": "branch; support; put up; (mw for long; narrow objects) (Kangxi radical 65)",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "KANGXIRADICAL"
         ]
     },
     "1364": {
@@ -12665,7 +12757,9 @@
         "pinyin": "qiàn",
         "zhuyin": "ㄑㄧㄢˋ",
         "meaning": "yawn; to lack; owe (Kangxi radical 76)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1415": {
         "hsk": 5,
@@ -14470,7 +14564,9 @@
         "pinyin": "lóng",
         "zhuyin": "ㄌㄨㄥˊ",
         "meaning": "dragon (Kangxi radical 212)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1614": {
         "hsk": 5,
@@ -17313,7 +17409,9 @@
         "pinyin": "qīng",
         "zhuyin": "ㄑㄧㄥ",
         "meaning": "blue; green; young (Kangxi radical 174); Qinghai province (abbr.)",
-        "classes": []
+        "classes": [
+            "KANGXIRADICAL"
+        ]
     },
     "1930": {
         "hsk": 5,
