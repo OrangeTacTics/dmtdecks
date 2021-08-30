@@ -13,8 +13,5 @@ for key, val in updates.items():
     else:
         del words[key]
 
-for word in words.values():
-    del word['duplicate']
-
 with open(sys.argv[2], 'w') as outfile:
     json.dump(words, outfile, indent=4, ensure_ascii=False)

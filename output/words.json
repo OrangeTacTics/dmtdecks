@@ -13,7 +13,7 @@
         "traditional": "我",
         "pinyin": "wǒ",
         "zhuyin": "ㄨㄛˇ",
-        "meaning": "I; me"
+        "meaning": "I"
     },
     "3": {
         "hsk": 1,
@@ -21,7 +21,7 @@
         "traditional": "你",
         "pinyin": "nǐ",
         "zhuyin": "ㄋㄧˇ",
-        "meaning": "you (singular)"
+        "meaning": "you"
     },
     "4": {
         "hsk": 1,
@@ -29,7 +29,7 @@
         "traditional": "是",
         "pinyin": "shì",
         "zhuyin": "ㄕˋ",
-        "meaning": "be; is; are; am"
+        "meaning": "is"
     },
     "5": {
         "hsk": 1,
@@ -37,7 +37,7 @@
         "traditional": "了",
         "pinyin": "le",
         "zhuyin": "ㄌㄜ˙",
-        "meaning": "indicates a completed or finished action"
+        "meaning": "〜ed [past tense]"
     },
     "6": {
         "hsk": 1,
@@ -45,7 +45,7 @@
         "traditional": "不",
         "pinyin": "bù",
         "zhuyin": "ㄅㄨˋ",
-        "meaning": "no; not"
+        "meaning": "not"
     },
     "7": {
         "hsk": 1,
@@ -53,7 +53,7 @@
         "traditional": "在",
         "pinyin": "zài",
         "zhuyin": "ㄗㄞˋ",
-        "meaning": "at; on; in; indicates an action in progress"
+        "meaning": "at; 〜ing [progressive tense]"
     },
     "8": {
         "hsk": 1,
@@ -61,7 +61,7 @@
         "traditional": "他",
         "pinyin": "tā",
         "zhuyin": "ㄊㄚ",
-        "meaning": "he; him"
+        "meaning": "he"
     },
     "9": {
         "hsk": 1,
@@ -69,7 +69,7 @@
         "traditional": "我們",
         "pinyin": "wǒ men",
         "zhuyin": "ㄨㄛˇ ㄇㄣ˙",
-        "meaning": "we; us"
+        "meaning": "we"
     },
     "10": {
         "hsk": 1,
@@ -101,7 +101,7 @@
         "traditional": "會",
         "pinyin": "huì",
         "zhuyin": "ㄏㄨㄟˋ",
-        "meaning": "know how to"
+        "meaning": "to know how to 〜; will 〜 [future tense]"
     },
     "14": {
         "hsk": 1,
@@ -109,7 +109,7 @@
         "traditional": "嗎",
         "pinyin": "ma",
         "zhuyin": "ㄇㄚ˙",
-        "meaning": "indicates a yes/no question (added to a statement)"
+        "meaning": "〜? [question mark]"
     },
     "15": {
         "hsk": 1,
@@ -117,7 +117,7 @@
         "traditional": "什麼",
         "pinyin": "shén me",
         "zhuyin": "ㄕㄣˊ ㄇㄜ˙",
-        "meaning": "what? (replaces the noun to turn a statement into a question)"
+        "meaning": "what?"
     },
     "16": {
         "hsk": 1,
@@ -141,7 +141,7 @@
         "traditional": "想",
         "pinyin": "xiǎng",
         "zhuyin": "ㄒㄧㄤˇ",
-        "meaning": "think; believe; suppose; would like to"
+        "meaning": "to think; would like to 〜"
     },
     "19": {
         "hsk": 1,
@@ -149,7 +149,7 @@
         "traditional": "一",
         "pinyin": "yī",
         "zhuyin": "ㄧ",
-        "meaning": "one; once; a"
+        "meaning": "one"
     },
     "20": {
         "hsk": 1,
@@ -157,7 +157,7 @@
         "traditional": "很",
         "pinyin": "hěn",
         "zhuyin": "ㄏㄣˇ",
-        "meaning": "very; quite"
+        "meaning": "very"
     },
     "21": {
         "hsk": 1,
@@ -165,7 +165,7 @@
         "traditional": "人",
         "pinyin": "rén",
         "zhuyin": "ㄖㄣˊ",
-        "meaning": "person; man; people"
+        "meaning": "person, people"
     },
     "22": {
         "hsk": 1,
@@ -173,7 +173,7 @@
         "traditional": "那",
         "pinyin": "nà",
         "zhuyin": "ㄋㄚˋ",
-        "meaning": "that; then"
+        "meaning": "that"
     },
     "23": {
         "hsk": 1,
@@ -181,7 +181,7 @@
         "traditional": "來",
         "pinyin": "lái",
         "zhuyin": "ㄌㄞˊ",
-        "meaning": "come; arrive; ever since; next"
+        "meaning": "come"
     },
     "24": {
         "hsk": 1,
@@ -189,7 +189,7 @@
         "traditional": "都",
         "pinyin": "dōu",
         "zhuyin": "ㄉㄡ",
-        "meaning": "all; both"
+        "meaning": "both, all"
     },
     "25": {
         "hsk": 1,
@@ -197,7 +197,7 @@
         "traditional": "個",
         "pinyin": "ge",
         "zhuyin": "ㄍㄜ˙",
-        "meaning": "general measure word"
+        "meaning": "things [counter word]"
     },
     "26": {
         "hsk": 1,
