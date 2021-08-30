@@ -11,24 +11,11 @@ with open(sys.argv[1]) as infile:
     words = json.load(infile)
 
 
-
 def to_display(word):
     result = []
     for char, syl in zip(word['simplified'], word['pinyin'].split(' ')):
         result.append(f'<ruby>{char}<rt>{syl}</rt></ruby>')
     return ''.join(result)
-
-
-order = []
-with open('data/order.json') as infile:
-    order = [id for [id, _word] in json.load(infile)]
-
-def key(pair):
-    id, word = pair
-    try:
-        return order.index(id)
-    except:
-        return len(order) + int(id)
 
 
 with open(sys.argv[2], 'w') as outfile:
@@ -46,7 +33,7 @@ with open(sys.argv[2], 'w') as outfile:
 
     writer = csv.DictWriter(outfile, fieldnames=fieldnames)
 
-    for i, (id, word) in enumerate(sorted(words.items(), key=key), start=1):
+    for i, word in enumerate(words, start=1):
         if i == CARD_COUNT:
             break
 

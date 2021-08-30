@@ -76,7 +76,7 @@ with open(sys.argv[1]) as infile:
             ))
 
 
-out_json = {}
+out_json = []
 
 for i, word in enumerate(words, start=1):
 
@@ -88,7 +88,7 @@ for i, word in enumerate(words, start=1):
         # This only happens with two awkward "o" interjections
         continue
 
-    out_json[i] = {
+    out_json.append({
         'index': int(i),
         'hsk': word.hsk,
         'duplicate': word.duplicate,
@@ -98,7 +98,7 @@ for i, word in enumerate(words, start=1):
 #        'pinyin2': ' '.join(word.pinyin2),
         'zhuyin': zhuyin,
         'meaning': word.meaning,
-    }
+    })
 
 with open(sys.argv[2], 'w') as outfile:
     json.dump(out_json, outfile, indent=4, ensure_ascii=False)

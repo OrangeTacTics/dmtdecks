@@ -125,7 +125,7 @@ def is_pronoun(word):
 with open(sys.argv[1]) as infile:
     words = json.load(infile)
 
-for word in words.values():
+for word in words:
     classes = []
     for cls_name, cls_predicate in CLASSES.items():
         if cls_predicate(word):

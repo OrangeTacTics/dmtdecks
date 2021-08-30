@@ -1,462 +1,730 @@
 {
+    "25": {
+        "index": 25,
+        "hsk": 1,
+        "simplified": "个",
+        "traditional": "個",
+        "pinyin": "ge",
+        "zhuyin": "ㄍㄜ˙",
+        "meaning": "things [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
     "90": {
+        "index": 90,
         "hsk": 1,
         "simplified": "分钟",
         "traditional": "分鐘",
         "pinyin": "fēn zhōng",
         "zhuyin": "ㄈㄣ ㄓㄨㄥ",
-        "meaning": "minute; (measure word for time)",
+        "meaning": "minutes [counter word]",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "TIME"
         ]
     },
     "92": {
+        "index": 92,
         "hsk": 1,
         "simplified": "本",
         "traditional": "本",
         "pinyin": "běn",
         "zhuyin": "ㄅㄣˇ",
-        "meaning": "measure word for books",
+        "meaning": "books [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "190": {
+        "index": 190,
         "hsk": 2,
         "simplified": "次",
         "traditional": "次",
         "pinyin": "cì",
         "zhuyin": "ㄘˋ",
-        "meaning": "(mw for number of times of occurrence); nth; order",
+        "meaning": "〜th time [counter word]",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "TIME"
         ]
     },
     "209": {
+        "index": 209,
         "hsk": 2,
         "simplified": "件",
         "traditional": "件",
         "pinyin": "jiàn",
         "zhuyin": "ㄐㄧㄢˋ",
-        "meaning": "(mw for things, clothes, and items)",
+        "meaning": "articles of clothing [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "327": {
+        "index": 327,
+        "hsk": 3,
+        "simplified": "只",
+        "traditional": "隻",
+        "pinyin": "zhī",
+        "zhuyin": "ㄓ",
+        "meaning": "animals [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "376": {
+        "index": 376,
         "hsk": 3,
         "simplified": "条",
         "traditional": "條",
         "pinyin": "tiáo",
         "zhuyin": "ㄊㄧㄠˊ",
-        "meaning": "strip; (mw for long thin objects); item",
+        "meaning": "strips of [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "384": {
+        "index": 384,
         "hsk": 3,
         "simplified": "张",
         "traditional": "張",
         "pinyin": "zhāng",
         "zhuyin": "ㄓㄤ",
-        "meaning": "(mw for flat objects); to spread out; (common surname)",
+        "meaning": "sheets of [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "426": {
+        "index": 426,
         "hsk": 3,
         "simplified": "辆",
         "traditional": "輛",
         "pinyin": "liàng",
         "zhuyin": "ㄌㄧㄤˋ",
-        "meaning": "(mw for vehicles)",
+        "meaning": "vehicles [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "468": {
+        "index": 468,
         "hsk": 3,
         "simplified": "包",
         "traditional": "包",
         "pinyin": "bāo",
         "zhuyin": "ㄅㄠ",
-        "meaning": "to cover; to wrap; to hold; include; (mw for containers, packages, etc.)",
+        "meaning": "to wrap; parcels [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "476": {
+        "index": 476,
         "hsk": 3,
         "simplified": "双",
         "traditional": "雙",
         "pinyin": "shuāng",
         "zhuyin": "ㄕㄨㄤ",
-        "meaning": "two; double; (mw for pairs)",
+        "meaning": "pairs of [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "525": {
+        "index": 525,
         "hsk": 3,
         "simplified": "层",
         "traditional": "層",
         "pinyin": "céng",
         "zhuyin": "ㄘㄥˊ",
-        "meaning": "(mw for layers, floors of buildings)",
+        "meaning": "floors [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "587": {
+        "index": 587,
         "hsk": 3,
         "simplified": "刻",
         "traditional": "刻",
         "pinyin": "kè",
         "zhuyin": "ㄎㄜˋ",
-        "meaning": "quarter (hour); (mw for short time intervals); carve; to cut",
-        "classes": [
-            "COUNTER"
-        ]
-    },
-    "677": {
-        "hsk": 4,
-        "simplified": "场",
-        "traditional": "場",
-        "pinyin": "chǎng",
-        "zhuyin": "ㄔㄤˇ",
-        "meaning": "courtyard; place; field; (mw for games, performances, etc.) | threshing floor",
-        "classes": [
-            "COUNTER"
-        ]
-    },
-    "678": {
-        "hsk": 4,
-        "simplified": "场",
-        "traditional": "場",
-        "pinyin": "cháng",
-        "zhuyin": "ㄔㄤˊ",
-        "meaning": "courtyard; place; field; (mw for games, performances, etc.) | threshing floor",
+        "meaning": "quarter hour; moments [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "684": {
+        "index": 684,
         "hsk": 4,
         "simplified": "份",
         "traditional": "份",
         "pinyin": "fèn",
         "zhuyin": "ㄈㄣˋ",
-        "meaning": "part; portion; (mw for documents, papers, jobs, etc.)",
+        "meaning": "documents [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "769": {
+        "index": 769,
         "hsk": 4,
         "simplified": "遍",
         "traditional": "遍",
         "pinyin": "biàn",
         "zhuyin": "ㄅㄧㄢˋ",
-        "meaning": "a time; everywhere; turn; (mw for times or turns)",
+        "meaning": "everywhere; times, turns [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "794": {
+        "index": 794,
         "hsk": 4,
         "simplified": "台",
         "traditional": "台",
         "pinyin": "tái",
         "zhuyin": "ㄊㄞˊ",
-        "meaning": "platform; Taiwan (abbr.); desk; stage; typhoon; (mw for machines); (classical) you (in letters)",
+        "meaning": "platform; machines [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "820": {
+        "index": 820,
         "hsk": 4,
         "simplified": "座",
         "traditional": "座",
         "pinyin": "zuò",
         "zhuyin": "ㄗㄨㄛˋ",
-        "meaning": "(mw for mountains, bridges, tall buildings, etc.); | seat; base; stand; constellation",
+        "meaning": "seat",
         "classes": [
             "COUNTER"
         ]
     },
     "901": {
+        "index": 901,
         "hsk": 4,
         "simplified": "节",
         "traditional": "節",
         "pinyin": "jié",
         "zhuyin": "ㄐㄧㄝˊ",
-        "meaning": "section; part; festival; moral integrity; save; (mw for class periods)",
+        "meaning": "section; periods [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "960": {
+        "index": 960,
         "hsk": 4,
         "simplified": "趟",
         "traditional": "趟",
         "pinyin": "tàng",
         "zhuyin": "ㄊㄤˋ",
-        "meaning": "(mw for trips times) | to wade",
+        "meaning": "trips [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "961": {
+        "index": 961,
         "hsk": 4,
         "simplified": "趟",
         "traditional": "趟",
         "pinyin": "tāng",
         "zhuyin": "ㄊㄤ",
-        "meaning": "(mw for trips times) | to wade",
+        "meaning": "to wade",
         "classes": [
             "COUNTER"
         ]
     },
     "1000": {
+        "index": 1000,
         "hsk": 4,
         "simplified": "篇",
         "traditional": "篇",
         "pinyin": "piān",
         "zhuyin": "ㄆㄧㄢ",
-        "meaning": "sheet; (mw for articles); piece of writing",
+        "meaning": "sheets [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1101": {
+        "index": 1101,
         "hsk": 4,
         "simplified": "棵",
         "traditional": "棵",
         "pinyin": "kē",
         "zhuyin": "ㄎㄜ",
-        "meaning": "(mw for plants)",
+        "meaning": "(mw for plants) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1263": {
+        "index": 1263,
         "hsk": 5,
         "simplified": "所",
         "traditional": "所",
         "pinyin": "suǒ",
         "zhuyin": "ㄙㄨㄛˇ",
-        "meaning": "place; that which; (mw for houses, buildings)",
+        "meaning": "place; that which; (mw for houses, buildings) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1272": {
+        "index": 1272,
         "hsk": 5,
         "simplified": "根",
         "traditional": "根",
         "pinyin": "gēn",
         "zhuyin": "ㄍㄣ",
-        "meaning": "root; base; (mw for long, slender objects)",
+        "meaning": "root; base; (mw for long, slender objects) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1288": {
+        "index": 1288,
         "hsk": 5,
         "simplified": "派",
         "traditional": "派",
         "pinyin": "pài",
         "zhuyin": "ㄆㄞˋ",
-        "meaning": "dispatch; (mw for political groups; schools of thought; etc.)",
+        "meaning": "dispatch; (mw for political groups; schools of thought; etc.) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1295": {
+        "index": 1295,
         "hsk": 5,
         "simplified": "首",
         "traditional": "首",
         "pinyin": "shǒu",
         "zhuyin": "ㄕㄡˇ",
-        "meaning": "head; chief; first; (mw for poems and songs) (Kangxi radical 185)",
+        "meaning": "head; chief; first; (mw for poems and songs) (Kangxi radical 185) [counter word]",
         "classes": [
-            "COUNTER"
+            "BODY",
+            "COUNTER",
+            "KANGXIRADICAL"
         ]
     },
     "1314": {
+        "index": 1314,
         "hsk": 5,
         "simplified": "片",
         "traditional": "片",
         "pinyin": "piàn",
         "zhuyin": "ㄆㄧㄢˋ",
-        "meaning": "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo",
+        "meaning": "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo [counter word]",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "KANGXIRADICAL"
         ]
     },
     "1315": {
+        "index": 1315,
         "hsk": 5,
         "simplified": "片",
         "traditional": "片",
         "pinyin": "piān",
         "zhuyin": "ㄆㄧㄢ",
-        "meaning": "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo",
+        "meaning": "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo [counter word]",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "KANGXIRADICAL"
         ]
     },
     "1337": {
+        "index": 1337,
         "hsk": 5,
         "simplified": "套",
         "traditional": "套",
         "pinyin": "tào",
         "zhuyin": "ㄊㄠˋ",
-        "meaning": "cover; (mw for sets of things); tie together",
+        "meaning": "cover; (mw for sets of things); tie together [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1363": {
+        "index": 1363,
         "hsk": 5,
         "simplified": "支",
         "traditional": "支",
         "pinyin": "zhī",
         "zhuyin": "ㄓ",
-        "meaning": "branch; support; put up; (mw for long; narrow objects) (Kangxi radical 65)",
+        "meaning": "branch; support; put up; (mw for long; narrow objects) (Kangxi radical 65) [counter word]",
         "classes": [
-            "COUNTER"
+            "COUNTER",
+            "KANGXIRADICAL"
         ]
     },
     "1388": {
+        "index": 1388,
         "hsk": 5,
         "simplified": "群",
         "traditional": "群",
         "pinyin": "qún",
         "zhuyin": "ㄑㄩㄣˊ",
-        "meaning": "crowd; group; (mw for groups, flocks, or swarms)",
+        "meaning": "crowd; group; (mw for groups, flocks, or swarms) [counter word]",
         "classes": [
+            "BODY",
             "COUNTER"
         ]
     },
     "1429": {
+        "index": 1429,
         "hsk": 5,
         "simplified": "颗",
         "traditional": "顆",
         "pinyin": "kē",
         "zhuyin": "ㄎㄜ",
-        "meaning": "(mw for hearts and small, round things like seeds, grains, beans, etc.)",
+        "meaning": "(mw for hearts and small, round things like seeds, grains, beans, etc.) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1437": {
+        "index": 1437,
         "hsk": 5,
         "simplified": "顿",
         "traditional": "頓",
         "pinyin": "dùn",
         "zhuyin": "ㄉㄨㄣˋ",
-        "meaning": "pause; arrange; stamp feet; suddenly; (mw for meals)",
+        "meaning": "pause; arrange; stamp feet; suddenly; (mw for meals) [counter word]",
         "classes": [
+            "BODY",
             "COUNTER"
         ]
     },
     "1462": {
+        "index": 1462,
         "hsk": 5,
         "simplified": "圈",
         "traditional": "圈",
         "pinyin": "quān",
         "zhuyin": "ㄑㄩㄢ",
-        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up",
+        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1463": {
+        "index": 1463,
         "hsk": 5,
         "simplified": "圈",
         "traditional": "圈",
         "pinyin": "juàn",
         "zhuyin": "ㄐㄩㄢˋ",
-        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up",
+        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1464": {
+        "index": 1464,
         "hsk": 5,
         "simplified": "圈",
         "traditional": "圈",
         "pinyin": "juān",
         "zhuyin": "ㄐㄩㄢ",
-        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up",
+        "meaning": "circle; ring; (mw for loops, orbits, etc.) | pen; sty | continue; to lock up [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1575": {
+        "index": 1575,
         "hsk": 5,
         "simplified": "顶",
         "traditional": "頂",
         "pinyin": "dǐng",
         "zhuyin": "ㄉㄧㄥˇ",
-        "meaning": "top; roof; carry on one's head; prop up; to butt; (mw for headwear, i.e. hats)",
+        "meaning": "top; roof; carry on one's head; prop up; to butt; (mw for headwear, i.e. hats) [counter word]",
         "classes": [
+            "BODY",
             "COUNTER"
         ]
     },
     "1586": {
+        "index": 1586,
         "hsk": 5,
         "simplified": "匹",
         "traditional": "匹",
         "pinyin": "pǐ",
         "zhuyin": "ㄆㄧˇ",
-        "meaning": "ordinary person; (mw for horses, bolt of cloth)",
+        "meaning": "ordinary person; (mw for horses, bolt of cloth) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1663": {
+        "index": 1663,
         "hsk": 5,
         "simplified": "团",
         "traditional": "團",
         "pinyin": "tuán",
         "zhuyin": "ㄊㄨㄢˊ",
-        "meaning": "round; ball; group; unite; dumpling; (mw for ball-like things)",
+        "meaning": "round; ball; group; unite; dumpling; (mw for ball-like things) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1671": {
+        "index": 1671,
         "hsk": 5,
         "simplified": "幅",
         "traditional": "幅",
         "pinyin": "fú",
         "zhuyin": "ㄈㄨˊ",
-        "meaning": "width of cloth; size; (mw for pictures, paintings, textiles)",
+        "meaning": "width of cloth; size; (mw for pictures, paintings, textiles) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1734": {
+        "index": 1734,
         "hsk": 5,
         "simplified": "批",
         "traditional": "批",
         "pinyin": "pī",
         "zhuyin": "ㄆㄧ",
-        "meaning": "criticize; to comment; wholesale; (mw for batches, lots, etc.)",
+        "meaning": "criticize; to comment; wholesale; (mw for batches, lots, etc.) [counter word]",
         "classes": [
             "COUNTER"
         ]
     },
     "1760": {
+        "index": 1760,
         "hsk": 5,
         "simplified": "滴",
         "traditional": "滴",
         "pinyin": "dī",
         "zhuyin": "ㄉㄧ",
-        "meaning": "to drip; drop; (mw for drops of liquid)",
+        "meaning": "to drip; drop; (mw for drops of liquid) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2013": {
+        "index": 2013,
+        "hsk": 5,
+        "simplified": "册",
+        "traditional": "冊",
+        "pinyin": "cè",
+        "zhuyin": "ㄘㄜˋ",
+        "meaning": "book; (mw for books) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2068": {
+        "index": 2068,
+        "hsk": 5,
+        "simplified": "届",
+        "traditional": "屆",
+        "pinyin": "jiè",
+        "zhuyin": "ㄐㄧㄝˋ",
+        "meaning": "arrive at; period; session; (mw for events; meetings; etc.) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2082": {
+        "index": 2082,
+        "hsk": 5,
+        "simplified": "朵",
+        "traditional": "朵",
+        "pinyin": "duǒ",
+        "zhuyin": "ㄉㄨㄛˇ",
+        "meaning": "(mw for flowers and clouds) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2304": {
+        "index": 2304,
+        "hsk": 5,
+        "simplified": "壶",
+        "traditional": "壺",
+        "pinyin": "hú",
+        "zhuyin": "ㄏㄨˊ",
+        "meaning": "pot; kettle; jug; (mw for bottled liquids) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2692": {
+        "index": 2692,
+        "hsk": 6,
+        "simplified": "卷",
+        "traditional": "卷",
+        "pinyin": "juǎn",
+        "zhuyin": "ㄐㄩㄢˇ",
+        "meaning": "to roll (up); to coil; (mw for tapes) | rolled document; file [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2693": {
+        "index": 2693,
+        "hsk": 6,
+        "simplified": "卷",
+        "traditional": "卷",
+        "pinyin": "juàn",
+        "zhuyin": "ㄐㄩㄢˋ",
+        "meaning": "to roll (up); to coil; (mw for tapes) | rolled document; file [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2694": {
+        "index": 2694,
+        "hsk": 6,
+        "simplified": "艘",
+        "traditional": "艘",
+        "pinyin": "sōu",
+        "zhuyin": "ㄙㄡ",
+        "meaning": "(mw for boats and ships) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2757": {
+        "index": 2757,
+        "hsk": 6,
+        "simplified": "栋",
+        "traditional": "棟",
+        "pinyin": "dòng",
+        "zhuyin": "ㄉㄨㄥˋ",
+        "meaning": "roof beam; (mw for buildings) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "2846": {
+        "index": 2846,
+        "hsk": 6,
+        "simplified": "枚",
+        "traditional": "枚",
+        "pinyin": "méi",
+        "zhuyin": "ㄇㄟˊ",
+        "meaning": "(mw for coins, rings, medals) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "3121": {
+        "index": 3121,
+        "hsk": 6,
+        "simplified": "幢",
+        "traditional": "幢",
+        "pinyin": "zhuàng",
+        "zhuyin": "ㄓㄨㄤˋ",
+        "meaning": "(mw for houses, buildings); tent | ancient pennant/streamer; Buddhist stone pillar [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "3122": {
+        "index": 3122,
+        "hsk": 6,
+        "simplified": "幢",
+        "traditional": "幢",
+        "pinyin": "chuáng",
+        "zhuyin": "ㄔㄨㄤˊ",
+        "meaning": "(mw for houses, buildings); tent | ancient pennant/streamer; Buddhist stone pillar [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "3404": {
+        "index": 3404,
+        "hsk": 6,
+        "simplified": "束",
+        "traditional": "束",
+        "pinyin": "shù",
+        "zhuyin": "ㄕㄨˋ",
+        "meaning": "to tie; to bind; restrain; (mw for bunches, bundles, bouquets, etc.) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "3430": {
+        "index": 3430,
+        "hsk": 6,
+        "simplified": "粒",
+        "traditional": "粒",
+        "pinyin": "lì",
+        "zhuyin": "ㄌㄧˋ",
+        "meaning": "a grain; granule; (mw for grain-like things) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "3431": {
+        "index": 3431,
+        "hsk": 6,
+        "simplified": "番",
+        "traditional": "番",
+        "pinyin": "fān",
+        "zhuyin": "ㄈㄢ",
+        "meaning": "(mw for acts or deeds); foreign [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "3720": {
+        "index": 3720,
+        "hsk": 6,
+        "simplified": "摊",
+        "traditional": "攤",
+        "pinyin": "tān",
+        "zhuyin": "ㄊㄢ",
+        "meaning": "to spread out; vendor's stand; booth; fry; (mw for puddles) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "3822": {
+        "index": 3822,
+        "hsk": 6,
+        "simplified": "枝",
+        "traditional": "枝",
+        "pinyin": "zhī",
+        "zhuyin": "ㄓ",
+        "meaning": "branch; twig; (mw for sticks, rods, pencils) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "4343": {
+        "index": 4343,
+        "hsk": 6,
+        "simplified": "株",
+        "traditional": "株",
+        "pinyin": "zhū",
+        "zhuyin": "ㄓㄨ",
+        "meaning": "stem; root; trunk; (mw for plants) [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
+    },
+    "4765": {
+        "index": 4765,
+        "hsk": 6,
+        "simplified": "立方",
+        "traditional": "立方",
+        "pinyin": "lì fāng",
+        "zhuyin": "ㄌㄧˋ ㄈㄤ",
+        "meaning": "cube; (mw cubic units of measure) [counter word]",
         "classes": [
             "COUNTER"
         ]

@@ -9,16 +9,17 @@ with open('output/words.json') as infile:
 with open('data/order.json') as infile:
     old_order = [id for [id, meaning] in json.load(infile)]
 
-num_words = len(words.keys())
+num_words = len(words)
 
 
-def key(pair):
-    id, word = pair
+def key(word):
+    id = word['index']
     return old_order.index(id)
 
 with open('data/order.json', 'w') as outfile:
     print('[', file=outfile)
-    for i, (id, word) in enumerate(sorted(words.items(), key=key)):
+    for i, word in enumerate(sorted(words, key=key)):
+        id = word['index']
         simplified = word['simplified']
         while len(simplified) < 5:
             simplified += '　'

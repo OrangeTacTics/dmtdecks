@@ -7,13 +7,16 @@ with open(sys.argv[1]) as infile:
 with open('data/duplicates.json') as infile:
     updates = json.load(infile)
 
-for key, val in updates.items():
-    if val['meaning']:
-        words[key]['meaning'] = val['meaning']
-    else:
-        del words[key]
+def word_by_key(key):
+    return [w for w in words if w['index'] == int(key)][0]
 
-for word in words.values():
+for key, val in updates.items():
+    word = word_by_key(key)
+
+    if val['meaning']:
+        word['meaning'] = val['meaning']
+
+for word in words:
     del word['duplicate']
 
 with open(sys.argv[2], 'w') as outfile:

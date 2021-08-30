@@ -7,11 +7,11 @@ filename = 'output/words.json'
 with open(filename) as infile:
     words = json.load(infile)
 
-num_words = len(words.keys())
+num_words = len(words)
 
 
-def key(pair):
-    id, word = pair
+def key(word):
+    id = word['index']
     class_sorter = '-'.join(sorted(word['classes']))
     if not class_sorter:
         class_sorter = 'ZZZ'
@@ -22,7 +22,8 @@ assert not os.path.exists('data/order.json'), 'File data/order.json already exis
 
 with open('data/order.json', 'w') as outfile:
     print('[', file=outfile)
-    for i, (id, word) in enumerate(sorted(words.items(), key=key)):
+    for i, word in enumerate(sorted(words, key=key)):
+        id = word['index']
         simplified = word['simplified']
         while len(simplified) < 5:
             simplified += '　'
