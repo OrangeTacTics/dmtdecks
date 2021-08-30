@@ -1,11 +1,4 @@
 [
-    [    "2", "我　　　　 I PRONOUN"],
-    [    "3", "你　　　　 you PRONOUN"],
-    [    "8", "他　　　　 he PRONOUN"],
-    [    "9", "我们　　　 we PRONOUN"],
-    [   "17", "她　　　　 she PRONOUN"],
-    [  "185", "它　　　　 it PRONOUN"],
-    [  "215", "您　　　　 you (polite) PRONOUN"],
     [    "4", "是　　　　 is "],
     [    "6", "不　　　　 not "],
     [    "7", "在　　　　 at; 〜ing [progressive tense] "],
@@ -1978,6 +1971,13 @@
     [  "130", "七　　　　 seven NUMBER"],
     [  "136", "九　　　　 nine NUMBER"],
     [  "283", "千　　　　 one thousand NUMBER"],
+    [   "17", "她　　　　 she PRONOUN"],
+    [  "427", "万　　　　 ten thousand NUMBER"],
+    [    "2", "我　　　　 I PRONOUN"],
+    [    "3", "你　　　　 you PRONOUN"],
+    [    "8", "他　　　　 he PRONOUN"],
+    [    "9", "我们　　　 we PRONOUN"],
+    [  "185", "它　　　　 it PRONOUN"],
     [  "288", "百　　　　 hundred NUMBER"],
-    [  "427", "万　　　　 ten thousand NUMBER"]
+    [  "215", "您　　　　 you (polite) PRONOUN"]
 ]
