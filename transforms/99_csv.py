@@ -15,6 +15,15 @@ def to_display(word):
     return ''.join(result)
 
 
+order = []
+with open('data/order.json') as infile:
+    order = [id for [id, _word] in json.load(infile)]
+
+def key(pair):
+    id, word = pair
+    return order.index(id)
+
+
 with open(sys.argv[2], 'w') as outfile:
     fieldnames = [
         'id',
@@ -31,9 +40,7 @@ with open(sys.argv[2], 'w') as outfile:
     writer = csv.DictWriter(outfile, fieldnames=fieldnames)
 
 
-    for i, word in enumerate(words.values()):
-        if i == 100:
-            break
+    for i, (id, word) in enumerate(sorted(words.items(), key=key)):
         writer.writerow({
             'id': f"{word['simplified']} [{word['pinyin']}]",
             'display': to_display(word),
