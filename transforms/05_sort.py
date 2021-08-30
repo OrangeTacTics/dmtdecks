@@ -1,11 +1,9 @@
 import json
 import sys
 
+
 with open(sys.argv[1]) as infile:
     words = json.load(infile)
-
-with open('data/meanings.json') as infile:
-    updates = json.load(infile)
 
 
 order = []

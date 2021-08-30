@@ -1,0 +1,902 @@
+[
+    {
+        "index": 1,
+        "simplified": "的",
+        "pinyin": "de",
+        "meaning": "indicates possession, like adding 's to a noun"
+    },
+    {
+        "index": 2,
+        "simplified": "我",
+        "pinyin": "wǒ",
+        "meaning": "I; me"
+    },
+    {
+        "index": 3,
+        "simplified": "你",
+        "pinyin": "nǐ",
+        "meaning": "you (singular)"
+    },
+    {
+        "index": 4,
+        "simplified": "是",
+        "pinyin": "shì",
+        "meaning": "be; is; are; am"
+    },
+    {
+        "index": 5,
+        "simplified": "了",
+        "pinyin": "le",
+        "meaning": "indicates a completed or finished action"
+    },
+    {
+        "index": 6,
+        "simplified": "不",
+        "pinyin": "bù",
+        "meaning": "no; not"
+    },
+    {
+        "index": 7,
+        "simplified": "在",
+        "pinyin": "zài",
+        "meaning": "at; on; in; indicates an action in progress"
+    },
+    {
+        "index": 8,
+        "simplified": "他",
+        "pinyin": "tā",
+        "meaning": "he; him"
+    },
+    {
+        "index": 9,
+        "simplified": "我们",
+        "pinyin": "wǒ men",
+        "meaning": "we; us"
+    },
+    {
+        "index": 10,
+        "simplified": "好",
+        "pinyin": "hǎo",
+        "meaning": "good"
+    },
+    {
+        "index": 11,
+        "simplified": "有",
+        "pinyin": "yǒu",
+        "meaning": "have"
+    },
+    {
+        "index": 12,
+        "simplified": "这",
+        "pinyin": "zhè",
+        "meaning": "this"
+    },
+    {
+        "index": 13,
+        "simplified": "会",
+        "pinyin": "huì",
+        "meaning": "know how to"
+    },
+    {
+        "index": 14,
+        "simplified": "吗",
+        "pinyin": "ma",
+        "meaning": "indicates a yes/no question (added to a statement)"
+    },
+    {
+        "index": 15,
+        "simplified": "什么",
+        "pinyin": "shén me",
+        "meaning": "what? (replaces the noun to turn a statement into a question)"
+    },
+    {
+        "index": 16,
+        "simplified": "说",
+        "pinyin": "shuō",
+        "meaning": "speak"
+    },
+    {
+        "index": 17,
+        "simplified": "她",
+        "pinyin": "tā",
+        "meaning": "she"
+    },
+    {
+        "index": 18,
+        "simplified": "想",
+        "pinyin": "xiǎng",
+        "meaning": "think; believe; suppose; would like to"
+    },
+    {
+        "index": 19,
+        "simplified": "一",
+        "pinyin": "yī",
+        "meaning": "one; once; a"
+    },
+    {
+        "index": 20,
+        "simplified": "很",
+        "pinyin": "hěn",
+        "meaning": "very; quite"
+    },
+    {
+        "index": 21,
+        "simplified": "人",
+        "pinyin": "rén",
+        "meaning": "person; man; people"
+    },
+    {
+        "index": 22,
+        "simplified": "那",
+        "pinyin": "nà",
+        "meaning": "that; then"
+    },
+    {
+        "index": 23,
+        "simplified": "来",
+        "pinyin": "lái",
+        "meaning": "come; arrive; ever since; next"
+    },
+    {
+        "index": 24,
+        "simplified": "都",
+        "pinyin": "dōu",
+        "meaning": "all; both"
+    },
+    {
+        "index": 25,
+        "simplified": "个",
+        "pinyin": "ge",
+        "meaning": "general measure word"
+    },
+    {
+        "index": 26,
+        "simplified": "能",
+        "pinyin": "néng",
+        "meaning": "can; be able"
+    },
+    {
+        "index": 27,
+        "simplified": "去",
+        "pinyin": "qù",
+        "meaning": "go; to leave"
+    },
+    {
+        "index": 28,
+        "simplified": "和",
+        "pinyin": "hé",
+        "meaning": "and; with"
+    },
+    {
+        "index": 29,
+        "simplified": "做",
+        "pinyin": "zuò",
+        "meaning": "do; make"
+    },
+    {
+        "index": 30,
+        "simplified": "上",
+        "pinyin": "shàng",
+        "meaning": "above; up"
+    },
+    {
+        "index": 31,
+        "simplified": "没有",
+        "pinyin": "méi yǒu",
+        "meaning": "not have; there is not"
+    },
+    {
+        "index": 32,
+        "simplified": "看",
+        "pinyin": "kàn",
+        "meaning": "see; look at; to watch"
+    },
+    {
+        "index": 33,
+        "simplified": "怎么",
+        "pinyin": "zěn me",
+        "meaning": "how?"
+    },
+    {
+        "index": 34,
+        "simplified": "现在",
+        "pinyin": "xiàn zài",
+        "meaning": "now"
+    },
+    {
+        "index": 35,
+        "simplified": "点",
+        "pinyin": "diǎn",
+        "meaning": "a dot; a little; o'clock"
+    },
+    {
+        "index": 36,
+        "simplified": "呢",
+        "pinyin": "ne",
+        "meaning": "indicates a question; how about...?;"
+    },
+    {
+        "index": 37,
+        "simplified": "太",
+        "pinyin": "tài",
+        "meaning": "too (much)"
+    },
+    {
+        "index": 38,
+        "simplified": "里",
+        "pinyin": "lǐ",
+        "meaning": "inside; Chinese mile (~.5 km)"
+    },
+    {
+        "index": 39,
+        "simplified": "听",
+        "pinyin": "tīng",
+        "meaning": "listen; hear"
+    },
+    {
+        "index": 40,
+        "simplified": "谁",
+        "pinyin": "shéi",
+        "meaning": "who"
+    },
+    {
+        "index": 41,
+        "simplified": "多",
+        "pinyin": "duō",
+        "meaning": "many"
+    },
+    {
+        "index": 42,
+        "simplified": "时候",
+        "pinyin": "shí hou",
+        "meaning": "time"
+    },
+    {
+        "index": 43,
+        "simplified": "下",
+        "pinyin": "xià",
+        "meaning": "fall; below"
+    },
+    {
+        "index": 44,
+        "simplified": "谢谢",
+        "pinyin": "xiè xie",
+        "meaning": "thank you"
+    },
+    {
+        "index": 45,
+        "simplified": "先生",
+        "pinyin": "xiān sheng",
+        "meaning": "Mr.; Sir"
+    },
+    {
+        "index": 46,
+        "simplified": "喜欢",
+        "pinyin": "xǐ huan",
+        "meaning": "to like"
+    },
+    {
+        "index": 47,
+        "simplified": "大",
+        "pinyin": "dà",
+        "meaning": "big; large"
+    },
+    {
+        "index": 48,
+        "simplified": "东西",
+        "pinyin": "dōng xi",
+        "meaning": "things; stuff"
+    },
+    {
+        "index": 49,
+        "simplified": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small; young"
+    },
+    {
+        "index": 50,
+        "simplified": "叫",
+        "pinyin": "jiào",
+        "meaning": "to be called"
+    },
+    {
+        "index": 51,
+        "simplified": "爱",
+        "pinyin": "ài",
+        "meaning": "love"
+    },
+    {
+        "index": 52,
+        "simplified": "年",
+        "pinyin": "nián",
+        "meaning": "year"
+    },
+    {
+        "index": 53,
+        "simplified": "请",
+        "pinyin": "qǐng",
+        "meaning": "please; invite; to treat someone to something"
+    },
+    {
+        "index": 54,
+        "simplified": "回",
+        "pinyin": "huí",
+        "meaning": "to return; to reply; to go back"
+    },
+    {
+        "index": 55,
+        "simplified": "工作",
+        "pinyin": "gōng zuò",
+        "meaning": "work; a job"
+    },
+    {
+        "index": 56,
+        "simplified": "钱",
+        "pinyin": "qián",
+        "meaning": "money; coin"
+    },
+    {
+        "index": 57,
+        "simplified": "吃",
+        "pinyin": "chī",
+        "meaning": "eat"
+    },
+    {
+        "index": 58,
+        "simplified": "开",
+        "pinyin": "kāi",
+        "meaning": "to open; to start; to operate (a vehicle)"
+    },
+    {
+        "index": 59,
+        "simplified": "家",
+        "pinyin": "jiā",
+        "meaning": "family; home"
+    },
+    {
+        "index": 60,
+        "simplified": "哪",
+        "pinyin": "nǎ",
+        "meaning": "which; how"
+    },
+    {
+        "index": 61,
+        "simplified": "朋友",
+        "pinyin": "péng you",
+        "meaning": "friend"
+    },
+    {
+        "index": 62,
+        "simplified": "妈妈",
+        "pinyin": "mā ma",
+        "meaning": "mom; mum"
+    },
+    {
+        "index": 63,
+        "simplified": "今天",
+        "pinyin": "jīn tiān",
+        "meaning": "today"
+    },
+    {
+        "index": 64,
+        "simplified": "几",
+        "pinyin": "jǐ",
+        "meaning": "how many; several; a few"
+    },
+    {
+        "index": 65,
+        "simplified": "爸爸",
+        "pinyin": "bà ba",
+        "meaning": "Dad"
+    },
+    {
+        "index": 66,
+        "simplified": "些",
+        "pinyin": "xiē",
+        "meaning": "some; few; several"
+    },
+    {
+        "index": 67,
+        "simplified": "怎么样",
+        "pinyin": "zěn me yàng",
+        "meaning": "how about?; how is/was it?"
+    },
+    {
+        "index": 68,
+        "simplified": "对不起",
+        "pinyin": "duì bu qǐ",
+        "meaning": "sorry"
+    },
+    {
+        "index": 69,
+        "simplified": "住",
+        "pinyin": "zhù",
+        "meaning": "to live; reside; to stop"
+    },
+    {
+        "index": 70,
+        "simplified": "三",
+        "pinyin": "sān",
+        "meaning": "three"
+    },
+    {
+        "index": 71,
+        "simplified": "高兴",
+        "pinyin": "gāo xìng",
+        "meaning": "happy; glad"
+    },
+    {
+        "index": 72,
+        "simplified": "买",
+        "pinyin": "mǎi",
+        "meaning": "to buy"
+    },
+    {
+        "index": 73,
+        "simplified": "医生",
+        "pinyin": "yī shēng",
+        "meaning": "doctor"
+    },
+    {
+        "index": 74,
+        "simplified": "哪儿",
+        "pinyin": "nǎ r",
+        "meaning": "where? (Beijing accent)"
+    },
+    {
+        "index": 75,
+        "simplified": "字",
+        "pinyin": "zì",
+        "meaning": "letter; character"
+    },
+    {
+        "index": 76,
+        "simplified": "名字",
+        "pinyin": "míng zi",
+        "meaning": "name"
+    },
+    {
+        "index": 77,
+        "simplified": "认识",
+        "pinyin": "rèn shi",
+        "meaning": "recognize; know (a person)"
+    },
+    {
+        "index": 78,
+        "simplified": "坐",
+        "pinyin": "zuò",
+        "meaning": "sit"
+    },
+    {
+        "index": 79,
+        "simplified": "喝",
+        "pinyin": "hē",
+        "meaning": "to drink"
+    },
+    {
+        "index": 80,
+        "simplified": "写",
+        "pinyin": "xiě",
+        "meaning": "to write; to compose"
+    },
+    {
+        "index": 81,
+        "simplified": "月",
+        "pinyin": "yuè",
+        "meaning": "moon; month; flesh (radical)"
+    },
+    {
+        "index": 82,
+        "simplified": "号",
+        "pinyin": "hào",
+        "meaning": "number; day of a month"
+    },
+    {
+        "index": 83,
+        "simplified": "狗",
+        "pinyin": "gǒu",
+        "meaning": "dog"
+    },
+    {
+        "index": 84,
+        "simplified": "岁",
+        "pinyin": "suì",
+        "meaning": "years old; age"
+    },
+    {
+        "index": 85,
+        "simplified": "看见",
+        "pinyin": "kàn jiàn",
+        "meaning": "see; catch sight of"
+    },
+    {
+        "index": 86,
+        "simplified": "打电话",
+        "pinyin": "dǎ  diàn huà",
+        "meaning": "make a phone call"
+    },
+    {
+        "index": 87,
+        "simplified": "喂",
+        "pinyin": "wèi",
+        "meaning": "hello (on the phone)"
+    },
+    {
+        "index": 88,
+        "simplified": "儿子",
+        "pinyin": "ér zi",
+        "meaning": "son"
+    },
+    {
+        "index": 89,
+        "simplified": "漂亮",
+        "pinyin": "piào liang",
+        "meaning": "pretty; beautiful"
+    },
+    {
+        "index": 90,
+        "simplified": "分钟",
+        "pinyin": "fēn zhōng",
+        "meaning": "minute; (measure word for time)"
+    },
+    {
+        "index": 91,
+        "simplified": "再见",
+        "pinyin": "zài jiàn",
+        "meaning": "goodbye; see you later"
+    },
+    {
+        "index": 92,
+        "simplified": "本",
+        "pinyin": "běn",
+        "meaning": "measure word for books"
+    },
+    {
+        "index": 93,
+        "simplified": "明天",
+        "pinyin": "míng tiān",
+        "meaning": "tomorrow"
+    },
+    {
+        "index": 94,
+        "simplified": "少",
+        "pinyin": "shǎo",
+        "meaning": "few; little"
+    },
+    {
+        "index": 95,
+        "simplified": "多少",
+        "pinyin": "duō shao",
+        "meaning": "how much?; how many?"
+    },
+    {
+        "index": 96,
+        "simplified": "块",
+        "pinyin": "kuài",
+        "meaning": "lump; piece; sum of money"
+    },
+    {
+        "index": 97,
+        "simplified": "女儿",
+        "pinyin": "nǚ 'ér",
+        "meaning": "daughter"
+    },
+    {
+        "index": 98,
+        "simplified": "小姐",
+        "pinyin": "xiǎo jie",
+        "meaning": "young lady; miss; Ms."
+    },
+    {
+        "index": 99,
+        "simplified": "衣服",
+        "pinyin": "yī fu",
+        "meaning": "clothes"
+    },
+    {
+        "index": 100,
+        "simplified": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water"
+    },
+    {
+        "index": 101,
+        "simplified": "学校",
+        "pinyin": "xué xiào",
+        "meaning": "school"
+    },
+    {
+        "index": 102,
+        "simplified": "电影",
+        "pinyin": "diàn yǐng",
+        "meaning": "movie; film"
+    },
+    {
+        "index": 103,
+        "simplified": "书",
+        "pinyin": "shū",
+        "meaning": "book; letter"
+    },
+    {
+        "index": 104,
+        "simplified": "四",
+        "pinyin": "sì",
+        "meaning": "four"
+    },
+    {
+        "index": 105,
+        "simplified": "五",
+        "pinyin": "wǔ",
+        "meaning": "five"
+    },
+    {
+        "index": 106,
+        "simplified": "医院",
+        "pinyin": "yī yuàn",
+        "meaning": "hospital"
+    },
+    {
+        "index": 107,
+        "simplified": "没关系",
+        "pinyin": "méi  guān xi",
+        "meaning": "it doesn't matter; never mind"
+    },
+    {
+        "index": 108,
+        "simplified": "飞机",
+        "pinyin": "fēi jī",
+        "meaning": "airplane"
+    },
+    {
+        "index": 109,
+        "simplified": "二",
+        "pinyin": "èr",
+        "meaning": "two"
+    },
+    {
+        "index": 110,
+        "simplified": "电视",
+        "pinyin": "diàn shì",
+        "meaning": "television; TV"
+    },
+    {
+        "index": 111,
+        "simplified": "读",
+        "pinyin": "dú",
+        "meaning": "to read; to study"
+    },
+    {
+        "index": 112,
+        "simplified": "后面",
+        "pinyin": "hòu mian",
+        "meaning": "back; behind"
+    },
+    {
+        "index": 113,
+        "simplified": "昨天",
+        "pinyin": "zuó tiān",
+        "meaning": "yesterday"
+    },
+    {
+        "index": 114,
+        "simplified": "睡觉",
+        "pinyin": "shuì  jiào",
+        "meaning": "to sleep; go to bed"
+    },
+    {
+        "index": 115,
+        "simplified": "六",
+        "pinyin": "liù",
+        "meaning": "six"
+    },
+    {
+        "index": 116,
+        "simplified": "老师",
+        "pinyin": "lǎo shī",
+        "meaning": "teacher"
+    },
+    {
+        "index": 117,
+        "simplified": "星期",
+        "pinyin": "xīng qī",
+        "meaning": "week"
+    },
+    {
+        "index": 118,
+        "simplified": "十",
+        "pinyin": "shí",
+        "meaning": "ten"
+    },
+    {
+        "index": 119,
+        "simplified": "猫",
+        "pinyin": "māo",
+        "meaning": "cat"
+    },
+    {
+        "index": 120,
+        "simplified": "电脑",
+        "pinyin": "diàn nǎo",
+        "meaning": "computer"
+    },
+    {
+        "index": 121,
+        "simplified": "热",
+        "pinyin": "rè",
+        "meaning": "heat; hot"
+    },
+    {
+        "index": 122,
+        "simplified": "学生",
+        "pinyin": "xué sheng",
+        "meaning": "student"
+    },
+    {
+        "index": 123,
+        "simplified": "下午",
+        "pinyin": "xià wǔ",
+        "meaning": "afternoon"
+    },
+    {
+        "index": 124,
+        "simplified": "学习",
+        "pinyin": "xué xí",
+        "meaning": "learn; to study"
+    },
+    {
+        "index": 125,
+        "simplified": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold"
+    },
+    {
+        "index": 126,
+        "simplified": "不客气",
+        "pinyin": "bú  kè qi",
+        "meaning": "you're welcome; don't be polite"
+    },
+    {
+        "index": 127,
+        "simplified": "前面",
+        "pinyin": "qián miàn",
+        "meaning": "in front"
+    },
+    {
+        "index": 128,
+        "simplified": "八",
+        "pinyin": "bā",
+        "meaning": "eight"
+    },
+    {
+        "index": 129,
+        "simplified": "中国",
+        "pinyin": "zhōng guó",
+        "meaning": "China"
+    },
+    {
+        "index": 130,
+        "simplified": "七",
+        "pinyin": "qī",
+        "meaning": "seven"
+    },
+    {
+        "index": 131,
+        "simplified": "菜",
+        "pinyin": "cài",
+        "meaning": "dish (type of food); vegetables"
+    },
+    {
+        "index": 132,
+        "simplified": "桌子",
+        "pinyin": "zhuō zi",
+        "meaning": "table; desk"
+    },
+    {
+        "index": 133,
+        "simplified": "出租车",
+        "pinyin": "chū zū chē",
+        "meaning": "taxi; cab"
+    },
+    {
+        "index": 134,
+        "simplified": "天气",
+        "pinyin": "tiān qì",
+        "meaning": "weather"
+    },
+    {
+        "index": 135,
+        "simplified": "茶",
+        "pinyin": "chá",
+        "meaning": "tea"
+    },
+    {
+        "index": 136,
+        "simplified": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine"
+    },
+    {
+        "index": 137,
+        "simplified": "商店",
+        "pinyin": "shāng diàn",
+        "meaning": "shop; store"
+    },
+    {
+        "index": 138,
+        "simplified": "椅子",
+        "pinyin": "yǐ zi",
+        "meaning": "chair"
+    },
+    {
+        "index": 139,
+        "simplified": "同学",
+        "pinyin": "tóng xué",
+        "meaning": "fellow student; schoolmate"
+    },
+    {
+        "index": 140,
+        "simplified": "一点儿",
+        "pinyin": "yì diǎn r",
+        "meaning": "a bit; a few"
+    },
+    {
+        "index": 141,
+        "simplified": "苹果",
+        "pinyin": "píng guǒ",
+        "meaning": "apple"
+    },
+    {
+        "index": 142,
+        "simplified": "饭店",
+        "pinyin": "fàn diàn",
+        "meaning": "restaurant; hotel"
+    },
+    {
+        "index": 143,
+        "simplified": "中午",
+        "pinyin": "zhōng wǔ",
+        "meaning": "noon; midday"
+    },
+    {
+        "index": 144,
+        "simplified": "上午",
+        "pinyin": "shàng wǔ",
+        "meaning": "late morning (before noon)"
+    },
+    {
+        "index": 145,
+        "simplified": "水果",
+        "pinyin": "shuǐ guǒ",
+        "meaning": "fruit"
+    },
+    {
+        "index": 146,
+        "simplified": "杯子",
+        "pinyin": "bēi zi",
+        "meaning": "cup; glass"
+    },
+    {
+        "index": 147,
+        "simplified": "下雨",
+        "pinyin": "xià yǔ",
+        "meaning": "to rain"
+    },
+    {
+        "index": 148,
+        "simplified": "米饭",
+        "pinyin": "mǐ fàn",
+        "meaning": "(cooked) rice"
+    },
+    {
+        "index": 149,
+        "simplified": "北京",
+        "pinyin": "běi jīng",
+        "meaning": "Beijing"
+    },
+    {
+        "index": 150,
+        "simplified": "汉语",
+        "pinyin": "hàn yǔ",
+        "meaning": "Chinese language"
+    }
+]
