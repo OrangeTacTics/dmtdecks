@@ -10,13 +10,26 @@ def cls(fn):
 
 
 @cls
+def is_family(word):
+    relatives = ['mother', 'father', 'sister', 'brother', 'uncle', 'daughter', 'mom; mum']
+    return (
+        any(r in word['meaning'].lower() for r in relatives) or
+        word['meaning'] == 'son' or
+        'Dad' in word['meaning']
+    )
+
+@cls
 def is_number(word):
     return word['simplified'] in '一ニ三四五六七八九十百千 万億兆'
 
 
 @cls
 def is_counter(word):
-    return 'measure word' in word['meaning'] or '(mw ' in word['meaning']
+    return (
+        'measure word' in word['meaning'] or
+        'counter word' in word['meaning'] or
+        '(mw ' in word['meaning']
+    )
 
 
 @cls
@@ -35,6 +48,7 @@ def is_kangxiradical(word):
 @cls
 def is_question(word):
     return '?' in word['meaning']
+
 
 @cls
 def is_pronoun(word):

@@ -242,7 +242,9 @@
         "pinyin": "ge",
         "zhuyin": "ㄍㄜ˙",
         "meaning": "things [counter word]",
-        "classes": []
+        "classes": [
+            "COUNTER"
+        ]
     },
     "26": {
         "hsk": 1,
@@ -606,7 +608,9 @@
         "pinyin": "bà ba",
         "zhuyin": "ㄅㄚˋ ㄅㄚ˙",
         "meaning": "Dad",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "66": {
         "hsk": 1,
@@ -819,7 +823,9 @@
         "pinyin": "ér zi",
         "zhuyin": "ㄦˊ ㄗ˙",
         "meaning": "son",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "89": {
         "hsk": 1,
@@ -906,7 +912,9 @@
         "pinyin": "nǚ 'ér",
         "zhuyin": "ㄋㄩˇ 'ㄦˊ",
         "meaning": "daughter",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "98": {
         "hsk": 1,
@@ -1776,7 +1784,9 @@
         "pinyin": "hái zi",
         "zhuyin": "ㄏㄞˊ ㄗ˙",
         "meaning": "child; children; son or daughter",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "193": {
         "hsk": 2,
@@ -2368,7 +2378,9 @@
         "pinyin": "gē ge",
         "zhuyin": "ㄍㄜ ㄍㄜ˙",
         "meaning": "older brother",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "257": {
         "hsk": 2,
@@ -2413,7 +2425,9 @@
         "pinyin": "dì di",
         "zhuyin": "ㄉㄧˋ ㄉㄧ˙",
         "meaning": "younger brother",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "262": {
         "hsk": 2,
@@ -2422,7 +2436,9 @@
         "pinyin": "mèi mei",
         "zhuyin": "ㄇㄟˋ ㄇㄟ˙",
         "meaning": "younger sister",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "263": {
         "hsk": 2,
@@ -2467,7 +2483,9 @@
         "pinyin": "jiě jie",
         "zhuyin": "ㄐㄧㄝˇ ㄐㄧㄝ˙",
         "meaning": "older sister",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "269": {
         "hsk": 2,
@@ -2941,7 +2959,9 @@
         "pinyin": "zhī",
         "zhuyin": "ㄓ",
         "meaning": "number of animals [counter word]",
-        "classes": []
+        "classes": [
+            "COUNTER"
+        ]
     },
     "328": {
         "hsk": 3,
@@ -4506,7 +4526,9 @@
         "pinyin": "shū shu",
         "zhuyin": "ㄕㄨ ㄕㄨ˙",
         "meaning": "(informal) father's younger brother; uncle",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "503": {
         "hsk": 3,
@@ -4679,7 +4701,9 @@
         "pinyin": "nǎi nai",
         "zhuyin": "ㄋㄞˇ ㄋㄞ˙",
         "meaning": "grandma; (informal) paternal grandmother",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "522": {
         "hsk": 3,
@@ -4744,7 +4768,9 @@
         "pinyin": "yé ye",
         "zhuyin": "ㄧㄝˊ ㄧㄝ˙",
         "meaning": "(informal) father's father; paternal grandfather",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "529": {
         "hsk": 3,
@@ -5122,7 +5148,9 @@
         "pinyin": "ā yí",
         "zhuyin": "ㄚ ㄧˊ",
         "meaning": "auntie; step-mother; mother's younger sister",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "572": {
         "hsk": 3,
@@ -5994,7 +6022,9 @@
         "pinyin": "fù qin",
         "zhuyin": "ㄈㄨˋ ㄑㄧㄣ˙",
         "meaning": "father",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "672": {
         "hsk": 4,
@@ -6551,7 +6581,9 @@
         "pinyin": "mǔ qin",
         "zhuyin": "ㄇㄨˇ ㄑㄧㄣ˙",
         "meaning": "mother",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "733": {
         "hsk": 4,
@@ -11480,7 +11512,9 @@
         "pinyin": "xiōng dì",
         "zhuyin": "ㄒㄩㄥ ㄉㄧˋ",
         "meaning": "brothers; younger brother; brethren",
-        "classes": []
+        "classes": [
+            "FAMILY"
+        ]
     },
     "1276": {
         "hsk": 5,
