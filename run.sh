@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export CARD_COUNT=2000
+
 set -ex
 
 mkdir -p build output
@@ -25,8 +27,6 @@ cat \
     <(echo "# HSK 6") \
     build/hsk6.txt \
     > build/hsk.dirty.txt
-
-export CARD_COUNT=200
 
 python -m transforms.00_cleanup    build/hsk.dirty.txt build/hsk.txt
 python -m transforms.01_structure  build/hsk.txt       build/words.00.json
