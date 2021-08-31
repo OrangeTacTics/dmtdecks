@@ -15,7 +15,8 @@ def key(word):
     class_sorter = '-'.join(sorted(word['classes']))
     if not class_sorter:
         class_sorter = 'ZZZ'
-    return (class_sorter, int(id))
+    return int(id)
+    # return (class_sorter, int(id))
 
 
 assert not os.path.exists('data/order.json'), 'File data/order.json already exists.'

@@ -1,62 +1,38 @@
 [
     {
-        "index": 47,
-        "hsk": 1,
-        "simplified": "大",
-        "traditional": "大",
-        "pinyin": "dà",
-        "zhuyin": "ㄉㄚˋ",
-        "meaning": "big; large",
-        "classes": [
-            "BASICADJECTIVE"
-        ]
-    },
-    {
-        "index": 49,
-        "hsk": 1,
-        "simplified": "小",
-        "traditional": "小",
-        "pinyin": "xiǎo",
-        "zhuyin": "ㄒㄧㄠˇ",
-        "meaning": "small; young",
-        "classes": [
-            "BASICADJECTIVE"
-        ]
-    },
-    {
-        "index": 71,
-        "hsk": 1,
-        "simplified": "高兴",
-        "traditional": "高興",
-        "pinyin": "gāo xìng",
-        "zhuyin": "ㄍㄠ ㄒㄧㄥˋ",
-        "meaning": "happy; glad",
-        "classes": [
-            "BASICADJECTIVE"
-        ]
-    },
-    {
-        "index": 180,
-        "hsk": 2,
-        "simplified": "快",
-        "traditional": "快",
-        "pinyin": "kuài",
-        "zhuyin": "ㄎㄨㄞˋ",
-        "meaning": "fast; quick; swift",
-        "classes": [
-            "BASICADJECTIVE"
-        ]
-    },
-    {
         "index": 1,
         "hsk": 1,
         "simplified": "的",
         "traditional": "的",
         "pinyin": "de",
         "zhuyin": "ㄉㄜ˙",
-        "meaning": "indicates possession, like adding 's to a noun",
+        "meaning": "〜's [possessive]",
         "classes": [
             "BASICGRAMMAR"
+        ]
+    },
+    {
+        "index": 2,
+        "hsk": 1,
+        "simplified": "我",
+        "traditional": "我",
+        "pinyin": "wǒ",
+        "zhuyin": "ㄨㄛˇ",
+        "meaning": "I",
+        "classes": [
+            "PRONOUN"
+        ]
+    },
+    {
+        "index": 3,
+        "hsk": 1,
+        "simplified": "你",
+        "traditional": "你",
+        "pinyin": "nǐ",
+        "zhuyin": "ㄋㄧˇ",
+        "meaning": "you",
+        "classes": [
+            "PRONOUN"
         ]
     },
     {
@@ -66,7 +42,7 @@
         "traditional": "是",
         "pinyin": "shì",
         "zhuyin": "ㄕˋ",
-        "meaning": "be; is; are; am",
+        "meaning": "is",
         "classes": [
             "BASICGRAMMAR"
         ]
@@ -78,7 +54,7 @@
         "traditional": "了",
         "pinyin": "le",
         "zhuyin": "ㄌㄜ˙",
-        "meaning": "indicates a completed or finished action",
+        "meaning": "〜ed [past tense]",
         "classes": [
             "BASICGRAMMAR"
         ]
@@ -90,21 +66,43 @@
         "traditional": "不",
         "pinyin": "bù",
         "zhuyin": "ㄅㄨˋ",
-        "meaning": "no; not",
+        "meaning": "not",
         "classes": [
             "BASICGRAMMAR"
         ]
     },
     {
-        "index": 11,
+        "index": 7,
         "hsk": 1,
-        "simplified": "有",
-        "traditional": "有",
-        "pinyin": "yǒu",
-        "zhuyin": "ㄧㄡˇ",
-        "meaning": "have",
+        "simplified": "在",
+        "traditional": "在",
+        "pinyin": "zài",
+        "zhuyin": "ㄗㄞˋ",
+        "meaning": "at; 〜ing [progressive tense]",
+        "classes": []
+    },
+    {
+        "index": 8,
+        "hsk": 1,
+        "simplified": "他",
+        "traditional": "他",
+        "pinyin": "tā",
+        "zhuyin": "ㄊㄚ",
+        "meaning": "he",
         "classes": [
-            "BASICGRAMMAR"
+            "PRONOUN"
+        ]
+    },
+    {
+        "index": 9,
+        "hsk": 1,
+        "simplified": "我们",
+        "traditional": "我們",
+        "pinyin": "wǒ men",
+        "zhuyin": "ㄨㄛˇ ㄇㄣ˙",
+        "meaning": "we",
+        "classes": [
+            "PRONOUN"
         ]
     },
     {
@@ -120,689 +118,16 @@
         ]
     },
     {
-        "index": 18,
+        "index": 11,
         "hsk": 1,
-        "simplified": "想",
-        "traditional": "想",
-        "pinyin": "xiǎng",
-        "zhuyin": "ㄒㄧㄤˇ",
-        "meaning": "think; believe; suppose; would like to",
+        "simplified": "有",
+        "traditional": "有",
+        "pinyin": "yǒu",
+        "zhuyin": "ㄧㄡˇ",
+        "meaning": "have; there is",
         "classes": [
-            "BASICVERB"
+            "BASICGRAMMAR"
         ]
-    },
-    {
-        "index": 23,
-        "hsk": 1,
-        "simplified": "来",
-        "traditional": "來",
-        "pinyin": "lái",
-        "zhuyin": "ㄌㄞˊ",
-        "meaning": "come; arrive; ever since; next",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 27,
-        "hsk": 1,
-        "simplified": "去",
-        "traditional": "去",
-        "pinyin": "qù",
-        "zhuyin": "ㄑㄩˋ",
-        "meaning": "go; to leave",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 32,
-        "hsk": 1,
-        "simplified": "看",
-        "traditional": "看",
-        "pinyin": "kàn",
-        "zhuyin": "ㄎㄢˋ",
-        "meaning": "see; look at; to watch",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 50,
-        "hsk": 1,
-        "simplified": "叫",
-        "traditional": "叫",
-        "pinyin": "jiào",
-        "zhuyin": "ㄐㄧㄠˋ",
-        "meaning": "to be called",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 53,
-        "hsk": 1,
-        "simplified": "请",
-        "traditional": "請",
-        "pinyin": "qǐng",
-        "zhuyin": "ㄑㄧㄥˇ",
-        "meaning": "please; invite; to treat someone to something",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 54,
-        "hsk": 1,
-        "simplified": "回",
-        "traditional": "回",
-        "pinyin": "huí",
-        "zhuyin": "ㄏㄨㄟˊ",
-        "meaning": "to return; to reply; to go back",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 57,
-        "hsk": 1,
-        "simplified": "吃",
-        "traditional": "吃",
-        "pinyin": "chī",
-        "zhuyin": "ㄔ",
-        "meaning": "eat",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 72,
-        "hsk": 1,
-        "simplified": "买",
-        "traditional": "買",
-        "pinyin": "mǎi",
-        "zhuyin": "ㄇㄞˇ",
-        "meaning": "to buy",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 79,
-        "hsk": 1,
-        "simplified": "喝",
-        "traditional": "喝",
-        "pinyin": "hē",
-        "zhuyin": "ㄏㄜ",
-        "meaning": "to drink",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 85,
-        "hsk": 1,
-        "simplified": "看见",
-        "traditional": "看見",
-        "pinyin": "kàn jiàn",
-        "zhuyin": "ㄎㄢˋ ㄐㄧㄢˋ",
-        "meaning": "see; catch sight of",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 86,
-        "hsk": 1,
-        "simplified": "打电话",
-        "traditional": "打電話",
-        "pinyin": "dǎ  diàn huà",
-        "zhuyin": "ㄉㄚˇ  ㄉㄧㄢˋ ㄏㄨㄚˋ",
-        "meaning": "make a phone call",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 91,
-        "hsk": 1,
-        "simplified": "再见",
-        "traditional": "再見",
-        "pinyin": "zài jiàn",
-        "zhuyin": "ㄗㄞˋ ㄐㄧㄢˋ",
-        "meaning": "goodbye; see you later",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 114,
-        "hsk": 1,
-        "simplified": "睡觉",
-        "traditional": "睡覺",
-        "pinyin": "shuì  jiào",
-        "zhuyin": "ㄕㄨㄟˋ  ㄐㄧㄠˋ",
-        "meaning": "to sleep; go to bed",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 121,
-        "hsk": 1,
-        "simplified": "热",
-        "traditional": "熱",
-        "pinyin": "rè",
-        "zhuyin": "ㄖㄜˋ",
-        "meaning": "heat; hot",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 126,
-        "hsk": 1,
-        "simplified": "不客气",
-        "traditional": "不客氣",
-        "pinyin": "bú  kè qi",
-        "zhuyin": "ㄅㄨˊ  ㄎㄜˋ ㄑㄧ˙",
-        "meaning": "you're welcome; don't be polite",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 134,
-        "hsk": 1,
-        "simplified": "天气",
-        "traditional": "天氣",
-        "pinyin": "tiān qì",
-        "zhuyin": "ㄊㄧㄢ ㄑㄧˋ",
-        "meaning": "weather",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 165,
-        "hsk": 2,
-        "simplified": "过",
-        "traditional": "過",
-        "pinyin": "guò",
-        "zhuyin": "ㄍㄨㄛˋ",
-        "meaning": "to pass; to cross; go over; (indicates a past experience)",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 184,
-        "hsk": 2,
-        "simplified": "觉得",
-        "traditional": "覺得",
-        "pinyin": "jué de",
-        "zhuyin": "ㄐㄩㄝˊ ㄉㄜ˙",
-        "meaning": "feel; think",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 187,
-        "hsk": 2,
-        "simplified": "找",
-        "traditional": "找",
-        "pinyin": "zhǎo",
-        "zhuyin": "ㄓㄠˇ",
-        "meaning": "try to find; look for; seek; to give change",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 191,
-        "hsk": 2,
-        "simplified": "出",
-        "traditional": "出",
-        "pinyin": "chū",
-        "zhuyin": "ㄔㄨ",
-        "meaning": "go out; occur",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 176,
-        "hsk": 2,
-        "simplified": "走",
-        "traditional": "走",
-        "pinyin": "zǒu",
-        "zhuyin": "ㄗㄡˇ",
-        "meaning": "to walk; to go; to move (Kangxi radical 156)",
-        "classes": [
-            "BASICVERB",
-            "KANGXIRADICAL"
-        ]
-    },
-    {
-        "index": 25,
-        "hsk": 1,
-        "simplified": "个",
-        "traditional": "個",
-        "pinyin": "ge",
-        "zhuyin": "ㄍㄜ˙",
-        "meaning": "general measure word",
-        "classes": [
-            "COUNTER"
-        ]
-    },
-    {
-        "index": 92,
-        "hsk": 1,
-        "simplified": "本",
-        "traditional": "本",
-        "pinyin": "běn",
-        "zhuyin": "ㄅㄣˇ",
-        "meaning": "measure word for books",
-        "classes": [
-            "COUNTER"
-        ]
-    },
-    {
-        "index": 90,
-        "hsk": 1,
-        "simplified": "分钟",
-        "traditional": "分鐘",
-        "pinyin": "fēn zhōng",
-        "zhuyin": "ㄈㄣ ㄓㄨㄥ",
-        "meaning": "minute; (measure word for time)",
-        "classes": [
-            "COUNTER",
-            "TIME"
-        ]
-    },
-    {
-        "index": 190,
-        "hsk": 2,
-        "simplified": "次",
-        "traditional": "次",
-        "pinyin": "cì",
-        "zhuyin": "ㄘˋ",
-        "meaning": "(mw for number of times of occurrence); nth; order",
-        "classes": [
-            "COUNTER",
-            "TIME"
-        ]
-    },
-    {
-        "index": 62,
-        "hsk": 1,
-        "simplified": "妈妈",
-        "traditional": "媽媽",
-        "pinyin": "mā ma",
-        "zhuyin": "ㄇㄚ ㄇㄚ˙",
-        "meaning": "mom; mum",
-        "classes": [
-            "FAMILY"
-        ]
-    },
-    {
-        "index": 65,
-        "hsk": 1,
-        "simplified": "爸爸",
-        "traditional": "爸爸",
-        "pinyin": "bà ba",
-        "zhuyin": "ㄅㄚˋ ㄅㄚ˙",
-        "meaning": "Dad",
-        "classes": [
-            "FAMILY"
-        ]
-    },
-    {
-        "index": 88,
-        "hsk": 1,
-        "simplified": "儿子",
-        "traditional": "兒子",
-        "pinyin": "ér zi",
-        "zhuyin": "ㄦˊ ㄗ˙",
-        "meaning": "son",
-        "classes": [
-            "FAMILY"
-        ]
-    },
-    {
-        "index": 97,
-        "hsk": 1,
-        "simplified": "女儿",
-        "traditional": "女兒",
-        "pinyin": "nǚ 'ér",
-        "zhuyin": "ㄋㄩˇ 'ㄦˊ",
-        "meaning": "daughter",
-        "classes": [
-            "FAMILY"
-        ]
-    },
-    {
-        "index": 192,
-        "hsk": 2,
-        "simplified": "孩子",
-        "traditional": "孩子",
-        "pinyin": "hái zi",
-        "zhuyin": "ㄏㄞˊ ㄗ˙",
-        "meaning": "child; children; son or daughter",
-        "classes": [
-            "FAMILY"
-        ]
-    },
-    {
-        "index": 19,
-        "hsk": 1,
-        "simplified": "一",
-        "traditional": "一",
-        "pinyin": "yī",
-        "zhuyin": "ㄧ",
-        "meaning": "one; once; a",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 70,
-        "hsk": 1,
-        "simplified": "三",
-        "traditional": "三",
-        "pinyin": "sān",
-        "zhuyin": "ㄙㄢ",
-        "meaning": "three",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 104,
-        "hsk": 1,
-        "simplified": "四",
-        "traditional": "四",
-        "pinyin": "sì",
-        "zhuyin": "ㄙˋ",
-        "meaning": "four",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 105,
-        "hsk": 1,
-        "simplified": "五",
-        "traditional": "五",
-        "pinyin": "wǔ",
-        "zhuyin": "ㄨˇ",
-        "meaning": "five",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 115,
-        "hsk": 1,
-        "simplified": "六",
-        "traditional": "六",
-        "pinyin": "liù",
-        "zhuyin": "ㄌㄧㄡˋ",
-        "meaning": "six",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 118,
-        "hsk": 1,
-        "simplified": "十",
-        "traditional": "十",
-        "pinyin": "shí",
-        "zhuyin": "ㄕˊ",
-        "meaning": "ten",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 128,
-        "hsk": 1,
-        "simplified": "八",
-        "traditional": "八",
-        "pinyin": "bā",
-        "zhuyin": "ㄅㄚ",
-        "meaning": "eight",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 130,
-        "hsk": 1,
-        "simplified": "七",
-        "traditional": "七",
-        "pinyin": "qī",
-        "zhuyin": "ㄑㄧ",
-        "meaning": "seven",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 136,
-        "hsk": 1,
-        "simplified": "九",
-        "traditional": "九",
-        "pinyin": "jiǔ",
-        "zhuyin": "ㄐㄧㄡˇ",
-        "meaning": "nine",
-        "classes": [
-            "NUMBER"
-        ]
-    },
-    {
-        "index": 2,
-        "hsk": 1,
-        "simplified": "我",
-        "traditional": "我",
-        "pinyin": "wǒ",
-        "zhuyin": "ㄨㄛˇ",
-        "meaning": "I; me",
-        "classes": [
-            "PRONOUN"
-        ]
-    },
-    {
-        "index": 3,
-        "hsk": 1,
-        "simplified": "你",
-        "traditional": "你",
-        "pinyin": "nǐ",
-        "zhuyin": "ㄋㄧˇ",
-        "meaning": "you (singular)",
-        "classes": [
-            "PRONOUN"
-        ]
-    },
-    {
-        "index": 8,
-        "hsk": 1,
-        "simplified": "他",
-        "traditional": "他",
-        "pinyin": "tā",
-        "zhuyin": "ㄊㄚ",
-        "meaning": "he; him",
-        "classes": [
-            "PRONOUN"
-        ]
-    },
-    {
-        "index": 9,
-        "hsk": 1,
-        "simplified": "我们",
-        "traditional": "我們",
-        "pinyin": "wǒ men",
-        "zhuyin": "ㄨㄛˇ ㄇㄣ˙",
-        "meaning": "we; us",
-        "classes": [
-            "PRONOUN"
-        ]
-    },
-    {
-        "index": 185,
-        "hsk": 2,
-        "simplified": "它",
-        "traditional": "它",
-        "pinyin": "tā",
-        "zhuyin": "ㄊㄚ",
-        "meaning": "it",
-        "classes": [
-            "PRONOUN"
-        ]
-    },
-    {
-        "index": 14,
-        "hsk": 1,
-        "simplified": "吗",
-        "traditional": "嗎",
-        "pinyin": "ma",
-        "zhuyin": "ㄇㄚ˙",
-        "meaning": "indicates a yes/no question (added to a statement)",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 15,
-        "hsk": 1,
-        "simplified": "什么",
-        "traditional": "什麼",
-        "pinyin": "shén me",
-        "zhuyin": "ㄕㄣˊ ㄇㄜ˙",
-        "meaning": "what? (replaces the noun to turn a statement into a question)",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 33,
-        "hsk": 1,
-        "simplified": "怎么",
-        "traditional": "怎麼",
-        "pinyin": "zěn me",
-        "zhuyin": "ㄗㄣˇ ㄇㄜ˙",
-        "meaning": "how?",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 36,
-        "hsk": 1,
-        "simplified": "呢",
-        "traditional": "呢",
-        "pinyin": "ne",
-        "zhuyin": "ㄋㄜ˙",
-        "meaning": "indicates a question; how about...?;",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 67,
-        "hsk": 1,
-        "simplified": "怎么样",
-        "traditional": "怎麼樣",
-        "pinyin": "zěn me yàng",
-        "zhuyin": "ㄗㄣˇ ㄇㄜ˙ ㄧㄤˋ",
-        "meaning": "how about?; how is/was it?",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 74,
-        "hsk": 1,
-        "simplified": "哪儿",
-        "traditional": "哪兒",
-        "pinyin": "nǎ r",
-        "zhuyin": "ㄋㄚˇ ㄦ˙",
-        "meaning": "where? (Beijing accent)",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 95,
-        "hsk": 1,
-        "simplified": "多少",
-        "traditional": "多少",
-        "pinyin": "duō shao",
-        "zhuyin": "ㄉㄨㄛ ㄕㄠ˙",
-        "meaning": "how much?; how many?",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 155,
-        "hsk": 2,
-        "simplified": "吧",
-        "traditional": "吧",
-        "pinyin": "ba",
-        "zhuyin": "ㄅㄚ˙",
-        "meaning": "right?",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 183,
-        "hsk": 2,
-        "simplified": "为什么",
-        "traditional": "為什麼",
-        "pinyin": "wèi shén me",
-        "zhuyin": "ㄨㄟˋ ㄕㄣˊ ㄇㄜ˙",
-        "meaning": "why?; for what reason?",
-        "classes": [
-            "QUESTION"
-        ]
-    },
-    {
-        "index": 42,
-        "hsk": 1,
-        "simplified": "时候",
-        "traditional": "時候",
-        "pinyin": "shí hou",
-        "zhuyin": "ㄕˊ ㄏㄡ˙",
-        "meaning": "time",
-        "classes": [
-            "TIME"
-        ]
-    },
-    {
-        "index": 157,
-        "hsk": 2,
-        "simplified": "到",
-        "traditional": "到",
-        "pinyin": "dào",
-        "zhuyin": "ㄉㄠˋ",
-        "meaning": "arrive (at a place); until (a time)",
-        "classes": [
-            "TIME"
-        ]
-    },
-    {
-        "index": 7,
-        "hsk": 1,
-        "simplified": "在",
-        "traditional": "在",
-        "pinyin": "zài",
-        "zhuyin": "ㄗㄞˋ",
-        "meaning": "at; on; in; indicates an action in progress",
-        "classes": []
     },
     {
         "index": 12,
@@ -821,8 +146,80 @@
         "traditional": "會",
         "pinyin": "huì",
         "zhuyin": "ㄏㄨㄟˋ",
-        "meaning": "know how to",
+        "meaning": "to know how to 〜; will 〜 [future tense]",
         "classes": []
+    },
+    {
+        "index": 14,
+        "hsk": 1,
+        "simplified": "吗",
+        "traditional": "嗎",
+        "pinyin": "ma",
+        "zhuyin": "ㄇㄚ˙",
+        "meaning": "〜? [question mark]",
+        "classes": [
+            "QUESTION"
+        ]
+    },
+    {
+        "index": 15,
+        "hsk": 1,
+        "simplified": "什么",
+        "traditional": "什麼",
+        "pinyin": "shén me",
+        "zhuyin": "ㄕㄣˊ ㄇㄜ˙",
+        "meaning": "what?",
+        "classes": [
+            "QUESTION"
+        ]
+    },
+    {
+        "index": 16,
+        "hsk": 1,
+        "simplified": "说",
+        "traditional": "說",
+        "pinyin": "shuō",
+        "zhuyin": "ㄕㄨㄛ",
+        "meaning": "speak",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 17,
+        "hsk": 1,
+        "simplified": "她",
+        "traditional": "她",
+        "pinyin": "tā",
+        "zhuyin": "ㄊㄚ",
+        "meaning": "she",
+        "classes": [
+            "PRONOUN"
+        ]
+    },
+    {
+        "index": 18,
+        "hsk": 1,
+        "simplified": "想",
+        "traditional": "想",
+        "pinyin": "xiǎng",
+        "zhuyin": "ㄒㄧㄤˇ",
+        "meaning": "to think; would like to 〜",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 19,
+        "hsk": 1,
+        "simplified": "一",
+        "traditional": "一",
+        "pinyin": "yī",
+        "zhuyin": "ㄧ",
+        "meaning": "one",
+        "classes": [
+            "NUMBER"
+        ]
     },
     {
         "index": 20,
@@ -831,7 +228,7 @@
         "traditional": "很",
         "pinyin": "hěn",
         "zhuyin": "ㄏㄣˇ",
-        "meaning": "very; quite",
+        "meaning": "very",
         "classes": []
     },
     {
@@ -841,7 +238,7 @@
         "traditional": "人",
         "pinyin": "rén",
         "zhuyin": "ㄖㄣˊ",
-        "meaning": "person; man; people",
+        "meaning": "person, people",
         "classes": []
     },
     {
@@ -851,8 +248,20 @@
         "traditional": "那",
         "pinyin": "nà",
         "zhuyin": "ㄋㄚˋ",
-        "meaning": "that; then",
+        "meaning": "that",
         "classes": []
+    },
+    {
+        "index": 23,
+        "hsk": 1,
+        "simplified": "来",
+        "traditional": "來",
+        "pinyin": "lái",
+        "zhuyin": "ㄌㄞˊ",
+        "meaning": "come",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 24,
@@ -861,8 +270,20 @@
         "traditional": "都",
         "pinyin": "dōu",
         "zhuyin": "ㄉㄡ",
-        "meaning": "all; both",
+        "meaning": "both, all",
         "classes": []
+    },
+    {
+        "index": 25,
+        "hsk": 1,
+        "simplified": "个",
+        "traditional": "個",
+        "pinyin": "ge",
+        "zhuyin": "ㄍㄜ˙",
+        "meaning": "things [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
     },
     {
         "index": 26,
@@ -871,8 +292,20 @@
         "traditional": "能",
         "pinyin": "néng",
         "zhuyin": "ㄋㄥˊ",
-        "meaning": "can; be able",
+        "meaning": "can, be able",
         "classes": []
+    },
+    {
+        "index": 27,
+        "hsk": 1,
+        "simplified": "去",
+        "traditional": "去",
+        "pinyin": "qù",
+        "zhuyin": "ㄑㄩˋ",
+        "meaning": "go",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 28,
@@ -881,7 +314,7 @@
         "traditional": "和",
         "pinyin": "hé",
         "zhuyin": "ㄏㄜˊ",
-        "meaning": "and; with",
+        "meaning": "and",
         "classes": []
     },
     {
@@ -901,7 +334,7 @@
         "traditional": "上",
         "pinyin": "shàng",
         "zhuyin": "ㄕㄤˋ",
-        "meaning": "above; up",
+        "meaning": "above",
         "classes": []
     },
     {
@@ -913,6 +346,30 @@
         "zhuyin": "ㄇㄟˊ ㄧㄡˇ",
         "meaning": "not have; there is not",
         "classes": []
+    },
+    {
+        "index": 32,
+        "hsk": 1,
+        "simplified": "看",
+        "traditional": "看",
+        "pinyin": "kàn",
+        "zhuyin": "ㄎㄢˋ",
+        "meaning": "to see",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 33,
+        "hsk": 1,
+        "simplified": "怎么",
+        "traditional": "怎麼",
+        "pinyin": "zěn me",
+        "zhuyin": "ㄗㄣˇ ㄇㄜ˙",
+        "meaning": "how?",
+        "classes": [
+            "QUESTION"
+        ]
     },
     {
         "index": 34,
@@ -931,8 +388,20 @@
         "traditional": "點",
         "pinyin": "diǎn",
         "zhuyin": "ㄉㄧㄢˇ",
-        "meaning": "a dot; a little; o'clock",
+        "meaning": "a little bit; o'clock",
         "classes": []
+    },
+    {
+        "index": 36,
+        "hsk": 1,
+        "simplified": "呢",
+        "traditional": "呢",
+        "pinyin": "ne",
+        "zhuyin": "ㄋㄜ˙",
+        "meaning": "how about 〜?",
+        "classes": [
+            "QUESTION"
+        ]
     },
     {
         "index": 37,
@@ -951,7 +420,7 @@
         "traditional": "裡",
         "pinyin": "lǐ",
         "zhuyin": "ㄌㄧˇ",
-        "meaning": "inside; Chinese mile (~.5 km)",
+        "meaning": "inside",
         "classes": []
     },
     {
@@ -961,7 +430,7 @@
         "traditional": "聽",
         "pinyin": "tīng",
         "zhuyin": "ㄊㄧㄥ",
-        "meaning": "listen; hear",
+        "meaning": "listen",
         "classes": []
     },
     {
@@ -971,7 +440,7 @@
         "traditional": "誰",
         "pinyin": "shéi",
         "zhuyin": "ㄕㄟˊ",
-        "meaning": "who",
+        "meaning": "who?",
         "classes": []
     },
     {
@@ -985,13 +454,25 @@
         "classes": []
     },
     {
+        "index": 42,
+        "hsk": 1,
+        "simplified": "时候",
+        "traditional": "時候",
+        "pinyin": "shí hou",
+        "zhuyin": "ㄕˊ ㄏㄡ˙",
+        "meaning": "time",
+        "classes": [
+            "TIME"
+        ]
+    },
+    {
         "index": 43,
         "hsk": 1,
         "simplified": "下",
         "traditional": "下",
         "pinyin": "xià",
         "zhuyin": "ㄒㄧㄚˋ",
-        "meaning": "fall; below",
+        "meaning": "below",
         "classes": []
     },
     {
@@ -1011,7 +492,7 @@
         "traditional": "先生",
         "pinyin": "xiān sheng",
         "zhuyin": "ㄒㄧㄢ ㄕㄥ˙",
-        "meaning": "Mr.; Sir",
+        "meaning": "teacher",
         "classes": []
     },
     {
@@ -1025,14 +506,50 @@
         "classes": []
     },
     {
+        "index": 47,
+        "hsk": 1,
+        "simplified": "大",
+        "traditional": "大",
+        "pinyin": "dà",
+        "zhuyin": "ㄉㄚˋ",
+        "meaning": "big",
+        "classes": [
+            "BASICADJECTIVE"
+        ]
+    },
+    {
         "index": 48,
         "hsk": 1,
         "simplified": "东西",
         "traditional": "東西",
         "pinyin": "dōng xi",
         "zhuyin": "ㄉㄨㄥ ㄒㄧ˙",
-        "meaning": "things; stuff",
+        "meaning": "something",
         "classes": []
+    },
+    {
+        "index": 49,
+        "hsk": 1,
+        "simplified": "小",
+        "traditional": "小",
+        "pinyin": "xiǎo",
+        "zhuyin": "ㄒㄧㄠˇ",
+        "meaning": "small",
+        "classes": [
+            "BASICADJECTIVE"
+        ]
+    },
+    {
+        "index": 50,
+        "hsk": 1,
+        "simplified": "叫",
+        "traditional": "叫",
+        "pinyin": "jiào",
+        "zhuyin": "ㄐㄧㄠˋ",
+        "meaning": "to be called",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 51,
@@ -1055,13 +572,37 @@
         "classes": []
     },
     {
+        "index": 53,
+        "hsk": 1,
+        "simplified": "请",
+        "traditional": "請",
+        "pinyin": "qǐng",
+        "zhuyin": "ㄑㄧㄥˇ",
+        "meaning": "please",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 54,
+        "hsk": 1,
+        "simplified": "回",
+        "traditional": "回",
+        "pinyin": "huí",
+        "zhuyin": "ㄏㄨㄟˊ",
+        "meaning": "to return",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
         "index": 55,
         "hsk": 1,
         "simplified": "工作",
         "traditional": "工作",
         "pinyin": "gōng zuò",
         "zhuyin": "ㄍㄨㄥ ㄗㄨㄛˋ",
-        "meaning": "work; a job",
+        "meaning": "work, job",
         "classes": []
     },
     {
@@ -1071,8 +612,20 @@
         "traditional": "錢",
         "pinyin": "qián",
         "zhuyin": "ㄑㄧㄢˊ",
-        "meaning": "money; coin",
+        "meaning": "money",
         "classes": []
+    },
+    {
+        "index": 57,
+        "hsk": 1,
+        "simplified": "吃",
+        "traditional": "吃",
+        "pinyin": "chī",
+        "zhuyin": "ㄔ",
+        "meaning": "eat",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 58,
@@ -1081,7 +634,7 @@
         "traditional": "開",
         "pinyin": "kāi",
         "zhuyin": "ㄎㄞ",
-        "meaning": "to open; to start; to operate (a vehicle)",
+        "meaning": "to open; to start",
         "classes": []
     },
     {
@@ -1101,7 +654,7 @@
         "traditional": "哪",
         "pinyin": "nǎ",
         "zhuyin": "ㄋㄚˇ",
-        "meaning": "which; how",
+        "meaning": "which?",
         "classes": []
     },
     {
@@ -1113,6 +666,18 @@
         "zhuyin": "ㄆㄥˊ ㄧㄡ˙",
         "meaning": "friend",
         "classes": []
+    },
+    {
+        "index": 62,
+        "hsk": 1,
+        "simplified": "妈妈",
+        "traditional": "媽媽",
+        "pinyin": "mā ma",
+        "zhuyin": "ㄇㄚ ㄇㄚ˙",
+        "meaning": "mom",
+        "classes": [
+            "FAMILY"
+        ]
     },
     {
         "index": 63,
@@ -1131,8 +696,20 @@
         "traditional": "幾",
         "pinyin": "jǐ",
         "zhuyin": "ㄐㄧˇ",
-        "meaning": "how many; several; a few",
+        "meaning": "how many?",
         "classes": []
+    },
+    {
+        "index": 65,
+        "hsk": 1,
+        "simplified": "爸爸",
+        "traditional": "爸爸",
+        "pinyin": "bà ba",
+        "zhuyin": "ㄅㄚˋ ㄅㄚ˙",
+        "meaning": "dad",
+        "classes": [
+            "FAMILY"
+        ]
     },
     {
         "index": 66,
@@ -1141,8 +718,20 @@
         "traditional": "些",
         "pinyin": "xiē",
         "zhuyin": "ㄒㄧㄝ",
-        "meaning": "some; few; several",
+        "meaning": "some",
         "classes": []
+    },
+    {
+        "index": 67,
+        "hsk": 1,
+        "simplified": "怎么样",
+        "traditional": "怎麼樣",
+        "pinyin": "zěn me yàng",
+        "zhuyin": "ㄗㄣˇ ㄇㄜ˙ ㄧㄤˋ",
+        "meaning": "how?",
+        "classes": [
+            "QUESTION"
+        ]
     },
     {
         "index": 68,
@@ -1161,8 +750,44 @@
         "traditional": "住",
         "pinyin": "zhù",
         "zhuyin": "ㄓㄨˋ",
-        "meaning": "to live; reside; to stop",
+        "meaning": "to live in, to reside",
         "classes": []
+    },
+    {
+        "index": 70,
+        "hsk": 1,
+        "simplified": "三",
+        "traditional": "三",
+        "pinyin": "sān",
+        "zhuyin": "ㄙㄢ",
+        "meaning": "three",
+        "classes": [
+            "NUMBER"
+        ]
+    },
+    {
+        "index": 71,
+        "hsk": 1,
+        "simplified": "高兴",
+        "traditional": "高興",
+        "pinyin": "gāo xìng",
+        "zhuyin": "ㄍㄠ ㄒㄧㄥˋ",
+        "meaning": "happy",
+        "classes": [
+            "BASICADJECTIVE"
+        ]
+    },
+    {
+        "index": 72,
+        "hsk": 1,
+        "simplified": "买",
+        "traditional": "買",
+        "pinyin": "mǎi",
+        "zhuyin": "ㄇㄞˇ",
+        "meaning": "to buy",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 73,
@@ -1175,13 +800,25 @@
         "classes": []
     },
     {
+        "index": 74,
+        "hsk": 1,
+        "simplified": "哪儿",
+        "traditional": "哪兒",
+        "pinyin": "nǎ r",
+        "zhuyin": "ㄋㄚˇ ㄦ˙",
+        "meaning": "where?",
+        "classes": [
+            "QUESTION"
+        ]
+    },
+    {
         "index": 75,
         "hsk": 1,
         "simplified": "字",
         "traditional": "字",
         "pinyin": "zì",
         "zhuyin": "ㄗˋ",
-        "meaning": "letter; character",
+        "meaning": "letter, character",
         "classes": []
     },
     {
@@ -1201,7 +838,7 @@
         "traditional": "認識",
         "pinyin": "rèn shi",
         "zhuyin": "ㄖㄣˋ ㄕ˙",
-        "meaning": "recognize; know (a person)",
+        "meaning": "to know someone",
         "classes": []
     },
     {
@@ -1211,8 +848,20 @@
         "traditional": "坐",
         "pinyin": "zuò",
         "zhuyin": "ㄗㄨㄛˋ",
-        "meaning": "sit",
+        "meaning": "to sit",
         "classes": []
+    },
+    {
+        "index": 79,
+        "hsk": 1,
+        "simplified": "喝",
+        "traditional": "喝",
+        "pinyin": "hē",
+        "zhuyin": "ㄏㄜ",
+        "meaning": "to drink",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 80,
@@ -1221,7 +870,7 @@
         "traditional": "寫",
         "pinyin": "xiě",
         "zhuyin": "ㄒㄧㄝˇ",
-        "meaning": "to write; to compose",
+        "meaning": "to write",
         "classes": []
     },
     {
@@ -1231,7 +880,7 @@
         "traditional": "月",
         "pinyin": "yuè",
         "zhuyin": "ㄩㄝˋ",
-        "meaning": "moon; month; flesh (radical)",
+        "meaning": "moon; month",
         "classes": []
     },
     {
@@ -1241,7 +890,7 @@
         "traditional": "號",
         "pinyin": "hào",
         "zhuyin": "ㄏㄠˋ",
-        "meaning": "number; day of a month",
+        "meaning": "day of a month [counter word]",
         "classes": []
     },
     {
@@ -1261,8 +910,32 @@
         "traditional": "歲",
         "pinyin": "suì",
         "zhuyin": "ㄙㄨㄟˋ",
-        "meaning": "years old; age",
+        "meaning": "years old",
         "classes": []
+    },
+    {
+        "index": 85,
+        "hsk": 1,
+        "simplified": "看见",
+        "traditional": "看見",
+        "pinyin": "kàn jiàn",
+        "zhuyin": "ㄎㄢˋ ㄐㄧㄢˋ",
+        "meaning": "see",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 86,
+        "hsk": 1,
+        "simplified": "打电话",
+        "traditional": "打電話",
+        "pinyin": "dǎ  diàn huà",
+        "zhuyin": "ㄉㄚˇ  ㄉㄧㄢˋ ㄏㄨㄚˋ",
+        "meaning": "to make a phone call",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 87,
@@ -1271,8 +944,20 @@
         "traditional": "喂",
         "pinyin": "wèi",
         "zhuyin": "ㄨㄟˋ",
-        "meaning": "hello (on the phone)",
+        "meaning": "hello [on the phone]",
         "classes": []
+    },
+    {
+        "index": 88,
+        "hsk": 1,
+        "simplified": "儿子",
+        "traditional": "兒子",
+        "pinyin": "ér zi",
+        "zhuyin": "ㄦˊ ㄗ˙",
+        "meaning": "son",
+        "classes": [
+            "FAMILY"
+        ]
     },
     {
         "index": 89,
@@ -1281,8 +966,45 @@
         "traditional": "漂亮",
         "pinyin": "piào liang",
         "zhuyin": "ㄆㄧㄠˋ ㄌㄧㄤ˙",
-        "meaning": "pretty; beautiful",
+        "meaning": "pretty",
         "classes": []
+    },
+    {
+        "index": 90,
+        "hsk": 1,
+        "simplified": "分钟",
+        "traditional": "分鐘",
+        "pinyin": "fēn zhōng",
+        "zhuyin": "ㄈㄣ ㄓㄨㄥ",
+        "meaning": "minute [counter word]",
+        "classes": [
+            "COUNTER",
+            "TIME"
+        ]
+    },
+    {
+        "index": 91,
+        "hsk": 1,
+        "simplified": "再见",
+        "traditional": "再見",
+        "pinyin": "zài jiàn",
+        "zhuyin": "ㄗㄞˋ ㄐㄧㄢˋ",
+        "meaning": "see you later",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 92,
+        "hsk": 1,
+        "simplified": "本",
+        "traditional": "本",
+        "pinyin": "běn",
+        "zhuyin": "ㄅㄣˇ",
+        "meaning": "books [counter word]",
+        "classes": [
+            "COUNTER"
+        ]
     },
     {
         "index": 93,
@@ -1301,8 +1023,20 @@
         "traditional": "少",
         "pinyin": "shǎo",
         "zhuyin": "ㄕㄠˇ",
-        "meaning": "few; little",
+        "meaning": "a few",
         "classes": []
+    },
+    {
+        "index": 95,
+        "hsk": 1,
+        "simplified": "多少",
+        "traditional": "多少",
+        "pinyin": "duō shao",
+        "zhuyin": "ㄉㄨㄛ ㄕㄠ˙",
+        "meaning": "how much?",
+        "classes": [
+            "QUESTION"
+        ]
     },
     {
         "index": 96,
@@ -1311,8 +1045,20 @@
         "traditional": "塊",
         "pinyin": "kuài",
         "zhuyin": "ㄎㄨㄞˋ",
-        "meaning": "lump; piece; sum of money",
+        "meaning": "bucks, yuan [counter word for money]",
         "classes": []
+    },
+    {
+        "index": 97,
+        "hsk": 1,
+        "simplified": "女儿",
+        "traditional": "女兒",
+        "pinyin": "nǚ 'ér",
+        "zhuyin": "ㄋㄩˇ 'ㄦˊ",
+        "meaning": "daughter",
+        "classes": [
+            "FAMILY"
+        ]
     },
     {
         "index": 98,
@@ -1321,7 +1067,7 @@
         "traditional": "小姐",
         "pinyin": "xiǎo jie",
         "zhuyin": "ㄒㄧㄠˇ ㄐㄧㄝ˙",
-        "meaning": "young lady; miss; Ms.",
+        "meaning": "young lady",
         "classes": []
     },
     {
@@ -1361,7 +1107,7 @@
         "traditional": "電影",
         "pinyin": "diàn yǐng",
         "zhuyin": "ㄉㄧㄢˋ ㄧㄥˇ",
-        "meaning": "movie; film",
+        "meaning": "movie",
         "classes": []
     },
     {
@@ -1371,8 +1117,32 @@
         "traditional": "書",
         "pinyin": "shū",
         "zhuyin": "ㄕㄨ",
-        "meaning": "book; letter",
+        "meaning": "book",
         "classes": []
+    },
+    {
+        "index": 104,
+        "hsk": 1,
+        "simplified": "四",
+        "traditional": "四",
+        "pinyin": "sì",
+        "zhuyin": "ㄙˋ",
+        "meaning": "four",
+        "classes": [
+            "NUMBER"
+        ]
+    },
+    {
+        "index": 105,
+        "hsk": 1,
+        "simplified": "五",
+        "traditional": "五",
+        "pinyin": "wǔ",
+        "zhuyin": "ㄨˇ",
+        "meaning": "five",
+        "classes": [
+            "NUMBER"
+        ]
     },
     {
         "index": 106,
@@ -1391,7 +1161,7 @@
         "traditional": "沒關系",
         "pinyin": "méi  guān xi",
         "zhuyin": "ㄇㄟˊ  ㄍㄨㄢ ㄒㄧ˙",
-        "meaning": "it doesn't matter; never mind",
+        "meaning": "never mind",
         "classes": []
     },
     {
@@ -1421,7 +1191,7 @@
         "traditional": "電視",
         "pinyin": "diàn shì",
         "zhuyin": "ㄉㄧㄢˋ ㄕˋ",
-        "meaning": "television; TV",
+        "meaning": "TV",
         "classes": []
     },
     {
@@ -1431,7 +1201,7 @@
         "traditional": "讀",
         "pinyin": "dú",
         "zhuyin": "ㄉㄨˊ",
-        "meaning": "to read; to study",
+        "meaning": "to read",
         "classes": []
     },
     {
@@ -1441,7 +1211,7 @@
         "traditional": "后面",
         "pinyin": "hòu mian",
         "zhuyin": "ㄏㄡˋ ㄇㄧㄢ˙",
-        "meaning": "back; behind",
+        "meaning": "behind",
         "classes": []
     },
     {
@@ -1453,6 +1223,30 @@
         "zhuyin": "ㄗㄨㄛˊ ㄊㄧㄢ",
         "meaning": "yesterday",
         "classes": []
+    },
+    {
+        "index": 114,
+        "hsk": 1,
+        "simplified": "睡觉",
+        "traditional": "睡覺",
+        "pinyin": "shuì  jiào",
+        "zhuyin": "ㄕㄨㄟˋ  ㄐㄧㄠˋ",
+        "meaning": "to sleep",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 115,
+        "hsk": 1,
+        "simplified": "六",
+        "traditional": "六",
+        "pinyin": "liù",
+        "zhuyin": "ㄌㄧㄡˋ",
+        "meaning": "six",
+        "classes": [
+            "NUMBER"
+        ]
     },
     {
         "index": 116,
@@ -1475,6 +1269,18 @@
         "classes": []
     },
     {
+        "index": 118,
+        "hsk": 1,
+        "simplified": "十",
+        "traditional": "十",
+        "pinyin": "shí",
+        "zhuyin": "ㄕˊ",
+        "meaning": "ten",
+        "classes": [
+            "NUMBER"
+        ]
+    },
+    {
         "index": 119,
         "hsk": 1,
         "simplified": "猫",
@@ -1493,6 +1299,18 @@
         "zhuyin": "ㄉㄧㄢˋ ㄋㄠˇ",
         "meaning": "computer",
         "classes": []
+    },
+    {
+        "index": 121,
+        "hsk": 1,
+        "simplified": "热",
+        "traditional": "熱",
+        "pinyin": "rè",
+        "zhuyin": "ㄖㄜˋ",
+        "meaning": "hot",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 122,
@@ -1521,7 +1339,7 @@
         "traditional": "學習",
         "pinyin": "xué xí",
         "zhuyin": "ㄒㄩㄝˊ ㄒㄧˊ",
-        "meaning": "learn; to study",
+        "meaning": "to study",
         "classes": []
     },
     {
@@ -1535,6 +1353,18 @@
         "classes": []
     },
     {
+        "index": 126,
+        "hsk": 1,
+        "simplified": "不客气",
+        "traditional": "不客氣",
+        "pinyin": "bú  kè qi",
+        "zhuyin": "ㄅㄨˊ  ㄎㄜˋ ㄑㄧ˙",
+        "meaning": "you're welcome",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
         "index": 127,
         "hsk": 1,
         "simplified": "前面",
@@ -1545,6 +1375,18 @@
         "classes": []
     },
     {
+        "index": 128,
+        "hsk": 1,
+        "simplified": "八",
+        "traditional": "八",
+        "pinyin": "bā",
+        "zhuyin": "ㄅㄚ",
+        "meaning": "eight",
+        "classes": [
+            "NUMBER"
+        ]
+    },
+    {
         "index": 129,
         "hsk": 1,
         "simplified": "中国",
@@ -1553,6 +1395,18 @@
         "zhuyin": "ㄓㄨㄥ ㄍㄨㄛˊ",
         "meaning": "China",
         "classes": []
+    },
+    {
+        "index": 130,
+        "hsk": 1,
+        "simplified": "七",
+        "traditional": "七",
+        "pinyin": "qī",
+        "zhuyin": "ㄑㄧ",
+        "meaning": "seven",
+        "classes": [
+            "NUMBER"
+        ]
     },
     {
         "index": 131,
@@ -1571,7 +1425,7 @@
         "traditional": "桌子",
         "pinyin": "zhuō zi",
         "zhuyin": "ㄓㄨㄛ ㄗ˙",
-        "meaning": "table; desk",
+        "meaning": "table",
         "classes": []
     },
     {
@@ -1581,8 +1435,20 @@
         "traditional": "出租車",
         "pinyin": "chū zū chē",
         "zhuyin": "ㄔㄨ ㄗㄨ ㄔㄜ",
-        "meaning": "taxi; cab",
+        "meaning": "taxi",
         "classes": []
+    },
+    {
+        "index": 134,
+        "hsk": 1,
+        "simplified": "天气",
+        "traditional": "天氣",
+        "pinyin": "tiān qì",
+        "zhuyin": "ㄊㄧㄢ ㄑㄧˋ",
+        "meaning": "weather",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 135,
@@ -1595,13 +1461,25 @@
         "classes": []
     },
     {
+        "index": 136,
+        "hsk": 1,
+        "simplified": "九",
+        "traditional": "九",
+        "pinyin": "jiǔ",
+        "zhuyin": "ㄐㄧㄡˇ",
+        "meaning": "nine",
+        "classes": [
+            "NUMBER"
+        ]
+    },
+    {
         "index": 137,
         "hsk": 1,
         "simplified": "商店",
         "traditional": "商店",
         "pinyin": "shāng diàn",
         "zhuyin": "ㄕㄤ ㄉㄧㄢˋ",
-        "meaning": "shop; store",
+        "meaning": "store, shop",
         "classes": []
     },
     {
@@ -1621,7 +1499,7 @@
         "traditional": "同學",
         "pinyin": "tóng xué",
         "zhuyin": "ㄊㄨㄥˊ ㄒㄩㄝˊ",
-        "meaning": "fellow student; schoolmate",
+        "meaning": "classmate",
         "classes": []
     },
     {
@@ -1631,7 +1509,7 @@
         "traditional": "一點兒",
         "pinyin": "yì diǎn r",
         "zhuyin": "ㄧˋ ㄉㄧㄢˇ ㄦ˙",
-        "meaning": "a bit; a few",
+        "meaning": "a little bit",
         "classes": []
     },
     {
@@ -1661,7 +1539,7 @@
         "traditional": "中午",
         "pinyin": "zhōng wǔ",
         "zhuyin": "ㄓㄨㄥ ㄨˇ",
-        "meaning": "noon; midday",
+        "meaning": "noon",
         "classes": []
     },
     {
@@ -1671,7 +1549,7 @@
         "traditional": "上午",
         "pinyin": "shàng wǔ",
         "zhuyin": "ㄕㄤˋ ㄨˇ",
-        "meaning": "late morning (before noon)",
+        "meaning": "late morning",
         "classes": []
     },
     {
@@ -1691,7 +1569,7 @@
         "traditional": "杯子",
         "pinyin": "bēi zi",
         "zhuyin": "ㄅㄟ ㄗ˙",
-        "meaning": "cup; glass",
+        "meaning": "cup, glass",
         "classes": []
     },
     {
@@ -1711,7 +1589,7 @@
         "traditional": "米飯",
         "pinyin": "mǐ fàn",
         "zhuyin": "ㄇㄧˇ ㄈㄢˋ",
-        "meaning": "(cooked) rice",
+        "meaning": "cooked rice",
         "classes": []
     },
     {
@@ -1775,6 +1653,18 @@
         "classes": []
     },
     {
+        "index": 155,
+        "hsk": 2,
+        "simplified": "吧",
+        "traditional": "吧",
+        "pinyin": "ba",
+        "zhuyin": "ㄅㄚ˙",
+        "meaning": "right?",
+        "classes": [
+            "QUESTION"
+        ]
+    },
+    {
         "index": 156,
         "hsk": 2,
         "simplified": "吧",
@@ -1783,6 +1673,18 @@
         "zhuyin": "ㄅㄚ",
         "meaning": "bar, pub",
         "classes": []
+    },
+    {
+        "index": 157,
+        "hsk": 2,
+        "simplified": "到",
+        "traditional": "到",
+        "pinyin": "dào",
+        "zhuyin": "ㄉㄠˋ",
+        "meaning": "arrive (at a place); until (a time)",
+        "classes": [
+            "TIME"
+        ]
     },
     {
         "index": 158,
@@ -1853,6 +1755,18 @@
         "zhuyin": "ㄐㄧˇ",
         "meaning": "provide",
         "classes": []
+    },
+    {
+        "index": 165,
+        "hsk": 2,
+        "simplified": "过",
+        "traditional": "過",
+        "pinyin": "guò",
+        "zhuyin": "ㄍㄨㄛˋ",
+        "meaning": "to pass; to cross; go over; (indicates a past experience)",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 166,
@@ -1945,6 +1859,29 @@
         "classes": []
     },
     {
+        "index": 175,
+        "hsk": 2,
+        "simplified": "别",
+        "traditional": "別",
+        "pinyin": "biè",
+        "zhuyin": "ㄅㄧㄝˋ",
+        "meaning": "don't do something; don't | depart; | other; difference; distinguish",
+        "classes": []
+    },
+    {
+        "index": 176,
+        "hsk": 2,
+        "simplified": "走",
+        "traditional": "走",
+        "pinyin": "zǒu",
+        "zhuyin": "ㄗㄡˇ",
+        "meaning": "to walk; to go; to move (Kangxi radical 156)",
+        "classes": [
+            "BASICVERB",
+            "KANGXIRADICAL"
+        ]
+    },
+    {
         "index": 177,
         "hsk": 2,
         "simplified": "告诉",
@@ -1975,6 +1912,18 @@
         "classes": []
     },
     {
+        "index": 180,
+        "hsk": 2,
+        "simplified": "快",
+        "traditional": "快",
+        "pinyin": "kuài",
+        "zhuyin": "ㄎㄨㄞˋ",
+        "meaning": "fast; quick; swift",
+        "classes": [
+            "BASICADJECTIVE"
+        ]
+    },
+    {
         "index": 181,
         "hsk": 2,
         "simplified": "但是",
@@ -1995,6 +1944,42 @@
         "classes": []
     },
     {
+        "index": 183,
+        "hsk": 2,
+        "simplified": "为什么",
+        "traditional": "為什麼",
+        "pinyin": "wèi shén me",
+        "zhuyin": "ㄨㄟˋ ㄕㄣˊ ㄇㄜ˙",
+        "meaning": "why?; for what reason?",
+        "classes": [
+            "QUESTION"
+        ]
+    },
+    {
+        "index": 184,
+        "hsk": 2,
+        "simplified": "觉得",
+        "traditional": "覺得",
+        "pinyin": "jué de",
+        "zhuyin": "ㄐㄩㄝˊ ㄉㄜ˙",
+        "meaning": "feel; think",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 185,
+        "hsk": 2,
+        "simplified": "它",
+        "traditional": "它",
+        "pinyin": "tā",
+        "zhuyin": "ㄊㄚ",
+        "meaning": "it",
+        "classes": [
+            "PRONOUN"
+        ]
+    },
+    {
         "index": 186,
         "hsk": 2,
         "simplified": "从",
@@ -2003,6 +1988,18 @@
         "zhuyin": "ㄘㄨㄥˊ",
         "meaning": "from; obey; observe",
         "classes": []
+    },
+    {
+        "index": 187,
+        "hsk": 2,
+        "simplified": "找",
+        "traditional": "找",
+        "pinyin": "zhǎo",
+        "zhuyin": "ㄓㄠˇ",
+        "meaning": "try to find; look for; seek; to give change",
+        "classes": [
+            "BASICVERB"
+        ]
     },
     {
         "index": 188,
@@ -2023,6 +2020,43 @@
         "zhuyin": "ㄎㄜˇ ㄋㄥˊ",
         "meaning": "possible; maybe",
         "classes": []
+    },
+    {
+        "index": 190,
+        "hsk": 2,
+        "simplified": "次",
+        "traditional": "次",
+        "pinyin": "cì",
+        "zhuyin": "ㄘˋ",
+        "meaning": "(mw for number of times of occurrence); nth; order",
+        "classes": [
+            "COUNTER",
+            "TIME"
+        ]
+    },
+    {
+        "index": 191,
+        "hsk": 2,
+        "simplified": "出",
+        "traditional": "出",
+        "pinyin": "chū",
+        "zhuyin": "ㄔㄨ",
+        "meaning": "go out; occur",
+        "classes": [
+            "BASICVERB"
+        ]
+    },
+    {
+        "index": 192,
+        "hsk": 2,
+        "simplified": "孩子",
+        "traditional": "孩子",
+        "pinyin": "hái zi",
+        "zhuyin": "ㄏㄞˊ ㄗ˙",
+        "meaning": "child; children; son or daughter",
+        "classes": [
+            "FAMILY"
+        ]
     },
     {
         "index": 193,
@@ -2102,40 +2136,6 @@
         "pinyin": "yì qǐ",
         "zhuyin": "ㄧˋ ㄑㄧˇ",
         "meaning": "together; in the same place",
-        "classes": []
-    },
-    {
-        "index": 16,
-        "hsk": 1,
-        "simplified": "说",
-        "traditional": "說",
-        "pinyin": "shuō",
-        "zhuyin": "ㄕㄨㄛ",
-        "meaning": "speak",
-        "classes": [
-            "BASICVERB"
-        ]
-    },
-    {
-        "index": 17,
-        "hsk": 1,
-        "simplified": "她",
-        "traditional": "她",
-        "pinyin": "tā",
-        "zhuyin": "ㄊㄚ",
-        "meaning": "she",
-        "classes": [
-            "PRONOUN"
-        ]
-    },
-    {
-        "index": 175,
-        "hsk": 2,
-        "simplified": "别",
-        "traditional": "別",
-        "pinyin": "biè",
-        "zhuyin": "ㄅㄧㄝˋ",
-        "meaning": "don't do something; don't | depart; | other; difference; distinguish",
         "classes": []
     },
     {
