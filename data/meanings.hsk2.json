@@ -3,13 +3,13 @@
         "index": 151,
         "simplified": "就",
         "pinyin": "jiù",
-        "meaning": "then; at once; just; only; with regard to"
+        "meaning": "and then"
     },
     {
         "index": 152,
         "simplified": "要",
         "pinyin": "yào",
-        "meaning": "to want; to need; will/shall; important"
+        "meaning": "to want; am going to 〜 [grammar]"
     },
     {
         "index": 153,
@@ -21,13 +21,13 @@
         "index": 154,
         "simplified": "知道",
         "pinyin": "zhī dao",
-        "meaning": "know; be aware of"
+        "meaning": "know"
     },
     {
         "index": 155,
         "simplified": "吧",
         "pinyin": "ba",
-        "meaning": "right?"
+        "meaning": "right? [particle]"
     },
     {
         "index": 156,
@@ -39,19 +39,19 @@
         "index": 157,
         "simplified": "到",
         "pinyin": "dào",
-        "meaning": "arrive (at a place); until (a time)"
+        "meaning": "arrive somewhere; until sometime"
     },
     {
         "index": 158,
         "simplified": "对",
         "pinyin": "duì",
-        "meaning": "correct; a pair; to face; be opposite; to; towards"
+        "meaning": "correct; towards"
     },
     {
         "index": 159,
         "simplified": "也",
         "pinyin": "yě",
-        "meaning": "also; too"
+        "meaning": "too"
     },
     {
         "index": 160,
@@ -69,7 +69,7 @@
         "index": 162,
         "simplified": "让",
         "pinyin": "ràng",
-        "meaning": "ask; let; yield"
+        "meaning": "let"
     },
     {
         "index": 163,
@@ -87,7 +87,7 @@
         "index": 165,
         "simplified": "过",
         "pinyin": "guò",
-        "meaning": "to pass; to cross; go over; (indicates a past experience)"
+        "meaning": "to pass; have 〜 [past experience]"
     },
     {
         "index": 166,
@@ -111,7 +111,7 @@
         "index": 169,
         "simplified": "真",
         "pinyin": "zhēn",
-        "meaning": "real; true; genuine"
+        "meaning": "true"
     },
     {
         "index": 170,
@@ -135,7 +135,7 @@
         "index": 173,
         "simplified": "可以",
         "pinyin": "kě yǐ",
-        "meaning": "can; may; possible; okay"
+        "meaning": "can, may"
     },
     {
         "index": 174,
@@ -147,19 +147,19 @@
         "index": 175,
         "simplified": "别",
         "pinyin": "biè",
-        "meaning": "don't do something; don't | depart; | other; difference; distinguish"
+        "meaning": "difference"
     },
     {
         "index": 176,
         "simplified": "走",
         "pinyin": "zǒu",
-        "meaning": "to walk; to go; to move (Kangxi radical 156)"
+        "meaning": "to walk"
     },
     {
         "index": 177,
         "simplified": "告诉",
         "pinyin": "gào su",
-        "meaning": "to tell; inform"
+        "meaning": "to tell"
     },
     {
         "index": 178,
@@ -177,13 +177,13 @@
         "index": 180,
         "simplified": "快",
         "pinyin": "kuài",
-        "meaning": "fast; quick; swift"
+        "meaning": "fast"
     },
     {
         "index": 181,
         "simplified": "但是",
         "pinyin": "dàn shì",
-        "meaning": "but; however"
+        "meaning": "however"
     },
     {
         "index": 182,
@@ -195,13 +195,13 @@
         "index": 183,
         "simplified": "为什么",
         "pinyin": "wèi shén me",
-        "meaning": "why?; for what reason?"
+        "meaning": "why?"
     },
     {
         "index": 184,
         "simplified": "觉得",
         "pinyin": "jué de",
-        "meaning": "feel; think"
+        "meaning": "to feel, think"
     },
     {
         "index": 185,
@@ -213,79 +213,79 @@
         "index": 186,
         "simplified": "从",
         "pinyin": "cóng",
-        "meaning": "from; obey; observe"
+        "meaning": "from"
     },
     {
         "index": 187,
         "simplified": "找",
         "pinyin": "zhǎo",
-        "meaning": "try to find; look for; seek; to give change"
+        "meaning": "to look for"
     },
     {
         "index": 188,
         "simplified": "最",
         "pinyin": "zuì",
-        "meaning": "the most; -est; (indicator for superlative)"
+        "meaning": "〜est; [superlative]"
     },
     {
         "index": 189,
         "simplified": "可能",
         "pinyin": "kě néng",
-        "meaning": "possible; maybe"
+        "meaning": "possible"
     },
     {
         "index": 190,
         "simplified": "次",
         "pinyin": "cì",
-        "meaning": "(mw for number of times of occurrence); nth; order"
+        "meaning": "〜th [ordinal counter word]"
     },
     {
         "index": 191,
         "simplified": "出",
         "pinyin": "chū",
-        "meaning": "go out; occur"
+        "meaning": "to go out"
     },
     {
         "index": 192,
         "simplified": "孩子",
         "pinyin": "hái zi",
-        "meaning": "child; children; son or daughter"
+        "meaning": "child; children"
     },
     {
         "index": 193,
         "simplified": "所以",
         "pinyin": "suǒ yǐ",
-        "meaning": "so; therefore; as a result"
+        "meaning": "and so"
     },
     {
         "index": 194,
         "simplified": "两",
         "pinyin": "liǎng",
-        "meaning": "two; 2; both; (unit of weight equal to 50 grams)"
+        "meaning": "both"
     },
     {
         "index": 195,
         "simplified": "错",
         "pinyin": "cuò",
-        "meaning": "mistake; error; blunder; miss an opportunity"
+        "meaning": "mistake"
     },
     {
         "index": 196,
         "simplified": "等",
         "pinyin": "děng",
-        "meaning": "to wait; rank; equal; etc."
+        "meaning": "to wait"
     },
     {
         "index": 197,
         "simplified": "题",
         "pinyin": "tí",
-        "meaning": "topic; subject; question on a test or assignment"
+        "meaning": "topic, subject"
     },
     {
         "index": 198,
         "simplified": "问",
         "pinyin": "wèn",
-        "meaning": "ask; inquire"
+        "meaning": "ask"
     },
     {
         "index": 199,
@@ -297,79 +297,79 @@
         "index": 200,
         "simplified": "一起",
         "pinyin": "yì qǐ",
-        "meaning": "together; in the same place"
+        "meaning": "together"
     },
     {
         "index": 201,
         "simplified": "开始",
         "pinyin": "kāi shǐ",
-        "meaning": "begin; to start; beginning"
+        "meaning": "begin; to start"
     },
     {
         "index": 202,
         "simplified": "时间",
         "pinyin": "shí jiān",
-        "meaning": "time; period"
+        "meaning": "time"
     },
     {
         "index": 203,
         "simplified": "事情",
         "pinyin": "shì qing",
-        "meaning": "matter; affair; thing; business"
+        "meaning": "matter, affair"
     },
     {
         "index": 204,
         "simplified": "一下",
         "pinyin": "yí xià",
-        "meaning": "a little bit/while; one time; once"
+        "meaning": "a little while"
     },
     {
         "index": 205,
         "simplified": "非常",
         "pinyin": "fēi cháng",
-        "meaning": "extremely; extraordinary; very"
+        "meaning": "extremely"
     },
     {
         "index": 206,
         "simplified": "希望",
         "pinyin": "xī wàng",
-        "meaning": "to hope; wish for; to desire"
+        "meaning": "to wish for"
     },
     {
         "index": 207,
         "simplified": "准备",
         "pinyin": "zhǔn bèi",
-        "meaning": "prepare; get ready"
+        "meaning": "to prepare"
     },
     {
         "index": 208,
         "simplified": "比",
         "pinyin": "bǐ",
-        "meaning": "compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks"
+        "meaning": "compared to 〜 [grammar]"
     },
     {
         "index": 209,
         "simplified": "件",
         "pinyin": "jiàn",
-        "meaning": "(mw for things, clothes, and items)"
+        "meaning": "articles of clothing [counter word]"
     },
     {
         "index": 210,
         "simplified": "意思",
         "pinyin": "yì si",
-        "meaning": "meaning; idea; opinion"
+        "meaning": "idea"
     },
     {
         "index": 211,
         "simplified": "第一",
         "pinyin": "dì yī",
-        "meaning": "first; number 1"
+        "meaning": "first"
     },
     {
         "index": 212,
         "simplified": "进",
         "pinyin": "jìn",
-        "meaning": "enter; come in"
+        "meaning": "to enter"
     },
     {
         "index": 213,
@@ -381,37 +381,37 @@
         "index": 214,
         "simplified": "新",
         "pinyin": "xīn",
-        "meaning": "new; Xinjiang autonomous region (abbreviation)"
+        "meaning": "new"
     },
     {
         "index": 215,
         "simplified": "您",
         "pinyin": "nín",
-        "meaning": "you (polite)"
+        "meaning": "you [polite]"
     },
     {
         "index": 216,
         "simplified": "穿",
         "pinyin": "chuān",
-        "meaning": "to wear; put on; penetrate"
+        "meaning": "to wear"
     },
     {
         "index": 217,
         "simplified": "送",
         "pinyin": "sòng",
-        "meaning": "deliver; to carry; to give; send"
+        "meaning": "to send"
     },
     {
         "index": 218,
         "simplified": "玩",
         "pinyin": "wán",
-        "meaning": "to play; have a good time; visit; enjoy"
+        "meaning": "to play"
     },
     {
         "index": 219,
         "simplified": "长",
         "pinyin": "cháng",
-        "meaning": "long; length"
+        "meaning": "long"
     },
     {
         "index": 220,
@@ -429,49 +429,49 @@
         "index": 222,
         "simplified": "完",
         "pinyin": "wán",
-        "meaning": "to finish; be over; complete"
+        "meaning": "to be complete"
     },
     {
         "index": 223,
         "simplified": "每",
         "pinyin": "měi",
-        "meaning": "each; every"
+        "meaning": "each, every"
     },
     {
         "index": 224,
         "simplified": "公司",
         "pinyin": "gōng sī",
-        "meaning": "company; corporation"
+        "meaning": "company"
     },
     {
         "index": 225,
         "simplified": "帮助",
         "pinyin": "bāng zhù",
-        "meaning": "help; assist; aid"
+        "meaning": "to help"
     },
     {
         "index": 226,
         "simplified": "晚上",
         "pinyin": "wǎn shang",
-        "meaning": "evening; night"
+        "meaning": "evening"
     },
     {
         "index": 227,
         "simplified": "说话",
         "pinyin": "shuō huà",
-        "meaning": "to talk; speak"
+        "meaning": "to speak"
     },
     {
         "index": 228,
         "simplified": "门",
         "pinyin": "mén",
-        "meaning": "door; opening; gate (Kangxi radical 169)"
+        "meaning": "door"
     },
     {
         "index": 229,
         "simplified": "女",
         "pinyin": "nǚ",
-        "meaning": "woman; female (Kangxi radical 38)"
+        "meaning": "woman"
     },
     {
         "index": 230,
@@ -489,7 +489,7 @@
         "index": 232,
         "simplified": "高",
         "pinyin": "gāo",
-        "meaning": "high; tall (Kangxi radical 189)"
+        "meaning": "high, tall"
     },
     {
         "index": 233,
@@ -501,31 +501,31 @@
         "index": 234,
         "simplified": "路",
         "pinyin": "lù",
-        "meaning": "road; path; journey; route"
+        "meaning": "road"
     },
     {
         "index": 235,
         "simplified": "懂",
         "pinyin": "dǒng",
-        "meaning": "understand; know"
+        "meaning": "to understand, know"
     },
     {
         "index": 236,
         "simplified": "正在",
         "pinyin": "zhèng zài",
-        "meaning": "in the process of (doing something); currently"
+        "meaning": "currently"
     },
     {
         "index": 237,
         "simplified": "笑",
         "pinyin": "xiào",
-        "meaning": "to laugh; to smile"
+        "meaning": "to laugh, smile"
     },
     {
         "index": 238,
         "simplified": "远",
         "pinyin": "yuǎn",
-        "meaning": "far; distant; remote"
+        "meaning": "far"
     },
     {
         "index": 239,
@@ -537,19 +537,19 @@
         "index": 240,
         "simplified": "丈夫",
         "pinyin": "zhàng fu",
-        "meaning": "husband; man"
+        "meaning": "husband"
     },
     {
         "index": 241,
         "simplified": "离",
         "pinyin": "lí",
-        "meaning": "leave; depart; go away; apart from"
+        "meaning": "leave"
     },
     {
         "index": 242,
         "simplified": "往",
         "pinyin": "wǎng",
-        "meaning": "to go (in a direction); towards; in the past"
+        "meaning": "to head towards"
     },
     {
         "index": 243,
@@ -573,31 +573,31 @@
         "index": 246,
         "simplified": "虽然",
         "pinyin": "suī rán",
-        "meaning": "although; even though"
+        "meaning": "although"
     },
     {
         "index": 247,
         "simplified": "早上",
         "pinyin": "zǎo shang",
-        "meaning": "(early) morning"
+        "meaning": "early morning"
     },
     {
         "index": 248,
         "simplified": "药",
         "pinyin": "yào",
-        "meaning": "medicine; drug; cure; chemical"
+        "meaning": "medicine"
     },
     {
         "index": 249,
         "simplified": "身体",
         "pinyin": "shēn tǐ",
-        "meaning": "health; (human) body"
+        "meaning": "health"
     },
     {
         "index": 250,
         "simplified": "黑",
         "pinyin": "hēi",
-        "meaning": "black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)"
+        "meaning": "black"
     },
     {
         "index": 251,
@@ -609,19 +609,19 @@
         "index": 252,
         "simplified": "日",
         "pinyin": "rì",
-        "meaning": "sun; day; date; time (Kangxi radical 72)"
+        "meaning": "sun; day"
     },
     {
         "index": 253,
         "simplified": "休息",
         "pinyin": "xiū xi",
-        "meaning": "to rest; take a break"
+        "meaning": "take a break"
     },
     {
         "index": 254,
         "simplified": "外",
         "pinyin": "wài",
-        "meaning": "outer; outside; in addition; foreign"
+        "meaning": "outside"
     },
     {
         "index": 255,
@@ -639,19 +639,19 @@
         "index": 257,
         "simplified": "票",
         "pinyin": "piào",
-        "meaning": "ticket; bank note; a vote"
+        "meaning": "ticket"
     },
     {
         "index": 258,
         "simplified": "手机",
         "pinyin": "shǒu jī",
-        "meaning": "mobile (cell) phone"
+        "meaning": "cell phone"
     },
     {
         "index": 259,
         "simplified": "洗",
         "pinyin": "xǐ",
-        "meaning": "to wash; bathe"
+        "meaning": "to wash"
     },
     {
         "index": 260,
@@ -675,7 +675,7 @@
         "index": 263,
         "simplified": "红",
         "pinyin": "hóng",
-        "meaning": "red; symbol of success; bonus; popular"
+        "meaning": "red"
     },
     {
         "index": 264,
@@ -687,7 +687,7 @@
         "index": 265,
         "simplified": "近",
         "pinyin": "jìn",
-        "meaning": "near; close (to)"
+        "meaning": "near"
     },
     {
         "index": 266,
@@ -699,7 +699,7 @@
         "index": 267,
         "simplified": "白",
         "pinyin": "bó",
-        "meaning": "white; snowy; pure; bright; empty (Kangxi radical 106)"
+        "meaning": "white"
     },
     {
         "index": 268,
@@ -711,13 +711,13 @@
         "index": 269,
         "simplified": "介绍",
         "pinyin": "jiè shào",
-        "meaning": "to introduce; recommend; introduction"
+        "meaning": "to introduce"
     },
     {
         "index": 270,
         "simplified": "鱼",
         "pinyin": "yú",
-        "meaning": "fish (Kangxi radical 195)"
+        "meaning": "fish"
     },
     {
         "index": 271,
@@ -741,13 +741,13 @@
         "index": 274,
         "simplified": "课",
         "pinyin": "kè",
-        "meaning": "class; subject; lesson; course"
+        "meaning": "class, lesson"
     },
     {
         "index": 275,
         "simplified": "上班",
         "pinyin": "shàng  bān",
-        "meaning": "go to work; be on duty"
+        "meaning": "to go to work"
     },
     {
         "index": 276,
@@ -759,7 +759,7 @@
         "index": 277,
         "simplified": "运动",
         "pinyin": "yùn dòng",
-        "meaning": "(physical) exercise; movement; sports; campaign"
+        "meaning": "physical exercise"
     },
     {
         "index": 278,
@@ -783,13 +783,13 @@
         "index": 281,
         "simplified": "机场",
         "pinyin": "jī chǎng",
-        "meaning": "airport; airfield"
+        "meaning": "airport"
     },
     {
         "index": 282,
         "simplified": "唱歌",
         "pinyin": "chàng gē",
-        "meaning": "sing (a song)"
+        "meaning": "sing"
     },
     {
         "index": 283,
@@ -807,19 +807,19 @@
         "index": 285,
         "simplified": "考试",
         "pinyin": "kǎo shì",
-        "meaning": "test; exam; to give or take a test"
+        "meaning": "test, exam"
     },
     {
         "index": 286,
         "simplified": "左边",
         "pinyin": "zuǒ bian",
-        "meaning": "the left side; the left"
+        "meaning": "the left"
     },
     {
         "index": 287,
         "simplified": "姓",
         "pinyin": "xìng",
-        "meaning": "surname; family name"
+        "meaning": "family name"
     },
     {
         "index": 288,
@@ -837,13 +837,13 @@
         "index": 290,
         "simplified": "贵",
         "pinyin": "guì",
-        "meaning": "expensive; noble; honorable; Guizhou province (abbreviation)"
+        "meaning": "expensive"
     },
     {
         "index": 291,
         "simplified": "生病",
         "pinyin": "shēng  bìng",
-        "meaning": "get sick; fall ill"
+        "meaning": "to get sick"
     },
     {
         "index": 292,
@@ -861,7 +861,7 @@
         "index": 294,
         "simplified": "右边",
         "pinyin": "yòu bian",
-        "meaning": "the right (as opposed to left) side"
+        "meaning": "the right"
     },
     {
         "index": 295,
@@ -873,25 +873,25 @@
         "index": 296,
         "simplified": "公共汽车",
         "pinyin": "gōng gòng  qì chē",
-        "meaning": "(public) bus"
+        "meaning": "bus"
     },
     {
         "index": 297,
         "simplified": "起床",
         "pinyin": "qǐ  chuáng",
-        "meaning": "get out of bed"
+        "meaning": "to get out of bed"
     },
     {
         "index": 298,
         "simplified": "打篮球",
         "pinyin": "dǎ  lán qiú",
-        "meaning": "play basketball"
+        "meaning": "to play basketball"
     },
     {
         "index": 299,
         "simplified": "鸡蛋",
         "pinyin": "jī dàn",
-        "meaning": "(chicken) egg"
+        "meaning": "chicken egg"
     },
     {
         "index": 300,
@@ -903,7 +903,7 @@
         "index": 301,
         "simplified": "零",
         "pinyin": "líng",
-        "meaning": "zero; remnant"
+        "meaning": "zero"
     },
     {
         "index": 302,
@@ -915,19 +915,19 @@
         "index": 303,
         "simplified": "旅游",
         "pinyin": "lǚ yóu",
-        "meaning": "trip; journey; tour"
+        "meaning": "trip"
     },
     {
         "index": 304,
         "simplified": "服务员",
         "pinyin": "fú wù yuán",
-        "meaning": "waiter/waitress; server; attendant"
+        "meaning": "waiter, waitress"
     },
     {
         "index": 305,
         "simplified": "宾馆",
         "pinyin": "bīn guǎn",
-        "meaning": "guesthouse; hotel"
+        "meaning": "hotel"
     },
     {
         "index": 306,
@@ -939,13 +939,13 @@
         "index": 307,
         "simplified": "跑步",
         "pinyin": "pǎo  bù",
-        "meaning": "to run; to jog"
+        "meaning": "to run"
     },
     {
         "index": 308,
         "simplified": "阴",
         "pinyin": "yīn",
-        "meaning": "cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade"
+        "meaning": "cloudy; yin [yin and yang]"
     },
     {
         "index": 309,
@@ -975,12 +975,12 @@
         "index": 313,
         "simplified": "羊肉",
         "pinyin": "yáng ròu",
-        "meaning": "mutton; lamb"
+        "meaning": "lamb"
     },
     {
         "index": 314,
         "simplified": "晴",
         "pinyin": "qíng",
-        "meaning": "clear; fine (as of weather)"
+        "meaning": "lovely weather"
     }
 ]

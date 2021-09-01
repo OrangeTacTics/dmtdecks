@@ -1619,7 +1619,7 @@
         "traditional": "就",
         "pinyin": "jiù",
         "zhuyin": "ㄐㄧㄡˋ",
-        "meaning": "then; at once; just; only; with regard to",
+        "meaning": "and then",
         "classes": []
     },
     {
@@ -1629,7 +1629,7 @@
         "traditional": "要",
         "pinyin": "yào",
         "zhuyin": "ㄧㄠˋ",
-        "meaning": "to want; to need; will/shall; important",
+        "meaning": "to want; am going to 〜 [grammar]",
         "classes": []
     },
     {
@@ -1649,7 +1649,7 @@
         "traditional": "知道",
         "pinyin": "zhī dao",
         "zhuyin": "ㄓ ㄉㄠ˙",
-        "meaning": "know; be aware of",
+        "meaning": "know",
         "classes": []
     },
     {
@@ -1659,7 +1659,7 @@
         "traditional": "吧",
         "pinyin": "ba",
         "zhuyin": "ㄅㄚ˙",
-        "meaning": "right?",
+        "meaning": "right? [particle]",
         "classes": [
             "QUESTION"
         ]
@@ -1681,7 +1681,7 @@
         "traditional": "到",
         "pinyin": "dào",
         "zhuyin": "ㄉㄠˋ",
-        "meaning": "arrive (at a place); until (a time)",
+        "meaning": "arrive somewhere; until sometime",
         "classes": [
             "TIME"
         ]
@@ -1693,7 +1693,7 @@
         "traditional": "對",
         "pinyin": "duì",
         "zhuyin": "ㄉㄨㄟˋ",
-        "meaning": "correct; a pair; to face; be opposite; to; towards",
+        "meaning": "correct; towards",
         "classes": []
     },
     {
@@ -1703,7 +1703,7 @@
         "traditional": "也",
         "pinyin": "yě",
         "zhuyin": "ㄧㄝˇ",
-        "meaning": "also; too",
+        "meaning": "too",
         "classes": []
     },
     {
@@ -1733,7 +1733,7 @@
         "traditional": "讓",
         "pinyin": "ràng",
         "zhuyin": "ㄖㄤˋ",
-        "meaning": "ask; let; yield",
+        "meaning": "let",
         "classes": []
     },
     {
@@ -1763,7 +1763,7 @@
         "traditional": "過",
         "pinyin": "guò",
         "zhuyin": "ㄍㄨㄛˋ",
-        "meaning": "to pass; to cross; go over; (indicates a past experience)",
+        "meaning": "to pass; have 〜 [past experience]",
         "classes": [
             "BASICVERB"
         ]
@@ -1805,7 +1805,7 @@
         "traditional": "真",
         "pinyin": "zhēn",
         "zhuyin": "ㄓㄣ",
-        "meaning": "real; true; genuine",
+        "meaning": "true",
         "classes": []
     },
     {
@@ -1845,7 +1845,7 @@
         "traditional": "可以",
         "pinyin": "kě yǐ",
         "zhuyin": "ㄎㄜˇ ㄧˇ",
-        "meaning": "can; may; possible; okay",
+        "meaning": "can, may",
         "classes": []
     },
     {
@@ -1865,7 +1865,7 @@
         "traditional": "別",
         "pinyin": "biè",
         "zhuyin": "ㄅㄧㄝˋ",
-        "meaning": "don't do something; don't | depart; | other; difference; distinguish",
+        "meaning": "difference",
         "classes": []
     },
     {
@@ -1875,7 +1875,7 @@
         "traditional": "走",
         "pinyin": "zǒu",
         "zhuyin": "ㄗㄡˇ",
-        "meaning": "to walk; to go; to move (Kangxi radical 156)",
+        "meaning": "to walk",
         "classes": [
             "BASICVERB",
             "KANGXIRADICAL"
@@ -1888,7 +1888,7 @@
         "traditional": "告訴",
         "pinyin": "gào su",
         "zhuyin": "ㄍㄠˋ ㄙㄨ˙",
-        "meaning": "to tell; inform",
+        "meaning": "to tell",
         "classes": []
     },
     {
@@ -1918,7 +1918,7 @@
         "traditional": "快",
         "pinyin": "kuài",
         "zhuyin": "ㄎㄨㄞˋ",
-        "meaning": "fast; quick; swift",
+        "meaning": "fast",
         "classes": [
             "BASICADJECTIVE"
         ]
@@ -1930,7 +1930,7 @@
         "traditional": "但是",
         "pinyin": "dàn shì",
         "zhuyin": "ㄉㄢˋ ㄕˋ",
-        "meaning": "but; however",
+        "meaning": "however",
         "classes": []
     },
     {
@@ -1950,7 +1950,7 @@
         "traditional": "為什麼",
         "pinyin": "wèi shén me",
         "zhuyin": "ㄨㄟˋ ㄕㄣˊ ㄇㄜ˙",
-        "meaning": "why?; for what reason?",
+        "meaning": "why?",
         "classes": [
             "QUESTION"
         ]
@@ -1962,7 +1962,7 @@
         "traditional": "覺得",
         "pinyin": "jué de",
         "zhuyin": "ㄐㄩㄝˊ ㄉㄜ˙",
-        "meaning": "feel; think",
+        "meaning": "to feel, think",
         "classes": [
             "BASICVERB"
         ]
@@ -1986,7 +1986,7 @@
         "traditional": "從",
         "pinyin": "cóng",
         "zhuyin": "ㄘㄨㄥˊ",
-        "meaning": "from; obey; observe",
+        "meaning": "from",
         "classes": []
     },
     {
@@ -1996,7 +1996,7 @@
         "traditional": "找",
         "pinyin": "zhǎo",
         "zhuyin": "ㄓㄠˇ",
-        "meaning": "try to find; look for; seek; to give change",
+        "meaning": "to look for",
         "classes": [
             "BASICVERB"
         ]
@@ -2008,7 +2008,7 @@
         "traditional": "最",
         "pinyin": "zuì",
         "zhuyin": "ㄗㄨㄟˋ",
-        "meaning": "the most; -est; (indicator for superlative)",
+        "meaning": "〜est; [superlative]",
         "classes": []
     },
     {
@@ -2018,7 +2018,7 @@
         "traditional": "可能",
         "pinyin": "kě néng",
         "zhuyin": "ㄎㄜˇ ㄋㄥˊ",
-        "meaning": "possible; maybe",
+        "meaning": "possible",
         "classes": []
     },
     {
@@ -2028,7 +2028,7 @@
         "traditional": "次",
         "pinyin": "cì",
         "zhuyin": "ㄘˋ",
-        "meaning": "(mw for number of times of occurrence); nth; order",
+        "meaning": "〜th [ordinal counter word]",
         "classes": [
             "COUNTER",
             "TIME"
@@ -2041,7 +2041,7 @@
         "traditional": "出",
         "pinyin": "chū",
         "zhuyin": "ㄔㄨ",
-        "meaning": "go out; occur",
+        "meaning": "to go out",
         "classes": [
             "BASICVERB"
         ]
@@ -2053,7 +2053,7 @@
         "traditional": "孩子",
         "pinyin": "hái zi",
         "zhuyin": "ㄏㄞˊ ㄗ˙",
-        "meaning": "child; children; son or daughter",
+        "meaning": "child; children",
         "classes": [
             "FAMILY"
         ]
@@ -2065,7 +2065,7 @@
         "traditional": "所以",
         "pinyin": "suǒ yǐ",
         "zhuyin": "ㄙㄨㄛˇ ㄧˇ",
-        "meaning": "so; therefore; as a result",
+        "meaning": "and so",
         "classes": []
     },
     {
@@ -2075,7 +2075,7 @@
         "traditional": "兩",
         "pinyin": "liǎng",
         "zhuyin": "ㄌㄧㄤˇ",
-        "meaning": "two; 2; both; (unit of weight equal to 50 grams)",
+        "meaning": "both",
         "classes": []
     },
     {
@@ -2085,7 +2085,7 @@
         "traditional": "錯",
         "pinyin": "cuò",
         "zhuyin": "ㄘㄨㄛˋ",
-        "meaning": "mistake; error; blunder; miss an opportunity",
+        "meaning": "mistake",
         "classes": []
     },
     {
@@ -2095,7 +2095,7 @@
         "traditional": "等",
         "pinyin": "děng",
         "zhuyin": "ㄉㄥˇ",
-        "meaning": "to wait; rank; equal; etc.",
+        "meaning": "to wait",
         "classes": []
     },
     {
@@ -2105,7 +2105,7 @@
         "traditional": "題",
         "pinyin": "tí",
         "zhuyin": "ㄊㄧˊ",
-        "meaning": "topic; subject; question on a test or assignment",
+        "meaning": "topic, subject",
         "classes": []
     },
     {
@@ -2115,7 +2115,7 @@
         "traditional": "問",
         "pinyin": "wèn",
         "zhuyin": "ㄨㄣˋ",
-        "meaning": "ask; inquire",
+        "meaning": "ask",
         "classes": []
     },
     {
@@ -2135,7 +2135,7 @@
         "traditional": "一起",
         "pinyin": "yì qǐ",
         "zhuyin": "ㄧˋ ㄑㄧˇ",
-        "meaning": "together; in the same place",
+        "meaning": "together",
         "classes": []
     },
     {
@@ -2145,7 +2145,7 @@
         "traditional": "開始",
         "pinyin": "kāi shǐ",
         "zhuyin": "ㄎㄞ ㄕˇ",
-        "meaning": "begin; to start; beginning",
+        "meaning": "begin; to start",
         "classes": []
     },
     {
@@ -2155,7 +2155,7 @@
         "traditional": "時間",
         "pinyin": "shí jiān",
         "zhuyin": "ㄕˊ ㄐㄧㄢ",
-        "meaning": "time; period",
+        "meaning": "time",
         "classes": []
     },
     {
@@ -2165,7 +2165,7 @@
         "traditional": "事情",
         "pinyin": "shì qing",
         "zhuyin": "ㄕˋ ㄑㄧㄥ˙",
-        "meaning": "matter; affair; thing; business",
+        "meaning": "matter, affair",
         "classes": []
     },
     {
@@ -2175,7 +2175,7 @@
         "traditional": "一下",
         "pinyin": "yí xià",
         "zhuyin": "ㄧˊ ㄒㄧㄚˋ",
-        "meaning": "a little bit/while; one time; once",
+        "meaning": "a little while",
         "classes": []
     },
     {
@@ -2185,7 +2185,7 @@
         "traditional": "非常",
         "pinyin": "fēi cháng",
         "zhuyin": "ㄈㄟ ㄔㄤˊ",
-        "meaning": "extremely; extraordinary; very",
+        "meaning": "extremely",
         "classes": []
     },
     {
@@ -2195,7 +2195,7 @@
         "traditional": "希望",
         "pinyin": "xī wàng",
         "zhuyin": "ㄒㄧ ㄨㄤˋ",
-        "meaning": "to hope; wish for; to desire",
+        "meaning": "to wish for",
         "classes": []
     },
     {
@@ -2205,7 +2205,7 @@
         "traditional": "准備",
         "pinyin": "zhǔn bèi",
         "zhuyin": "ㄓㄨㄣˇ ㄅㄟˋ",
-        "meaning": "prepare; get ready",
+        "meaning": "to prepare",
         "classes": []
     },
     {
@@ -2215,7 +2215,7 @@
         "traditional": "比",
         "pinyin": "bǐ",
         "zhuyin": "ㄅㄧˇ",
-        "meaning": "compare; (indicates comparison) (Kangxi radical 81); to gesticulate as one talks",
+        "meaning": "compared to 〜 [grammar]",
         "classes": [
             "KANGXIRADICAL"
         ]
@@ -2227,7 +2227,7 @@
         "traditional": "件",
         "pinyin": "jiàn",
         "zhuyin": "ㄐㄧㄢˋ",
-        "meaning": "(mw for things, clothes, and items)",
+        "meaning": "articles of clothing [counter word]",
         "classes": [
             "COUNTER"
         ]
@@ -2239,7 +2239,7 @@
         "traditional": "意思",
         "pinyin": "yì si",
         "zhuyin": "ㄧˋ ㄙ˙",
-        "meaning": "meaning; idea; opinion",
+        "meaning": "idea",
         "classes": []
     },
     {
@@ -2249,7 +2249,7 @@
         "traditional": "第一",
         "pinyin": "dì yī",
         "zhuyin": "ㄉㄧˋ ㄧ",
-        "meaning": "first; number 1",
+        "meaning": "first",
         "classes": []
     },
     {
@@ -2259,7 +2259,7 @@
         "traditional": "進",
         "pinyin": "jìn",
         "zhuyin": "ㄐㄧㄣˋ",
-        "meaning": "enter; come in",
+        "meaning": "to enter",
         "classes": []
     },
     {
@@ -2279,7 +2279,7 @@
         "traditional": "新",
         "pinyin": "xīn",
         "zhuyin": "ㄒㄧㄣ",
-        "meaning": "new; Xinjiang autonomous region (abbreviation)",
+        "meaning": "new",
         "classes": []
     },
     {
@@ -2289,7 +2289,7 @@
         "traditional": "您",
         "pinyin": "nín",
         "zhuyin": "ㄋㄧㄣˊ",
-        "meaning": "you (polite)",
+        "meaning": "you [polite]",
         "classes": [
             "PRONOUN"
         ]
@@ -2301,7 +2301,7 @@
         "traditional": "穿",
         "pinyin": "chuān",
         "zhuyin": "ㄔㄨㄢ",
-        "meaning": "to wear; put on; penetrate",
+        "meaning": "to wear",
         "classes": []
     },
     {
@@ -2311,7 +2311,7 @@
         "traditional": "送",
         "pinyin": "sòng",
         "zhuyin": "ㄙㄨㄥˋ",
-        "meaning": "deliver; to carry; to give; send",
+        "meaning": "to send",
         "classes": []
     },
     {
@@ -2321,7 +2321,7 @@
         "traditional": "玩",
         "pinyin": "wán",
         "zhuyin": "ㄨㄢˊ",
-        "meaning": "to play; have a good time; visit; enjoy",
+        "meaning": "to play",
         "classes": []
     },
     {
@@ -2331,7 +2331,7 @@
         "traditional": "長",
         "pinyin": "cháng",
         "zhuyin": "ㄔㄤˊ",
-        "meaning": "long; length",
+        "meaning": "long",
         "classes": []
     },
     {
@@ -2361,7 +2361,7 @@
         "traditional": "完",
         "pinyin": "wán",
         "zhuyin": "ㄨㄢˊ",
-        "meaning": "to finish; be over; complete",
+        "meaning": "to be complete",
         "classes": []
     },
     {
@@ -2371,7 +2371,7 @@
         "traditional": "每",
         "pinyin": "měi",
         "zhuyin": "ㄇㄟˇ",
-        "meaning": "each; every",
+        "meaning": "each, every",
         "classes": []
     },
     {
@@ -2381,7 +2381,7 @@
         "traditional": "公司",
         "pinyin": "gōng sī",
         "zhuyin": "ㄍㄨㄥ ㄙ",
-        "meaning": "company; corporation",
+        "meaning": "company",
         "classes": []
     },
     {
@@ -2391,7 +2391,7 @@
         "traditional": "幫助",
         "pinyin": "bāng zhù",
         "zhuyin": "ㄅㄤ ㄓㄨˋ",
-        "meaning": "help; assist; aid",
+        "meaning": "to help",
         "classes": []
     },
     {
@@ -2401,7 +2401,7 @@
         "traditional": "晚上",
         "pinyin": "wǎn shang",
         "zhuyin": "ㄨㄢˇ ㄕㄤ˙",
-        "meaning": "evening; night",
+        "meaning": "evening",
         "classes": []
     },
     {
@@ -2411,7 +2411,7 @@
         "traditional": "說話",
         "pinyin": "shuō huà",
         "zhuyin": "ㄕㄨㄛ ㄏㄨㄚˋ",
-        "meaning": "to talk; speak",
+        "meaning": "to speak",
         "classes": []
     },
     {
@@ -2421,7 +2421,7 @@
         "traditional": "門",
         "pinyin": "mén",
         "zhuyin": "ㄇㄣˊ",
-        "meaning": "door; opening; gate (Kangxi radical 169)",
+        "meaning": "door",
         "classes": [
             "KANGXIRADICAL"
         ]
@@ -2433,7 +2433,7 @@
         "traditional": "女",
         "pinyin": "nǚ",
         "zhuyin": "ㄋㄩˇ",
-        "meaning": "woman; female (Kangxi radical 38)",
+        "meaning": "woman",
         "classes": [
             "KANGXIRADICAL"
         ]
@@ -2465,7 +2465,7 @@
         "traditional": "高",
         "pinyin": "gāo",
         "zhuyin": "ㄍㄠ",
-        "meaning": "high; tall (Kangxi radical 189)",
+        "meaning": "high, tall",
         "classes": [
             "KANGXIRADICAL"
         ]
@@ -2487,7 +2487,7 @@
         "traditional": "路",
         "pinyin": "lù",
         "zhuyin": "ㄌㄨˋ",
-        "meaning": "road; path; journey; route",
+        "meaning": "road",
         "classes": []
     },
     {
@@ -2497,7 +2497,7 @@
         "traditional": "懂",
         "pinyin": "dǒng",
         "zhuyin": "ㄉㄨㄥˇ",
-        "meaning": "understand; know",
+        "meaning": "to understand, know",
         "classes": []
     },
     {
@@ -2507,7 +2507,7 @@
         "traditional": "正在",
         "pinyin": "zhèng zài",
         "zhuyin": "ㄓㄥˋ ㄗㄞˋ",
-        "meaning": "in the process of (doing something); currently",
+        "meaning": "currently",
         "classes": []
     },
     {
@@ -2517,7 +2517,7 @@
         "traditional": "笑",
         "pinyin": "xiào",
         "zhuyin": "ㄒㄧㄠˋ",
-        "meaning": "to laugh; to smile",
+        "meaning": "to laugh, smile",
         "classes": []
     },
     {
@@ -2527,7 +2527,7 @@
         "traditional": "遠",
         "pinyin": "yuǎn",
         "zhuyin": "ㄩㄢˇ",
-        "meaning": "far; distant; remote",
+        "meaning": "far",
         "classes": []
     },
     {
@@ -2549,7 +2549,7 @@
         "traditional": "丈夫",
         "pinyin": "zhàng fu",
         "zhuyin": "ㄓㄤˋ ㄈㄨ˙",
-        "meaning": "husband; man",
+        "meaning": "husband",
         "classes": [
             "FAMILY"
         ]
@@ -2561,7 +2561,7 @@
         "traditional": "離",
         "pinyin": "lí",
         "zhuyin": "ㄌㄧˊ",
-        "meaning": "leave; depart; go away; apart from",
+        "meaning": "leave",
         "classes": []
     },
     {
@@ -2571,7 +2571,7 @@
         "traditional": "往",
         "pinyin": "wǎng",
         "zhuyin": "ㄨㄤˇ",
-        "meaning": "to go (in a direction); towards; in the past",
+        "meaning": "to head towards",
         "classes": []
     },
     {
@@ -2613,7 +2613,7 @@
         "traditional": "雖然",
         "pinyin": "suī rán",
         "zhuyin": "ㄙㄨㄟ ㄖㄢˊ",
-        "meaning": "although; even though",
+        "meaning": "although",
         "classes": []
     },
     {
@@ -2623,7 +2623,7 @@
         "traditional": "早上",
         "pinyin": "zǎo shang",
         "zhuyin": "ㄗㄠˇ ㄕㄤ˙",
-        "meaning": "(early) morning",
+        "meaning": "early morning",
         "classes": []
     },
     {
@@ -2633,7 +2633,7 @@
         "traditional": "藥",
         "pinyin": "yào",
         "zhuyin": "ㄧㄠˋ",
-        "meaning": "medicine; drug; cure; chemical",
+        "meaning": "medicine",
         "classes": []
     },
     {
@@ -2643,7 +2643,7 @@
         "traditional": "身體",
         "pinyin": "shēn tǐ",
         "zhuyin": "ㄕㄣ ㄊㄧˇ",
-        "meaning": "health; (human) body",
+        "meaning": "health",
         "classes": []
     },
     {
@@ -2653,7 +2653,7 @@
         "traditional": "黑",
         "pinyin": "hēi",
         "zhuyin": "ㄏㄟ",
-        "meaning": "black; dark (Kangxi radical 203); Heilongjiang province (abbreviation)",
+        "meaning": "black",
         "classes": [
             "KANGXIRADICAL"
         ]
@@ -2675,7 +2675,7 @@
         "traditional": "日",
         "pinyin": "rì",
         "zhuyin": "ㄖˋ",
-        "meaning": "sun; day; date; time (Kangxi radical 72)",
+        "meaning": "sun; day",
         "classes": [
             "KANGXIRADICAL"
         ]
@@ -2687,7 +2687,7 @@
         "traditional": "休息",
         "pinyin": "xiū xi",
         "zhuyin": "ㄒㄧㄡ ㄒㄧ˙",
-        "meaning": "to rest; take a break",
+        "meaning": "take a break",
         "classes": []
     },
     {
@@ -2697,7 +2697,7 @@
         "traditional": "外",
         "pinyin": "wài",
         "zhuyin": "ㄨㄞˋ",
-        "meaning": "outer; outside; in addition; foreign",
+        "meaning": "outside",
         "classes": []
     },
     {
@@ -2729,7 +2729,7 @@
         "traditional": "票",
         "pinyin": "piào",
         "zhuyin": "ㄆㄧㄠˋ",
-        "meaning": "ticket; bank note; a vote",
+        "meaning": "ticket",
         "classes": []
     },
     {
@@ -2739,7 +2739,7 @@
         "traditional": "手機",
         "pinyin": "shǒu jī",
         "zhuyin": "ㄕㄡˇ ㄐㄧ",
-        "meaning": "mobile (cell) phone",
+        "meaning": "cell phone",
         "classes": []
     },
     {
@@ -2749,7 +2749,7 @@
         "traditional": "洗",
         "pinyin": "xǐ",
         "zhuyin": "ㄒㄧˇ",
-        "meaning": "to wash; bathe",
+        "meaning": "to wash",
         "classes": []
     },
     {
@@ -2793,7 +2793,7 @@
         "traditional": "紅",
         "pinyin": "hóng",
         "zhuyin": "ㄏㄨㄥˊ",
-        "meaning": "red; symbol of success; bonus; popular",
+        "meaning": "red",
         "classes": [
             "COLOR"
         ]
@@ -2815,7 +2815,7 @@
         "traditional": "近",
         "pinyin": "jìn",
         "zhuyin": "ㄐㄧㄣˋ",
-        "meaning": "near; close (to)",
+        "meaning": "near",
         "classes": []
     },
     {
@@ -2837,7 +2837,7 @@
         "traditional": "白",
         "pinyin": "bó",
         "zhuyin": "ㄅㄛˊ",
-        "meaning": "white; snowy; pure; bright; empty (Kangxi radical 106)",
+        "meaning": "white",
         "classes": [
             "KANGXIRADICAL"
         ]
@@ -2861,7 +2861,7 @@
         "traditional": "介紹",
         "pinyin": "jiè shào",
         "zhuyin": "ㄐㄧㄝˋ ㄕㄠˋ",
-        "meaning": "to introduce; recommend; introduction",
+        "meaning": "to introduce",
         "classes": []
     },
     {
@@ -2871,7 +2871,7 @@
         "traditional": "魚",
         "pinyin": "yú",
         "zhuyin": "ㄩˊ",
-        "meaning": "fish (Kangxi radical 195)",
+        "meaning": "fish",
         "classes": [
             "KANGXIRADICAL"
         ]
@@ -2913,7 +2913,7 @@
         "traditional": "課",
         "pinyin": "kè",
         "zhuyin": "ㄎㄜˋ",
-        "meaning": "class; subject; lesson; course",
+        "meaning": "class, lesson",
         "classes": []
     },
     {
@@ -2923,7 +2923,7 @@
         "traditional": "上班",
         "pinyin": "shàng  bān",
         "zhuyin": "ㄕㄤˋ  ㄅㄢ",
-        "meaning": "go to work; be on duty",
+        "meaning": "to go to work",
         "classes": []
     },
     {
@@ -2943,7 +2943,7 @@
         "traditional": "運動",
         "pinyin": "yùn dòng",
         "zhuyin": "ㄩㄣˋ ㄉㄨㄥˋ",
-        "meaning": "(physical) exercise; movement; sports; campaign",
+        "meaning": "physical exercise",
         "classes": []
     },
     {
@@ -2985,7 +2985,7 @@
         "traditional": "機場",
         "pinyin": "jī chǎng",
         "zhuyin": "ㄐㄧ ㄔㄤˇ",
-        "meaning": "airport; airfield",
+        "meaning": "airport",
         "classes": []
     },
     {
@@ -2995,7 +2995,7 @@
         "traditional": "唱歌",
         "pinyin": "chàng gē",
         "zhuyin": "ㄔㄤˋ ㄍㄜ",
-        "meaning": "sing (a song)",
+        "meaning": "sing",
         "classes": []
     },
     {
@@ -3027,7 +3027,7 @@
         "traditional": "考試",
         "pinyin": "kǎo shì",
         "zhuyin": "ㄎㄠˇ ㄕˋ",
-        "meaning": "test; exam; to give or take a test",
+        "meaning": "test, exam",
         "classes": []
     },
     {
@@ -3037,7 +3037,7 @@
         "traditional": "左邊",
         "pinyin": "zuǒ bian",
         "zhuyin": "ㄗㄨㄛˇ ㄅㄧㄢ˙",
-        "meaning": "the left side; the left",
+        "meaning": "the left",
         "classes": []
     },
     {
@@ -3047,7 +3047,7 @@
         "traditional": "姓",
         "pinyin": "xìng",
         "zhuyin": "ㄒㄧㄥˋ",
-        "meaning": "surname; family name",
+        "meaning": "family name",
         "classes": []
     },
     {
@@ -3079,7 +3079,7 @@
         "traditional": "貴",
         "pinyin": "guì",
         "zhuyin": "ㄍㄨㄟˋ",
-        "meaning": "expensive; noble; honorable; Guizhou province (abbreviation)",
+        "meaning": "expensive",
         "classes": []
     },
     {
@@ -3089,7 +3089,7 @@
         "traditional": "生病",
         "pinyin": "shēng  bìng",
         "zhuyin": "ㄕㄥ  ㄅㄧㄥˋ",
-        "meaning": "get sick; fall ill",
+        "meaning": "to get sick",
         "classes": []
     },
     {
@@ -3119,7 +3119,7 @@
         "traditional": "右邊",
         "pinyin": "yòu bian",
         "zhuyin": "ㄧㄡˋ ㄅㄧㄢ˙",
-        "meaning": "the right (as opposed to left) side",
+        "meaning": "the right",
         "classes": []
     },
     {
@@ -3139,7 +3139,7 @@
         "traditional": "公共汽車",
         "pinyin": "gōng gòng  qì chē",
         "zhuyin": "ㄍㄨㄥ ㄍㄨㄥˋ  ㄑㄧˋ ㄔㄜ",
-        "meaning": "(public) bus",
+        "meaning": "bus",
         "classes": []
     },
     {
@@ -3149,7 +3149,7 @@
         "traditional": "起床",
         "pinyin": "qǐ  chuáng",
         "zhuyin": "ㄑㄧˇ  ㄔㄨㄤˊ",
-        "meaning": "get out of bed",
+        "meaning": "to get out of bed",
         "classes": []
     },
     {
@@ -3159,7 +3159,7 @@
         "traditional": "打籃球",
         "pinyin": "dǎ  lán qiú",
         "zhuyin": "ㄉㄚˇ  ㄌㄢˊ ㄑㄧㄡˊ",
-        "meaning": "play basketball",
+        "meaning": "to play basketball",
         "classes": []
     },
     {
@@ -3169,7 +3169,7 @@
         "traditional": "雞蛋",
         "pinyin": "jī dàn",
         "zhuyin": "ㄐㄧ ㄉㄢˋ",
-        "meaning": "(chicken) egg",
+        "meaning": "chicken egg",
         "classes": []
     },
     {
@@ -3189,7 +3189,7 @@
         "traditional": "零",
         "pinyin": "líng",
         "zhuyin": "ㄌㄧㄥˊ",
-        "meaning": "zero; remnant",
+        "meaning": "zero",
         "classes": [
             "NUMBER"
         ]
@@ -3211,7 +3211,7 @@
         "traditional": "旅游",
         "pinyin": "lǚ yóu",
         "zhuyin": "ㄌㄩˇ ㄧㄡˊ",
-        "meaning": "trip; journey; tour",
+        "meaning": "trip",
         "classes": []
     },
     {
@@ -3221,7 +3221,7 @@
         "traditional": "服務員",
         "pinyin": "fú wù yuán",
         "zhuyin": "ㄈㄨˊ ㄨˋ ㄩㄢˊ",
-        "meaning": "waiter/waitress; server; attendant",
+        "meaning": "waiter, waitress",
         "classes": []
     },
     {
@@ -3231,7 +3231,7 @@
         "traditional": "賓館",
         "pinyin": "bīn guǎn",
         "zhuyin": "ㄅㄧㄣ ㄍㄨㄢˇ",
-        "meaning": "guesthouse; hotel",
+        "meaning": "hotel",
         "classes": []
     },
     {
@@ -3251,7 +3251,7 @@
         "traditional": "跑步",
         "pinyin": "pǎo  bù",
         "zhuyin": "ㄆㄠˇ  ㄅㄨˋ",
-        "meaning": "to run; to jog",
+        "meaning": "to run",
         "classes": []
     },
     {
@@ -3261,7 +3261,7 @@
         "traditional": "陰",
         "pinyin": "yīn",
         "zhuyin": "ㄧㄣ",
-        "meaning": "cloudy (weather); yin (the negative principle of Yin and Yang); secret; the moon; negative; shade",
+        "meaning": "cloudy; yin [yin and yang]",
         "classes": []
     },
     {
@@ -3311,7 +3311,7 @@
         "traditional": "羊肉",
         "pinyin": "yáng ròu",
         "zhuyin": "ㄧㄤˊ ㄖㄡˋ",
-        "meaning": "mutton; lamb",
+        "meaning": "lamb",
         "classes": []
     },
     {
@@ -3321,7 +3321,7 @@
         "traditional": "晴",
         "pinyin": "qíng",
         "zhuyin": "ㄑㄧㄥˊ",
-        "meaning": "clear; fine (as of weather)",
+        "meaning": "lovely weather",
         "classes": []
     },
     {
