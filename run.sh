@@ -35,6 +35,7 @@ python -m transforms.03_classes    build/words.01.json build/words.02.json
 python -m transforms.04_meanings   build/words.02.json build/words.03.json
 python -m transforms.05_sort       build/words.03.json build/words.99.json
 
+python -m transforms.98_kotoba_csv build/words.03.json build/words.99.json
 python -m transforms.99_csv build/words.99.json build/deck.csv
 
 cp build/deck.csv output/

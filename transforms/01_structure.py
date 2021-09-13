@@ -94,8 +94,8 @@ for i, word in enumerate(words, start=1):
         'duplicate': word.duplicate,
         'simplified': word.simple,
         'traditional': word.trad,
-        'pinyin': pinyin,
-#        'pinyin2': ' '.join(word.pinyin2),
+        'pinyin': pinyin.lower(),
+        'pinyin2': ' '.join(word.pinyin2).lower(),
         'zhuyin': zhuyin,
         'meaning': word.meaning,
     })
