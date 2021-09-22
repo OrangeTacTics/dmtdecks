@@ -14,7 +14,9 @@ def words_by_hsk(words, i):
     return [w for w in words if w['hsk'] == i]
 
 
+
 for i in range(1, 7):
+    seen_questions = set()
     with open(f'output/kotoba_{i}.csv', 'w') as outfile:
         fieldnames = [
             'Question',
@@ -27,16 +29,20 @@ for i in range(1, 7):
         writer = csv.DictWriter(outfile, fieldnames=fieldnames)
 
         for word in words_by_hsk(words, i):
-            answers = list({
-                word['pinyin'],
-                word['pinyin'].replace(' ', ''),
-                word['pinyin2'],
-                word['pinyin2'].replace(' ', ''),
-            })
-            writer.writerow({
-                'Question': word['simplified'],
-                'Answers':  ','.join(answers),
-                'Comment': word['meaning'],
-                'Instructions': 'Type the reading, Comrade',
-                'Render as': 'Image',
-            })
+            question = word['simplified']
+            if question not in seen_questions:
+                seen_questions.add(question)
+
+                answers = list({
+                    word['pinyin'],
+                    word['pinyin'].replace(' ', ''),
+                    word['pinyin2'],
+                    word['pinyin2'].replace(' ', ''),
+                })
+                writer.writerow({
+                    'Question': question,
+                    'Answers':  ','.join(answers),
+                    'Comment': word['meaning'],
+                    'Instructions': 'Type the reading, Comrade',
+                    'Render as': 'Image',
+                })
