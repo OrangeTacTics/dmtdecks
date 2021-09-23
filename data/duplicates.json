@@ -15,6 +15,8 @@
         "pinyin": "yāo",
         "meaning": "to demand something"
     },
+    #Yao1 is a bound morpheme. "Yao1qiu2" to request. Suggest removal.
+    
     "155": {
         "hsk": 2,
         "duplicate": true,
@@ -23,6 +25,7 @@
         "pinyin": "ba",
         "meaning": "right?"
     },
+
     "156": {
         "hsk": 2,
         "duplicate": true,
@@ -31,6 +34,8 @@
         "pinyin": "bā",
         "meaning": "bar, pub"
     },
+    #Ba1 is a bound morpheme. "Jiu3ba1" pub. Suggest removal.
+
     "160": {
         "hsk": 2,
         "duplicate": true,
@@ -63,6 +68,8 @@
         "pinyin": "jǐ",
         "meaning": "provide"
     },
+    #Ji3 is a bound morpheme. "Bu3ji3" supply. Suggest removal.
+
     "166": {
         "hsk": 2,
         "duplicate": true,
@@ -87,6 +94,8 @@
         "pinyin": "de",
         "meaning": "[complement particle]"
     },
+    #De is a grammatical construct. Not part of the lexicon. Suggest removal.
+
     "170": {
         "hsk": 2,
         "duplicate": true,
@@ -95,6 +104,8 @@
         "pinyin": "zhe",
         "meaning": "to be 〜 ing [progressive tense]"
     },
+    #Zhe is a grammatical construct. Suggest removal.
+
     "171": {
         "hsk": 2,
         "duplicate": true,
@@ -103,6 +114,9 @@
         "pinyin": "zháo",
         "meaning": "to touch"
     },
+    #Zhao2 meaning "to touch" occurs as a bound morpheme. "Zhao2liang2" to 'touch'(catch) cold.
+    #Zhao2 as a free morpheme means "to be ignited/lit". "Huo3 zhao2le" The fire is lit. Suggest change in meaning.
+
     "172": {
         "hsk": 2,
         "duplicate": true,
@@ -111,6 +125,8 @@
         "pinyin": "zhuó",
         "meaning": "to wear"
     },
+    #Zhuo2 is a bound morpheme. "Zhuo2shou3" to set about doing something. Suggest removal.
+
     "174": {
         "hsk": 2,
         "duplicate": true,
@@ -127,6 +143,8 @@
         "pinyin": "biè",
         "meaning": ""
     },
+    #Bie4 is a bound morpheme. "Bie4niu5" awkward. Suggest removal.
+
     "219": {
         "hsk": 2,
         "duplicate": true,
@@ -159,6 +177,8 @@
         "pinyin": "bó",
         "meaning": ""
     },
+    #Bo2 is an alternate reading. You only see this in rare cases like the name of the poet Li3 Bai2, which is sometimes pronounced as Li3 Bo2. Suggest removal.
+
     "271": {
         "hsk": 2,
         "duplicate": true,
@@ -175,6 +195,8 @@
         "pinyin": "lěi",
         "meaning": "to accumulate"
     },
+    #Lei3 is a bound morpheme. "Lei3ji1" to accumulate. Suggest removal.
+
     "273": {
         "hsk": 2,
         "duplicate": true,
@@ -183,6 +205,8 @@
         "pinyin": "léi",
         "meaning": "to tie together"
     },
+    #Lei2 is also a bound morpheme. "Lei2zhui5" a nuisance/troublesome. Suggest removal.
+
     "315": {
         "hsk": 3,
         "duplicate": true,
@@ -191,6 +215,8 @@
         "pinyin": "ā",
         "meaning": ""
     },
+    #This
+
     "316": {
         "hsk": 3,
         "duplicate": true,
@@ -199,6 +225,8 @@
         "pinyin": "á",
         "meaning": ""
     },
+    #Is
+
     "317": {
         "hsk": 3,
         "duplicate": true,
@@ -207,6 +235,8 @@
         "pinyin": "ǎ",
         "meaning": ""
     },
+    #Pretty
+
     "318": {
         "hsk": 3,
         "duplicate": true,
@@ -215,6 +245,8 @@
         "pinyin": "à",
         "meaning": ""
     },
+    #Retarded. Suggest removal.
+
     "319": {
         "hsk": 3,
         "duplicate": true,
@@ -231,6 +263,8 @@
         "pinyin": "hái",
         "meaning": ""
     },
+    #Hai2 is an adverb. Suggest adding meaning "still"
+
     "321": {
         "hsk": 3,
         "duplicate": true,
@@ -239,6 +273,8 @@
         "pinyin": "huán",
         "meaning": ""
     },
+    #Huan2 is a verb. Suggest adding meaning "to return sth"
+
     "322": {
         "hsk": 3,
         "duplicate": true,
@@ -247,6 +283,9 @@
         "pinyin": "bǎ",
         "meaning": "to hold"
     },
+    #Ba3 meaning "to hold" occurs more often as a bound morpheme. "Ba3wo4" Haaku, to grasp.
+    #Suggest changing meaning. 1) Ba3 is a counter word. "Yi ba3 Dao1" a knife. 2) Ba3 is also a grammatical construct, not a lexical item, so this definition is unnecessary.
+
     "323": {
         "hsk": 3,
         "duplicate": true,
@@ -255,6 +294,8 @@
         "pinyin": "bà",
         "meaning": ""
     },
+    #Ba4 is a variant reading. Never seen it used. Suggest removal.
+
     "326": {
         "hsk": 3,
         "duplicate": true,
@@ -279,6 +320,8 @@
         "pinyin": "wéi",
         "meaning": "become"
     },
+    #Wei2 is a bound morpheme. "Cheng2wei2" to become. Suggest removal.
+
     "334": {
         "hsk": 3,
         "duplicate": true,
@@ -303,6 +346,8 @@
         "pinyin": "gēng",
         "meaning": "to change"
     },
+    #Geng1 is a bound morpheme. "Geng1xin1" Koushin, renewal. Suggest removal.
+
     "351": {
         "hsk": 3,
         "duplicate": true,
@@ -319,6 +364,8 @@
         "pinyin": "de",
         "meaning": "〜ly [adverbial particle]"
     },
+    #De is a grammatical construction. Suggest removal.
+
     "357": {
         "hsk": 3,
         "duplicate": true,
@@ -335,6 +382,8 @@
         "pinyin": "fà",
         "meaning": "hair"
     },
+    #Fa4 is a bound morpheme. "Tou2fa5" hair. Fa4 is the Taiwan pronunciation. Suggest removal.
+
     "368": {
         "hsk": 3,
         "duplicate": true,
@@ -359,6 +408,8 @@
         "pinyin": "cháng",
         "meaning": ""
     },
+    #This one is in HSK 2. Suggest removal?
+
     "379": {
         "hsk": 3,
         "duplicate": true,
@@ -367,6 +418,8 @@
         "pinyin": "zhǎng",
         "meaning": ""
     },
+    #Also in HSK 2. Suggest removal?
+
     "393": {
         "hsk": 3,
         "duplicate": true,
@@ -383,6 +436,8 @@
         "pinyin": "nàn",
         "meaning": "trouble; to blame"
     },
+    #Nan4 is a bound morpheme. "Nan4min2" Nanmin, refugee. Suggest removal.
+
     "438": {
         "hsk": 3,
         "duplicate": true,
@@ -399,6 +454,8 @@
         "pinyin": "fèn",
         "meaning": "a part of something"
     },
+    #Fen4 is a bound morpheme. "Zhi1shi4 Fen4zi3" Intellectuals. Suggest removal.
+
     "445": {
         "hsk": 3,
         "duplicate": true,
@@ -415,6 +472,8 @@
         "pinyin": "jiào",
         "meaning": "religion"
     },
+    #Jiao4 is a bound morpheme, very common. "Jiao4yu4" Kyouiku, education. "Jiao4shi1" Kyoushi, teacher. Suggest removal.
+
     "486": {
         "hsk": 3,
         "duplicate": true,
@@ -431,6 +490,8 @@
         "pinyin": "chā",
         "meaning": "difference"
     },
+    #Cha1 is a bound morpheme. "Cha1bie2" difference. Suggest removal.
+
     "488": {
         "hsk": 3,
         "duplicate": true,
@@ -439,6 +500,8 @@
         "pinyin": "chāi",
         "meaning": ""
     },
+    #Chai1 is a bound morpheme. "Chu1chai1" business trip. Suggest removal.
+
     "489": {
         "hsk": 3,
         "duplicate": true,
@@ -447,6 +510,8 @@
         "pinyin": "cī",
         "meaning": ""
     },
+    #Never seen this reading before. I don't find it in my dictionary either. Suggest removal.
+
     "542": {
         "hsk": 3,
         "duplicate": true,
@@ -455,6 +520,7 @@
         "pinyin": "jiǎo",
         "meaning": "corner, angle"
     },
+    
     "543": {
         "hsk": 3,
         "duplicate": true,
@@ -463,6 +529,8 @@
         "pinyin": "jué",
         "meaning": ""
     },
+    #Jue2 is a bound morpheme. "Jue2se4" character. Suggest removal.
+
     "635": {
         "hsk": 4,
         "duplicate": true,
@@ -471,6 +539,8 @@
         "pinyin": "dé",
         "meaning": ""
     },
+    #HSK 2. Removal?
+
     "636": {
         "hsk": 4,
         "duplicate": true,
@@ -479,6 +549,8 @@
         "pinyin": "děi",
         "meaning": ""
     },
+    #As above.
+
     "637": {
         "hsk": 4,
         "duplicate": true,
@@ -487,6 +559,8 @@
         "pinyin": "de",
         "meaning": ""
     },
+    #As above.
+
     "639": {
         "hsk": 4,
         "duplicate": true,
@@ -495,6 +569,8 @@
         "pinyin": "gàn",
         "meaning": ""
     },
+    #Suggest adding meaning. "to do, to work".
+
     "640": {
         "hsk": 4,
         "duplicate": true,
@@ -503,6 +579,7 @@
         "pinyin": "gān",
         "meaning": "dry"
     },
+
     "643": {
         "hsk": 4,
         "duplicate": true,
@@ -519,6 +596,8 @@
         "pinyin": "dàng",
         "meaning": "appropriate"
     },
+    #Bound morpheme. "Shi4dang4" Tekitou, suitable. Suggest removal.
+
     "647": {
         "hsk": 4,
         "duplicate": true,
@@ -527,6 +606,8 @@
         "pinyin": "xíng",
         "meaning": "walk; be current; do; will do; okay | row; place; a firm (Kangxi radical 144)"
     },
+    #Suggest changing meaning to "decent, will do, good enough"
+
     "648": {
         "hsk": 4,
         "duplicate": true,
@@ -535,6 +616,8 @@
         "pinyin": "háng",
         "meaning": "walk; be current; do; will do; okay | row; place; a firm (Kangxi radical 144)"
     },
+    #Bound morpheme. "Yin2hang2" Ginkou, bank. Suggest removal.
+
     "663": {
         "hsk": 4,
         "duplicate": true,
@@ -543,6 +626,8 @@
         "pinyin": "yǔ",
         "meaning": "(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
     },
+    #Suggest changing meaning to "and (formal)".
+
     "664": {
         "hsk": 4,
         "duplicate": true,
@@ -551,6 +636,8 @@
         "pinyin": "yù",
         "meaning": "(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
     },
+    #Bound morpheme. "Can1Yu4" to participate in sth. Suggest removal.
+
     "665": {
         "hsk": 4,
         "duplicate": true,
@@ -559,6 +646,8 @@
         "pinyin": "yú",
         "meaning": "(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
     },
+    #Literary Chinese. Demand removal.
+
     "666": {
         "hsk": 4,
         "duplicate": true,
@@ -575,6 +664,8 @@
         "pinyin": "lòng",
         "meaning": "do; manage; to handle; make | lane; alley"
     },
+    #Dialect pronunciation. Suggest removal.
+
     "677": {
         "hsk": 4,
         "duplicate": true,
@@ -591,6 +682,8 @@
         "pinyin": "cháng",
         "meaning": "courtyard; place; field; (mw for games, performances, etc.) | threshing floor"
     },
+    #Chang2 is a counter word for a period of sth. Suggest changing meaning as such. "Yi chang2 Da4bing4" a bout of serious illness.
+
     "680": {
         "hsk": 4,
         "duplicate": true,
@@ -607,6 +700,8 @@
         "pinyin": "yā",
         "meaning": "ah; oh; (used for 啊 after words ending with a, e, i, o, or ü)"
     },
+    #Tone is irrelevant here. Suggest removal.
+
     "692": {
         "hsk": 4,
         "duplicate": true,
@@ -623,6 +718,8 @@
         "pinyin": "liǎng",
         "meaning": ""
     },
+    #Bound morpheme. Suggest removal.
+
     "700": {
         "hsk": 4,
         "duplicate": true,
@@ -631,6 +728,8 @@
         "pinyin": "lā",
         "meaning": "to pull; to play (string instruments); to drag | to slash; to chat"
     },
+    #Suggest removing the second meaning.
+
     "701": {
         "hsk": 4,
         "duplicate": true,
@@ -639,6 +738,8 @@
         "pinyin": "lá",
         "meaning": "to pull; to play (string instruments); to drag | to slash; to chat"
     },
+    #Suggest removing the first meaning.
+
     "734": {
         "hsk": 4,
         "duplicate": true,
@@ -647,6 +748,8 @@
         "pinyin": "dǎo",
         "meaning": "to collapse; to fall; fail; to exchange | to pour; contrary to expectations"
     },
+    #Suggest simplifying meaning to "to topple, to collapse".
+
     "735": {
         "hsk": 4,
         "duplicate": true,
@@ -655,6 +758,8 @@
         "pinyin": "dào",
         "meaning": "to collapse; to fall; fail; to exchange | to pour; contrary to expectations"
     },
+    #Suggest changing meaning to "to pour". "Dao4 Cha2" to pour tea.
+
     "751": {
         "hsk": 4,
         "duplicate": true,
@@ -663,6 +768,8 @@
         "pinyin": "zhòng",
         "meaning": "heavy; serious; important | repeat; again; overlap"
     },
+    #Suggest removing second meaning.
+
     "752": {
         "hsk": 4,
         "duplicate": true,
@@ -671,6 +778,8 @@
         "pinyin": "chóng",
         "meaning": "heavy; serious; important | repeat; again; overlap"
     },
+    #Suggest removing first meaning.
+
     "755": {
         "hsk": 4,
         "duplicate": true,
@@ -679,6 +788,8 @@
         "pinyin": "zhuǎn",
         "meaning": "to turn; to change; pass on | revolve; rotate"
     },
+    #Suggest removing second meaning.
+
     "756": {
         "hsk": 4,
         "duplicate": true,
@@ -687,6 +798,8 @@
         "pinyin": "zhuàn",
         "meaning": "to turn; to change; pass on | revolve; rotate"
     },
+    #Suggest removing first meaning
+
     "809": {
         "hsk": 4,
         "duplicate": true,
@@ -695,6 +808,8 @@
         "pinyin": "jiǎ",
         "meaning": "fake; if; borrow | vacation; holiday"
     },
+    #Suggest removing second meaning, and simplify meaning to "fake".
+
     "810": {
         "hsk": 4,
         "duplicate": true,
@@ -703,6 +818,8 @@
         "pinyin": "jià",
         "meaning": "fake; if; borrow | vacation; holiday"
     },
+    #Bound morpheme. "Shu3jia4" Natsuyasumi. Suggest removal.
+
     "883": {
         "hsk": 4,
         "duplicate": true,
@@ -711,6 +828,8 @@
         "pinyin": "kōng",
         "meaning": "empty; sky | leave blank; leisure"
     },
+    #Suggest removing second meaning, and simplify meaning to "empty".
+
     "884": {
         "hsk": 4,
         "duplicate": true,
@@ -719,6 +838,8 @@
         "pinyin": "kòng",
         "meaning": "empty; sky | leave blank; leisure"
     },
+    #Suggest removing first meaning, and simplify meaning to "to be free, not occupied, having free time".
+
     "905": {
         "hsk": 4,
         "duplicate": true,
@@ -727,6 +848,8 @@
         "pinyin": "zhuàn",
         "meaning": "earn; make a profit | to cheat; to swindle"
     },
+    #Suggest removing second meaning because dialect.
+
     "906": {
         "hsk": 4,
         "duplicate": true,
@@ -735,6 +858,8 @@
         "pinyin": "zuàn",
         "meaning": "earn; make a profit | to cheat; to swindle"
     },
+    #Dialect. Suggest removal.
+
     "960": {
         "hsk": 4,
         "duplicate": true,
@@ -743,6 +868,8 @@
         "pinyin": "tàng",
         "meaning": "(mw for trips times) | to wade"
     },
+    #Suggest removing second meaning.
+
     "961": {
         "hsk": 4,
         "duplicate": true,
@@ -751,6 +878,8 @@
         "pinyin": "tāng",
         "meaning": "(mw for trips times) | to wade"
     },
+    #Variant character for Tang1. Suggest removing first meaning, or deleting the entry altogether.
+
     "971": {
         "hsk": 4,
         "duplicate": true,
@@ -759,6 +888,8 @@
         "pinyin": "zāng",
         "meaning": "filthy; dirty | internal organs; viscera"
     },
+    #Suggest removing second meaning. "Ang1zang1" dirty. A case of simplification mishap. Correct traditional character is 髒.
+
     "972": {
         "hsk": 4,
         "duplicate": true,
@@ -767,6 +898,8 @@
         "pinyin": "zàng",
         "meaning": "filthy; dirty | internal organs; viscera"
     },
+    #Bound morpheme. Suggest removal.
+
     "982": {
         "hsk": 4,
         "duplicate": true,
@@ -775,6 +908,8 @@
         "pinyin": "shěng",
         "meaning": "to save; economize; omit; province | examine oneself; to visit; be aware"
     },
+    #Suggest removing second meaning.
+    
     "983": {
         "hsk": 4,
         "duplicate": true,
@@ -783,6 +918,8 @@
         "pinyin": "xǐng",
         "meaning": "to save; economize; omit; province | examine oneself; to visit; be aware"
     },
+    #Bound morpheme. "Fan3xing3" Hansei, self-reflection. Suggest removal.
+
     "1112": {
         "hsk": 4,
         "duplicate": true,
@@ -791,6 +928,8 @@
         "pinyin": "hàn",
         "meaning": "sweat; perspiration; Khan"
     },
+    #Suggest removing Khan from the meaning.
+
     "1113": {
         "hsk": 4,
         "duplicate": true,
@@ -799,6 +938,8 @@
         "pinyin": "hán",
         "meaning": "sweat; perspiration; Khan"
     },
+    #Abbreviation for "Ke4han2" Khan. Suggest removal.
+
     "1257": {
         "hsk": 5,
         "duplicate": true,
@@ -807,6 +948,8 @@
         "pinyin": "ēn",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
     },
+    #Notto
+
     "1258": {
         "hsk": 5,
         "duplicate": true,
@@ -815,6 +958,8 @@
         "pinyin": "én",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
     },
+    #Disu
+
     "1259": {
         "hsk": 5,
         "duplicate": true,
@@ -823,6 +968,8 @@
         "pinyin": "ěn",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
     },
+    #Shitto
+
     "1260": {
         "hsk": 5,
         "duplicate": true,
@@ -831,6 +978,8 @@
         "pinyin": "èn",
         "meaning": "groaning sound | (interjection expressing what?, huh? hmm? why? ok, etc.)"
     },
+    #Agen. Suggest removal.
+
     "1261": {
         "hsk": 5,
         "duplicate": true,
